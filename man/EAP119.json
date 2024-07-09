@@ -1,1 +1,2130 @@
-{"@context": "http://iiif.io/api/presentation/3/context.json", "id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main//EAP119/manifest.json", "type": "Manifest", "label": {"en": ["Test Book"]}, "behavior": ["paged"], "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 759, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 759, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 778, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 778, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 752, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 752, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 767, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 767, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 768, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 768, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 798, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 798, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 747, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 747, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 759, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 759, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 796, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 796, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 776, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 776, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 777, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 777, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 779, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 779, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 781, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 781, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 803, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 803, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 805, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 805, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 820, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 820, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 759, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 759, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 788, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 788, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 757, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 757, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 735, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 735, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 776, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 776, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 774, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 774, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 784, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 784, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 817, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 817, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 792, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 792, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 786, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 786, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 755, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 755, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 794, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 794, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 772, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 772, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 764, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 764, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 799, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 799, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 791, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 791, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 793, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 793, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 814, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 814, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 803, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 803, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 783, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 783, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 802, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 802, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 778, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 778, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 819, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 819, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 780, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 780, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 773, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 773, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 785, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 785, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 764, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 764, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 763, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 763, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 756, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 756, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 791, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 791, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2"}]}]}, {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2", "type": "Canvas", "label": {"en": ["img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg"]}, "height": 1200, "width": 753, "seeAlso": {"@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg.xml", "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd", "format": "text/xml", "label": "METS-ALTO XML"}, "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2", "type": "AnnotationPage", "items": [{"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2", "type": "Annotation", "motivation": "painting", "body": {"id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg", "type": "Image", "height": 1200, "width": 753, "service": [{"@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2", "@type": "ImageService2", "profile": "http://iiif.io/api/image/2/level2.json"}], "format": "image/jpeg"}, "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2"}]}]}]}
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/man/EAP119.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Test Book"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 759,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 759,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/106.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 778,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 778,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/10.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 752,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 752,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/11.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 767,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 767,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/12.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 768,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 768,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/13.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 798,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 798,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/14.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 747,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 747,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/15.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 759,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 759,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/16.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 796,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 796,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/17.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 776,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 776,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/1.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 777,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 777,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/20.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 779,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 779,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/21.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 781,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 781,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/22.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 803,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 803,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/23.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 805,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 805,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/24.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 820,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 820,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/25.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 759,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 759,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/28.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 788,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 788,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/29.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 757,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 757,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/2.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 735,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 735,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/30.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 776,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 776,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/31.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 774,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 774,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/32.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 784,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 784,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/33.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 817,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 817,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/34.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 792,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 792,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/35.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 786,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 786,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/36.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 755,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 755,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/37.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 794,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 794,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/38.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 772,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 772,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/39.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 764,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 764,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/3.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 799,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 799,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/40.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 791,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 791,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/41.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 793,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 793,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/42.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 814,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 814,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/43.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 803,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 803,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/44.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 783,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 783,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/45.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 802,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 802,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/46.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 778,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 778,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/47.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 819,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 819,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/48.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 780,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 780,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/49.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 773,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 773,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/4.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 785,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 785,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/50.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 764,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 764,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/5.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 763,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 763,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/6.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 756,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 756,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/7.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 791,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 791,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/8.jp2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg"
+        ]
+      },
+      "height": 1200,
+      "width": 753,
+      "seeAlso": {
+        "@id": "https://raw.githubusercontent.com/dasmiq/iiif-demo/main/img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg.xml",
+        "profile": "http://www.loc.gov/standards/alto/v3/alto.xsd",
+        "format": "text/xml",
+        "label": "METS-ALTO XML"
+      },
+      "items": [
+        {
+          "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 1200,
+                "width": 753,
+                "service": [
+                  {
+                    "@id": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://images.eap.bl.uk/EAP119/EAP119_1_4_1/9.jp2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
