@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,56 +10,56 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="747" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="747" HEIGHT="1200">
+    <Page WIDTH="1536.330249" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1536.330249" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="276" VPOS="153" WIDTH="205" HEIGHT="54" BASELINE="276 207 481 207">
+          <TextLine HPOS="567.640092" VPOS="314.670051" WIDTH="421.616735" HEIGHT="111.060018" BASELINE="567.640092 425.730069 989.256827 425.730069">
             <Shape>
-              <Polygon POINTS="276 153 276 207 481 207 481 153"/>
+              <Polygon POINTS="567.640092 314.670051 567.640092 425.730069 989.256827 425.730069 989.256827 314.670051"/>
             </Shape>
-            <String CONTENT="النعام في الحضارة المصرية" HPOS="276" VPOS="153" WIDTH="205" HEIGHT="54"/>
+            <String CONTENT="النعام في الحضارة المصرية" HPOS="567.640092" VPOS="314.670051" WIDTH="421.616735" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="75" VPOS="246" WIDTH="571" HEIGHT="60" BASELINE="75 306 646 306">
+          <TextLine HPOS="154.250025" VPOS="505.940082" WIDTH="1174.356857" HEIGHT="123.40002" BASELINE="154.250025 629.340102 1328.606882 629.340102">
             <Shape>
-              <Polygon POINTS="75 246 75 306 646 306 646 246"/>
+              <Polygon POINTS="154.250025 505.940082 154.250025 629.340102 1328.606882 629.340102 1328.606882 505.940082"/>
             </Shape>
-            <String CONTENT="امة اعظم الطيور واضخمها يبلغ علوها نحو مترين ووزنها اربعين كيلوغراما" HPOS="75" VPOS="246" WIDTH="571" HEIGHT="60"/>
+            <String CONTENT="امة اعظم الطيور واضخمها يبلغ علوها نحو مترين ووزنها اربعين كيلوغراما" HPOS="154.250025" VPOS="505.940082" WIDTH="1174.356857" HEIGHT="123.40002"/>
           </TextLine>
-          <TextLine HPOS="84" VPOS="292" WIDTH="601" HEIGHT="55" BASELINE="84 347 685 347">
+          <TextLine HPOS="172.760028" VPOS="600.546764" WIDTH="1236.056867" HEIGHT="113.116685" BASELINE="172.760028 713.663449 1408.816895 713.663449">
             <Shape>
-              <Polygon POINTS="84 292 84 347 685 347 685 292"/>
+              <Polygon POINTS="172.760028 600.546764 172.760028 713.663449 1408.816895 713.663449 1408.816895 600.546764"/>
             </Shape>
-            <String CONTENT="احيانا سمعها دقيق ونظرها حاد وحاسة الذوق والشم فيها غليظة بحيث لا تتخير" HPOS="84" VPOS="292" WIDTH="601" HEIGHT="55"/>
+            <String CONTENT="احيانا سمعها دقيق ونظرها حاد وحاسة الذوق والشم فيها غليظة بحيث لا تتخير" HPOS="172.760028" VPOS="600.546764" WIDTH="1236.056867" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="87" VPOS="336" WIDTH="594" HEIGHT="58" BASELINE="87 394 681 394">
+          <TextLine HPOS="178.930029" VPOS="691.040112" WIDTH="1221.660198" HEIGHT="119.286686" BASELINE="178.930029 810.326798 1400.590227 810.326798">
             <Shape>
-              <Polygon POINTS="87 336 87 394 681 394 681 336"/>
+              <Polygon POINTS="178.930029 691.040112 178.930029 810.326798 1400.590227 810.326798 1400.590227 691.040112"/>
             </Shape>
-            <String CONTENT="غذاءها وقلما تميز بين جيده وردييه فهي وان تكن من الحيوانات اكلة العشب" HPOS="87" VPOS="336" WIDTH="594" HEIGHT="58"/>
+            <String CONTENT="غذاءها وقلما تميز بين جيده وردييه فهي وان تكن من الحيوانات اكلة العشب" HPOS="178.930029" VPOS="691.040112" WIDTH="1221.660198" HEIGHT="119.286686"/>
           </TextLine>
-          <TextLine HPOS="80" VPOS="377" WIDTH="607" HEIGHT="64" BASELINE="80 441 687 441">
+          <TextLine HPOS="164.53336000000002" VPOS="775.363459" WIDTH="1248.396869" HEIGHT="131.626688" BASELINE="164.53336000000002 906.990147 1412.930229 906.990147">
             <Shape>
-              <Polygon POINTS="80 377 80 441 687 441 687 377"/>
+              <Polygon POINTS="164.53336000000002 775.363459 164.53336000000002 906.990147 1412.930229 906.990147 1412.930229 775.363459"/>
             </Shape>
-            <String CONTENT="تخضم اغذية نباتية وتحتك بكل ما يقع نظرها عليه من حديد وقرمد وخشب وتصدمه" HPOS="80" VPOS="377" WIDTH="607" HEIGHT="64"/>
+            <String CONTENT="تخضم اغذية نباتية وتحتك بكل ما يقع نظرها عليه من حديد وقرمد وخشب وتصدمه" HPOS="164.53336000000002" VPOS="775.363459" WIDTH="1248.396869" HEIGHT="131.626688"/>
           </TextLine>
-          <TextLine HPOS="83" VPOS="430" WIDTH="599" HEIGHT="54" BASELINE="83 484 682 484">
+          <TextLine HPOS="170.703361" VPOS="884.36681" WIDTH="1231.9435330000001" HEIGHT="111.060018" BASELINE="170.703361 995.426828 1402.646894 995.426828">
             <Shape>
-              <Polygon POINTS="83 430 83 484 682 484 682 430"/>
+              <Polygon POINTS="170.703361 884.36681 170.703361 995.426828 1402.646894 995.426828 1402.646894 884.36681"/>
             </Shape>
-            <String CONTENT="حتي يكاد يتناثر ساقاها مستويتان مستطيلتان متينتان حتي انها لتقطع نحو ٢٨٠ كيلومترا" HPOS="83" VPOS="430" WIDTH="599" HEIGHT="54"/>
+            <String CONTENT="حتي يكاد يتناثر ساقاها مستويتان مستطيلتان متينتان حتي انها لتقطع نحو ٢٨٠ كيلومترا" HPOS="170.703361" VPOS="884.36681" WIDTH="1231.9435330000001" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="119" VPOS="933" WIDTH="528" HEIGHT="52" BASELINE="119 985 647 985">
+          <TextLine HPOS="244.743373" VPOS="1918.8703110000001" WIDTH="1085.920176" HEIGHT="106.946684" BASELINE="244.743373 2025.8169950000001 1330.663549 2025.8169950000001">
             <Shape>
-              <Polygon POINTS="119 933 119 985 647 985 647 933"/>
+              <Polygon POINTS="244.743373 1918.8703110000001 244.743373 2025.8169950000001 1330.663549 2025.8169950000001 1330.663549 1918.8703110000001"/>
             </Shape>
-            <String CONTENT="هذا الطاير مشهور منذ القرون العريقة في القدم ويبيض في الرمل ولا تحضن" HPOS="119" VPOS="933" WIDTH="528" HEIGHT="52"/>
+            <String CONTENT="هذا الطاير مشهور منذ القرون العريقة في القدم ويبيض في الرمل ولا تحضن" HPOS="244.743373" VPOS="1918.8703110000001" WIDTH="1085.920176" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="96" VPOS="1072" WIDTH="593" HEIGHT="55" BASELINE="96 1127 689 1127">
+          <TextLine HPOS="197.440032" VPOS="2204.7470240000002" WIDTH="1219.603531" HEIGHT="113.116685" BASELINE="197.440032 2317.863709 1417.043563 2317.863709">
             <Shape>
-              <Polygon POINTS="96 1072 96 1127 689 1127 689 1072"/>
+              <Polygon POINTS="197.440032 2204.7470240000002 197.440032 2317.863709 1417.043563 2317.863709 1417.043563 2204.7470240000002"/>
             </Shape>
-            <String CONTENT="الي ضفاف النيل وفي رمال صحراء ليبية ومصر الوسطي وفي القفر الواقع في الجنوب" HPOS="96" VPOS="1072" WIDTH="593" HEIGHT="55"/>
+            <String CONTENT="الي ضفاف النيل وفي رمال صحراء ليبية ومصر الوسطي وفي القفر الواقع في الجنوب" HPOS="197.440032" VPOS="2204.7470240000002" WIDTH="1219.603531" HEIGHT="113.116685"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

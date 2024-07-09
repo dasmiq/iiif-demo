@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,62 +10,62 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="803" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="803" HEIGHT="1200">
+    <Page WIDTH="1651.5036010000001" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1651.5036010000001" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="112" VPOS="107" WIDTH="637" HEIGHT="57" BASELINE="112 164 749 164">
+          <TextLine HPOS="230.346704" VPOS="220.063369" WIDTH="1310.096879" HEIGHT="117.230019" BASELINE="230.346704 337.293388 1540.443583 337.293388">
             <Shape>
-              <Polygon POINTS="112 107 112 164 749 164 749 107"/>
+              <Polygon POINTS="230.346704 220.063369 230.346704 337.293388 1540.443583 337.293388 1540.443583 220.063369"/>
             </Shape>
-            <String CONTENT="الفضيلة مثل ريح الدعوي ولا جدع انف الاصالة مثل دنس العرض والاصيل الطاهر" HPOS="112" VPOS="107" WIDTH="637" HEIGHT="57"/>
+            <String CONTENT="الفضيلة مثل ريح الدعوي ولا جدع انف الاصالة مثل دنس العرض والاصيل الطاهر" HPOS="230.346704" VPOS="220.063369" WIDTH="1310.096879" HEIGHT="117.230019"/>
           </TextLine>
-          <TextLine HPOS="202" VPOS="203" WIDTH="499" HEIGHT="50" BASELINE="202 253 701 253">
+          <TextLine HPOS="415.446734" VPOS="417.503401" WIDTH="1026.2768330000001" HEIGHT="102.83335" BASELINE="415.446734 520.336751 1441.723567 520.336751">
             <Shape>
-              <Polygon POINTS="202 203 202 253 701 253 701 203"/>
+              <Polygon POINTS="415.446734 417.503401 415.446734 520.336751 1441.723567 520.336751 1441.723567 417.503401"/>
             </Shape>
-            <String CONTENT="مناط الحساب العقل وعلي قدر عقل الخصم يكون انفعال خصمه منه" HPOS="202" VPOS="203" WIDTH="499" HEIGHT="50"/>
+            <String CONTENT="مناط الحساب العقل وعلي قدر عقل الخصم يكون انفعال خصمه منه" HPOS="415.446734" VPOS="417.503401" WIDTH="1026.2768330000001" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="465" VPOS="394" WIDTH="254" HEIGHT="83" BASELINE="465 477 719 477">
+          <TextLine HPOS="956.350155" VPOS="810.326798" WIDTH="522.393418" HEIGHT="170.703361" BASELINE="956.350155 981.030159 1478.743573 981.030159">
             <Shape>
-              <Polygon POINTS="465 394 465 477 719 477 719 394"/>
+              <Polygon POINTS="956.350155 810.326798 956.350155 981.030159 1478.743573 981.030159 1478.743573 810.326798"/>
             </Shape>
-            <String CONTENT="العقل مع جرات الايتلاف بالقلب" HPOS="465" VPOS="394" WIDTH="254" HEIGHT="83"/>
+            <String CONTENT="العقل مع جرات الايتلاف بالقلب" HPOS="956.350155" VPOS="810.326798" WIDTH="522.393418" HEIGHT="170.703361"/>
           </TextLine>
-          <TextLine HPOS="225" VPOS="484" WIDTH="519" HEIGHT="50" BASELINE="225 534 744 534">
+          <TextLine HPOS="462.750075" VPOS="995.426828" WIDTH="1067.410173" HEIGHT="102.83335" BASELINE="462.750075 1098.260178 1530.160248 1098.260178">
             <Shape>
-              <Polygon POINTS="225 484 225 534 744 534 744 484"/>
+              <Polygon POINTS="462.750075 995.426828 462.750075 1098.260178 1530.160248 1098.260178 1530.160248 995.426828"/>
             </Shape>
-            <String CONTENT="لان الصواب للنجاح اساس وما جاء خلاف ذلك فعلي خلاف القياس" HPOS="225" VPOS="484" WIDTH="519" HEIGHT="50"/>
+            <String CONTENT="لان الصواب للنجاح اساس وما جاء خلاف ذلك فعلي خلاف القياس" HPOS="462.750075" VPOS="995.426828" WIDTH="1067.410173" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="109" VPOS="578" WIDTH="588" HEIGHT="52" BASELINE="109 630 697 630">
+          <TextLine HPOS="224.176703" VPOS="1188.753526" WIDTH="1209.3201960000001" HEIGHT="106.946684" BASELINE="224.176703 1295.70021 1433.496899 1295.70021">
             <Shape>
-              <Polygon POINTS="109 578 109 630 697 630 697 578"/>
+              <Polygon POINTS="224.176703 1188.753526 224.176703 1295.70021 1433.496899 1295.70021 1433.496899 1188.753526"/>
             </Shape>
-            <String CONTENT="ما اعجب الا ممن يتعرض للنوافل وهو غير متمم للفروض وممن يتصدي للمكارم" HPOS="109" VPOS="578" WIDTH="588" HEIGHT="52"/>
+            <String CONTENT="ما اعجب الا ممن يتعرض للنوافل وهو غير متمم للفروض وممن يتصدي للمكارم" HPOS="224.176703" VPOS="1188.753526" WIDTH="1209.3201960000001" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="109" VPOS="610" WIDTH="628" HEIGHT="61" BASELINE="109 671 737 671">
+          <TextLine HPOS="224.176703" VPOS="1254.56687" WIDTH="1291.586876" HEIGHT="125.456687" BASELINE="224.176703 1380.023557 1515.763579 1380.023557">
             <Shape>
-              <Polygon POINTS="109 610 109 671 737 671 737 610"/>
+              <Polygon POINTS="224.176703 1254.56687 224.176703 1380.023557 1515.763579 1380.023557 1515.763579 1254.56687"/>
             </Shape>
-            <String CONTENT="وهو غير مود للحقوق وممن ياخذ طريقة رفاعية او قادرية وهو مقصر في نفس الاسلام" HPOS="109" VPOS="610" WIDTH="628" HEIGHT="61"/>
+            <String CONTENT="وهو غير مود للحقوق وممن ياخذ طريقة رفاعية او قادرية وهو مقصر في نفس الاسلام" HPOS="224.176703" VPOS="1254.56687" WIDTH="1291.586876" HEIGHT="125.456687"/>
           </TextLine>
-          <TextLine HPOS="104" VPOS="804" WIDTH="635" HEIGHT="55" BASELINE="104 859 739 859">
+          <TextLine HPOS="213.893368" VPOS="1653.560268" WIDTH="1305.983545" HEIGHT="113.116685" BASELINE="213.893368 1766.676953 1519.876913 1766.676953">
             <Shape>
-              <Polygon POINTS="104 804 104 859 739 859 739 804"/>
+              <Polygon POINTS="213.893368 1653.560268 213.893368 1766.676953 1519.876913 1766.676953 1519.876913 1653.560268"/>
             </Shape>
-            <String CONTENT="الجلاس اذ بين الصداقة والموانسة درجات فموانسة الجميع لباقة وكياسة ومصادقة" HPOS="104" VPOS="804" WIDTH="635" HEIGHT="55"/>
+            <String CONTENT="الجلاس اذ بين الصداقة والموانسة درجات فموانسة الجميع لباقة وكياسة ومصادقة" HPOS="213.893368" VPOS="1653.560268" WIDTH="1305.983545" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="108" VPOS="903" WIDTH="592" HEIGHT="55" BASELINE="108 958 700 958">
+          <TextLine HPOS="222.120036" VPOS="1857.170301" WIDTH="1217.546864" HEIGHT="113.116685" BASELINE="222.120036 1970.286986 1439.6669 1970.286986">
             <Shape>
-              <Polygon POINTS="108 903 108 958 700 958 700 903"/>
+              <Polygon POINTS="222.120036 1857.170301 222.120036 1970.286986 1439.6669 1970.286986 1439.6669 1857.170301"/>
             </Shape>
-            <String CONTENT="لا يمكن الانسان ان يحب من لا يحترم ولكن ربما اتخذ من لا يحترم وسيلة" HPOS="108" VPOS="903" WIDTH="592" HEIGHT="55"/>
+            <String CONTENT="لا يمكن الانسان ان يحب من لا يحترم ولكن ربما اتخذ من لا يحترم وسيلة" HPOS="222.120036" VPOS="1857.170301" WIDTH="1217.546864" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="111" VPOS="998" WIDTH="589" HEIGHT="50" BASELINE="111 1048 700 1048">
+          <TextLine HPOS="228.290037" VPOS="2052.5536660000002" WIDTH="1211.376863" HEIGHT="102.83335" BASELINE="228.290037 2155.387016 1439.6669 2155.387016">
             <Shape>
-              <Polygon POINTS="111 998 111 1048 700 1048 700 998"/>
+              <Polygon POINTS="228.290037 2052.5536660000002 228.290037 2155.387016 1439.6669 2155.387016 1439.6669 2052.5536660000002"/>
             </Shape>
-            <String CONTENT="لا يجب الاتكال علي الكبار في تجويد الاعمال العامة بسبب علو مر بهم" HPOS="111" VPOS="998" WIDTH="589" HEIGHT="50"/>
+            <String CONTENT="لا يجب الاتكال علي الكبار في تجويد الاعمال العامة بسبب علو مر بهم" HPOS="228.290037" VPOS="2052.5536660000002" WIDTH="1211.376863" HEIGHT="102.83335"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

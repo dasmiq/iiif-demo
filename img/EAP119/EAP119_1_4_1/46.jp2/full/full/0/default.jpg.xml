@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/46.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,62 +10,62 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="802" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="802" HEIGHT="1200">
+    <Page WIDTH="1649.446934" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1649.446934" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="95" VPOS="256" WIDTH="611" HEIGHT="54" BASELINE="95 310 706 310">
+          <TextLine HPOS="195.383365" VPOS="526.506752" WIDTH="1256.623537" HEIGHT="111.060018" BASELINE="195.383365 637.56677 1452.006902 637.56677">
             <Shape>
-              <Polygon POINTS="95 256 95 310 706 310 706 256"/>
+              <Polygon POINTS="195.383365 526.506752 195.383365 637.56677 1452.006902 637.56677 1452.006902 526.506752"/>
             </Shape>
-            <String CONTENT="خواصه الكيماوية والحيوية وبحث علماء من الامريكان في تعقيم اللبن بدون" HPOS="95" VPOS="256" WIDTH="611" HEIGHT="54"/>
+            <String CONTENT="خواصه الكيماوية والحيوية وبحث علماء من الامريكان في تعقيم اللبن بدون" HPOS="195.383365" VPOS="526.506752" WIDTH="1256.623537" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="92" VPOS="303" WIDTH="613" HEIGHT="57" BASELINE="92 360 705 360">
+          <TextLine HPOS="189.213364" VPOS="623.170101" WIDTH="1260.736871" HEIGHT="117.230019" BASELINE="189.213364 740.40012 1449.950235 740.40012">
             <Shape>
-              <Polygon POINTS="92 303 92 360 705 360 705 303"/>
+              <Polygon POINTS="189.213364 623.170101 189.213364 740.40012 1449.950235 740.40012 1449.950235 623.170101"/>
             </Shape>
-            <String CONTENT="واسطة الحرارة فراي ان يضاف اليه كمية قليلة من محلول ممزوج باكبر" HPOS="92" VPOS="303" WIDTH="613" HEIGHT="57"/>
+            <String CONTENT="واسطة الحرارة فراي ان يضاف اليه كمية قليلة من محلول ممزوج باكبر" HPOS="189.213364" VPOS="623.170101" WIDTH="1260.736871" HEIGHT="117.230019"/>
           </TextLine>
-          <TextLine HPOS="96" VPOS="461" WIDTH="616" HEIGHT="51" BASELINE="96 512 712 512">
+          <TextLine HPOS="197.440032" VPOS="948.123487" WIDTH="1266.906872" HEIGHT="104.890017" BASELINE="197.440032 1053.013504 1464.346904 1053.013504">
             <Shape>
-              <Polygon POINTS="96 461 96 512 712 512 712 461"/>
+              <Polygon POINTS="197.440032 948.123487 197.440032 1053.013504 1464.346904 1053.013504 1464.346904 948.123487"/>
             </Shape>
-            <String CONTENT="العلماء هذا يقول بغلي اللبن وذاك يري تناوله باردا وغيره يري ان يعدل عن" HPOS="96" VPOS="461" WIDTH="616" HEIGHT="51"/>
+            <String CONTENT="العلماء هذا يقول بغلي اللبن وذاك يري تناوله باردا وغيره يري ان يعدل عن" HPOS="197.440032" VPOS="948.123487" WIDTH="1266.906872" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="426" VPOS="508" WIDTH="282" HEIGHT="54" BASELINE="426 562 708 562">
+          <TextLine HPOS="876.140142" VPOS="1044.786836" WIDTH="579.980094" HEIGHT="111.060018" BASELINE="876.140142 1155.8468540000001 1456.120236 1155.8468540000001">
             <Shape>
-              <Polygon POINTS="426 508 426 562 708 562 708 508"/>
+              <Polygon POINTS="876.140142 1044.786836 876.140142 1155.8468540000001 1456.120236 1155.8468540000001 1456.120236 1044.786836"/>
             </Shape>
-            <String CONTENT="تعقيمه بمزجه ببعض المواد كما تقدم" HPOS="426" VPOS="508" WIDTH="282" HEIGHT="54"/>
+            <String CONTENT="تعقيمه بمزجه ببعض المواد كما تقدم" HPOS="876.140142" VPOS="1044.786836" WIDTH="579.980094" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="86" VPOS="810" WIDTH="619" HEIGHT="52" BASELINE="86 862 705 862">
+          <TextLine HPOS="176.87336200000001" VPOS="1665.90027" WIDTH="1273.076873" HEIGHT="106.946684" BASELINE="176.87336200000001 1772.846954 1449.950235 1772.846954">
             <Shape>
-              <Polygon POINTS="86 810 86 862 705 862 705 810"/>
+              <Polygon POINTS="176.87336200000001 1665.90027 176.87336200000001 1772.846954 1449.950235 1772.846954 1449.950235 1665.90027"/>
             </Shape>
-            <String CONTENT="فتعلق بشعر الانسان ولحيته وتتلوي فتدخل الجلد فاذا حاول المرء قلها" HPOS="86" VPOS="810" WIDTH="619" HEIGHT="52"/>
+            <String CONTENT="فتعلق بشعر الانسان ولحيته وتتلوي فتدخل الجلد فاذا حاول المرء قلها" HPOS="176.87336200000001" VPOS="1665.90027" WIDTH="1273.076873" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="87" VPOS="853" WIDTH="615" HEIGHT="58" BASELINE="87 911 702 911">
+          <TextLine HPOS="178.930029" VPOS="1754.336951" WIDTH="1264.850205" HEIGHT="119.286686" BASELINE="178.930029 1873.623637 1443.780234 1873.623637">
             <Shape>
-              <Polygon POINTS="87 853 87 911 702 911 702 853"/>
+              <Polygon POINTS="178.930029 1754.336951 178.930029 1873.623637 1443.780234 1873.623637 1443.780234 1754.336951"/>
             </Shape>
-            <String CONTENT="تنكسر وتزيد في الانغراز ويمكن الانسان ان يتخلص منها اما الحيوان فانه" HPOS="87" VPOS="853" WIDTH="615" HEIGHT="58"/>
+            <String CONTENT="تنكسر وتزيد في الانغراز ويمكن الانسان ان يتخلص منها اما الحيوان فانه" HPOS="178.930029" VPOS="1754.336951" WIDTH="1264.850205" HEIGHT="119.286686"/>
           </TextLine>
-          <TextLine HPOS="93" VPOS="913" WIDTH="610" HEIGHT="48" BASELINE="93 961 703 961">
+          <TextLine HPOS="191.270031" VPOS="1877.736971" WIDTH="1254.56687" HEIGHT="98.720016" BASELINE="191.270031 1976.456987 1445.8369010000001 1976.456987">
             <Shape>
-              <Polygon POINTS="93 913 93 961 703 961 703 913"/>
+              <Polygon POINTS="191.270031 1877.736971 191.270031 1976.456987 1445.8369010000001 1976.456987 1445.8369010000001 1877.736971"/>
             </Shape>
-            <String CONTENT="اذا اصابت عينه تقلعها فتعميها فلا يتيسر له ان يتناول غذاءه فاذا كانت" HPOS="93" VPOS="913" WIDTH="610" HEIGHT="48"/>
+            <String CONTENT="اذا اصابت عينه تقلعها فتعميها فلا يتيسر له ان يتناول غذاءه فاذا كانت" HPOS="191.270031" VPOS="1877.736971" WIDTH="1254.56687" HEIGHT="98.720016"/>
           </TextLine>
-          <TextLine HPOS="84" VPOS="959" WIDTH="617" HEIGHT="56" BASELINE="84 1015 701 1015">
+          <TextLine HPOS="172.760028" VPOS="1972.3436530000001" WIDTH="1268.963539" HEIGHT="115.173352" BASELINE="172.760028 2087.517005 1441.723567 2087.517005">
             <Shape>
-              <Polygon POINTS="84 959 84 1015 701 1015 701 959"/>
+              <Polygon POINTS="172.760028 1972.3436530000001 172.760028 2087.517005 1441.723567 2087.517005 1441.723567 1972.3436530000001"/>
             </Shape>
-            <String CONTENT="تلك الحيوانات وحدها مطلقة يكون قلع عينيها سببا في هلاكها وعدم قدرتها" HPOS="84" VPOS="959" WIDTH="617" HEIGHT="56"/>
+            <String CONTENT="تلك الحيوانات وحدها مطلقة يكون قلع عينيها سببا في هلاكها وعدم قدرتها" HPOS="172.760028" VPOS="1972.3436530000001" WIDTH="1268.963539" HEIGHT="115.173352"/>
           </TextLine>
-          <TextLine HPOS="83" VPOS="1009" WIDTH="610" HEIGHT="56" BASELINE="83 1065 693 1065">
+          <TextLine HPOS="170.703361" VPOS="2075.1770030000002" WIDTH="1254.56687" HEIGHT="115.173352" BASELINE="170.703361 2190.350355 1425.270231 2190.350355">
             <Shape>
-              <Polygon POINTS="83 1009 83 1065 693 1065 693 1009"/>
+              <Polygon POINTS="170.703361 2075.1770030000002 170.703361 2190.350355 1425.270231 2190.350355 1425.270231 2075.1770030000002"/>
             </Shape>
-            <String CONTENT="علي الاقتيات ثم ان براعم هذا النبات تلصق في جلد الخرفان فتحدث فيها" HPOS="83" VPOS="1009" WIDTH="610" HEIGHT="56"/>
+            <String CONTENT="علي الاقتيات ثم ان براعم هذا النبات تلصق في جلد الخرفان فتحدث فيها" HPOS="170.703361" VPOS="2075.1770030000002" WIDTH="1254.56687" HEIGHT="115.173352"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

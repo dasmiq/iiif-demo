@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,26 +10,26 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="776" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="776" HEIGHT="1200">
+    <Page WIDTH="1595.973592" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1595.973592" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="367" VPOS="426" WIDTH="124" HEIGHT="48" BASELINE="367 474 491 474">
+          <TextLine HPOS="754.796789" VPOS="876.140142" WIDTH="255.026708" HEIGHT="98.720016" BASELINE="754.796789 974.860158 1009.823497 974.860158">
             <Shape>
-              <Polygon POINTS="367 426 367 474 491 474 491 426"/>
+              <Polygon POINTS="754.796789 876.140142 754.796789 974.860158 1009.823497 974.860158 1009.823497 876.140142"/>
             </Shape>
-            <String CONTENT="سم الله الرحمن الرحيم" HPOS="367" VPOS="426" WIDTH="124" HEIGHT="48"/>
+            <String CONTENT="سم الله الرحمن الرحيم" HPOS="754.796789" VPOS="876.140142" WIDTH="255.026708" HEIGHT="98.720016"/>
           </TextLine>
-          <TextLine HPOS="142" VPOS="501" WIDTH="580" HEIGHT="59" BASELINE="142 560 722 560">
+          <TextLine HPOS="292.046714" VPOS="1030.390167" WIDTH="1192.86686" HEIGHT="121.34335300000001" BASELINE="292.046714 1151.73352 1484.913574 1151.73352">
             <Shape>
-              <Polygon POINTS="142 501 142 560 722 560 722 501"/>
+              <Polygon POINTS="292.046714 1030.390167 292.046714 1151.73352 1484.913574 1151.73352 1484.913574 1030.390167"/>
             </Shape>
-            <String CONTENT="افضل ما صدر عن كرمك الجزيل وفضلك العميم ونستهديك لسانا لا" HPOS="142" VPOS="501" WIDTH="580" HEIGHT="59"/>
+            <String CONTENT="افضل ما صدر عن كرمك الجزيل وفضلك العميم ونستهديك لسانا لا" HPOS="292.046714" VPOS="1030.390167" WIDTH="1192.86686" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="142" VPOS="646" WIDTH="582" HEIGHT="57" BASELINE="142 703 724 703">
+          <TextLine HPOS="292.046714" VPOS="1328.606882" WIDTH="1196.980194" HEIGHT="117.230019" BASELINE="292.046714 1445.8369010000001 1489.026908 1445.8369010000001">
             <Shape>
-              <Polygon POINTS="142 646 142 703 724 703 724 646"/>
+              <Polygon POINTS="292.046714 1328.606882 292.046714 1445.8369010000001 1489.026908 1445.8369010000001 1489.026908 1328.606882"/>
             </Shape>
-            <String CONTENT="الناقع بترياق التعليم النافع والادب الرافع وحبب الينا التواصي بالحق وا" HPOS="142" VPOS="646" WIDTH="582" HEIGHT="57"/>
+            <String CONTENT="الناقع بترياق التعليم النافع والادب الرافع وحبب الينا التواصي بالحق وا" HPOS="292.046714" VPOS="1328.606882" WIDTH="1196.980194" HEIGHT="117.230019"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

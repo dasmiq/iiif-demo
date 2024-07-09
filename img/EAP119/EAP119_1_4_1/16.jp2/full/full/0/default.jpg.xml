@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,56 +10,56 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="759" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="759" HEIGHT="1200">
+    <Page WIDTH="1561.010253" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1561.010253" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="72" VPOS="176" WIDTH="560" HEIGHT="52" BASELINE="72 228 632 228">
+          <TextLine HPOS="148.080024" VPOS="361.973392" WIDTH="1151.73352" HEIGHT="106.946684" BASELINE="148.080024 468.920076 1299.813544 468.920076">
             <Shape>
-              <Polygon POINTS="72 176 72 228 632 228 632 176"/>
+              <Polygon POINTS="148.080024 361.973392 148.080024 468.920076 1299.813544 468.920076 1299.813544 361.973392"/>
             </Shape>
-            <String CONTENT="راينا النعامة مرسومة في مصانع الفراعنة والحبشان اخذين بزمامها وقد لزت في" HPOS="72" VPOS="176" WIDTH="560" HEIGHT="52"/>
+            <String CONTENT="راينا النعامة مرسومة في مصانع الفراعنة والحبشان اخذين بزمامها وقد لزت في" HPOS="148.080024" VPOS="361.973392" WIDTH="1151.73352" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="76" VPOS="224" WIDTH="599" HEIGHT="49" BASELINE="76 273 675 273">
+          <TextLine HPOS="156.306692" VPOS="460.693408" WIDTH="1231.9435330000001" HEIGHT="100.776683" BASELINE="156.306692 561.470091 1388.250225 561.470091">
             <Shape>
-              <Polygon POINTS="76 224 76 273 675 273 675 224"/>
+              <Polygon POINTS="156.306692 460.693408 156.306692 561.470091 1388.250225 561.470091 1388.250225 460.693408"/>
             </Shape>
-            <String CONTENT="قرن مع الاسود والفهود وغيرها من حيوانات تلك الارجاء ويروي عنها في اساطير" HPOS="76" VPOS="224" WIDTH="599" HEIGHT="49"/>
+            <String CONTENT="قرن مع الاسود والفهود وغيرها من حيوانات تلك الارجاء ويروي عنها في اساطير" HPOS="156.306692" VPOS="460.693408" WIDTH="1231.9435330000001" HEIGHT="100.776683"/>
           </TextLine>
-          <TextLine HPOS="79" VPOS="317" WIDTH="596" HEIGHT="49" BASELINE="79 366 675 366">
+          <TextLine HPOS="162.476693" VPOS="651.963439" WIDTH="1225.773532" HEIGHT="100.776683" BASELINE="162.476693 752.740122 1388.250225 752.740122">
             <Shape>
-              <Polygon POINTS="79 317 79 366 675 366 675 317"/>
+              <Polygon POINTS="162.476693 651.963439 162.476693 752.740122 1388.250225 752.740122 1388.250225 651.963439"/>
             </Shape>
-            <String CONTENT="الي الهند علي راس جيشه الجرار مجتازا صحاري ليبيا حتي اذا اشتد به الظما استغاث" HPOS="79" VPOS="317" WIDTH="596" HEIGHT="49"/>
+            <String CONTENT="الي الهند علي راس جيشه الجرار مجتازا صحاري ليبيا حتي اذا اشتد به الظما استغاث" HPOS="162.476693" VPOS="651.963439" WIDTH="1225.773532" HEIGHT="100.776683"/>
           </TextLine>
-          <TextLine HPOS="71" VPOS="360" WIDTH="602" HEIGHT="51" BASELINE="71 411 673 411">
+          <TextLine HPOS="146.023357" VPOS="740.40012" WIDTH="1238.113534" HEIGHT="104.890017" BASELINE="146.023357 845.290137 1384.136891 845.290137">
             <Shape>
-              <Polygon POINTS="71 360 71 411 673 411 673 360"/>
+              <Polygon POINTS="146.023357 740.40012 146.023357 845.290137 1384.136891 845.290137 1384.136891 740.40012"/>
             </Shape>
-            <String CONTENT="بالمشتري فدله علي نعامة فتبعها حتي قادته الي مكان حفرت فيه الارض بمنقارها" HPOS="71" VPOS="360" WIDTH="602" HEIGHT="51"/>
+            <String CONTENT="بالمشتري فدله علي نعامة فتبعها حتي قادته الي مكان حفرت فيه الارض بمنقارها" HPOS="146.023357" VPOS="740.40012" WIDTH="1238.113534" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="83" VPOS="652" WIDTH="599" HEIGHT="80" BASELINE="83 732 682 732">
+          <TextLine HPOS="170.703361" VPOS="1340.946884" WIDTH="1231.9435330000001" HEIGHT="164.53336000000002" BASELINE="170.703361 1505.480244 1402.646894 1505.480244">
             <Shape>
-              <Polygon POINTS="83 652 83 732 682 732 682 652"/>
+              <Polygon POINTS="170.703361 1340.946884 170.703361 1505.480244 1402.646894 1505.480244 1402.646894 1340.946884"/>
             </Shape>
-            <String CONTENT="القشرة اقداحا واكوابا واذا راوها ضخمة يقسمونها شطرين يكونان قبضتين لرجلين" HPOS="83" VPOS="652" WIDTH="599" HEIGHT="80"/>
+            <String CONTENT="القشرة اقداحا واكوابا واذا راوها ضخمة يقسمونها شطرين يكونان قبضتين لرجلين" HPOS="170.703361" VPOS="1340.946884" WIDTH="1231.9435330000001" HEIGHT="164.53336000000002"/>
           </TextLine>
-          <TextLine HPOS="78" VPOS="764" WIDTH="558" HEIGHT="58" BASELINE="78 822 636 822">
+          <TextLine HPOS="160.420026" VPOS="1571.293588" WIDTH="1147.620186" HEIGHT="119.286686" BASELINE="160.420026 1690.580274 1308.040212 1690.580274">
             <Shape>
-              <Polygon POINTS="78 764 78 822 636 822 636 764"/>
+              <Polygon POINTS="160.420026 1571.293588 160.420026 1690.580274 1308.040212 1690.580274 1308.040212 1571.293588"/>
             </Shape>
-            <String CONTENT="ومازال بعض السكان في افريقيا الي يومنا هذا يقتاتون من لحم النعامة وشحمها وتومها" HPOS="78" VPOS="764" WIDTH="558" HEIGHT="58"/>
+            <String CONTENT="ومازال بعض السكان في افريقيا الي يومنا هذا يقتاتون من لحم النعامة وشحمها وتومها" HPOS="160.420026" VPOS="1571.293588" WIDTH="1147.620186" HEIGHT="119.286686"/>
           </TextLine>
-          <TextLine HPOS="87" VPOS="813" WIDTH="591" HEIGHT="52" BASELINE="87 865 678 865">
+          <TextLine HPOS="178.930029" VPOS="1672.070271" WIDTH="1215.490197" HEIGHT="106.946684" BASELINE="178.930029 1779.016955 1394.420226 1779.016955">
             <Shape>
-              <Polygon POINTS="87 813 87 865 678 865 678 813"/>
+              <Polygon POINTS="178.930029 1672.070271 178.930029 1779.016955 1394.420226 1779.016955 1394.420226 1672.070271"/>
             </Shape>
-            <String CONTENT="ويبيعون ريشها او يستخدمونه زينة لرووسهم ويستخدم النعام لحمل الاثقال وشاعت عا" HPOS="87" VPOS="813" WIDTH="591" HEIGHT="52"/>
+            <String CONTENT="ويبيعون ريشها او يستخدمونه زينة لرووسهم ويستخدم النعام لحمل الاثقال وشاعت عا" HPOS="178.930029" VPOS="1672.070271" WIDTH="1215.490197" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="86" VPOS="984" WIDTH="595" HEIGHT="63" BASELINE="86 1047 681 1047">
+          <TextLine HPOS="176.87336200000001" VPOS="2023.760328" WIDTH="1223.716865" HEIGHT="129.570021" BASELINE="176.87336200000001 2153.330349 1400.590227 2153.330349">
             <Shape>
-              <Polygon POINTS="86 984 86 1047 681 1047 681 984"/>
+              <Polygon POINTS="176.87336200000001 2023.760328 176.87336200000001 2153.330349 1400.590227 2153.330349 1400.590227 2023.760328"/>
             </Shape>
-            <String CONTENT="اتينيه الكاتب اليوناني الذي جاء في القرن الثالث للمسيح انه كان في الاحتفال بظفر" HPOS="86" VPOS="984" WIDTH="595" HEIGHT="63"/>
+            <String CONTENT="اتينيه الكاتب اليوناني الذي جاء في القرن الثالث للمسيح انه كان في الاحتفال بظفر" HPOS="176.87336200000001" VPOS="2023.760328" WIDTH="1223.716865" HEIGHT="129.570021"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

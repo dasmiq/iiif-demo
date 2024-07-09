@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,80 +10,80 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="755" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="755" HEIGHT="1200">
+    <Page WIDTH="1552.7835850000001" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1552.7835850000001" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="85" VPOS="98" WIDTH="617" HEIGHT="56" BASELINE="85 154 702 154">
+          <TextLine HPOS="174.816695" VPOS="201.553366" WIDTH="1268.963539" HEIGHT="115.173352" BASELINE="174.816695 316.726718 1443.780234 316.726718">
             <Shape>
-              <Polygon POINTS="85 98 85 154 702 154 702 98"/>
+              <Polygon POINTS="174.816695 201.553366 174.816695 316.726718 1443.780234 316.726718 1443.780234 201.553366"/>
             </Shape>
-            <String CONTENT="جزءا تتبعتها وتيقنتها وضممت اليها قراينها وعزوتها الي اصحابها والفت هذا الكتاب" HPOS="85" VPOS="98" WIDTH="617" HEIGHT="56"/>
+            <String CONTENT="جزءا تتبعتها وتيقنتها وضممت اليها قراينها وعزوتها الي اصحابها والفت هذا الكتاب" HPOS="174.816695" VPOS="201.553366" WIDTH="1268.963539" HEIGHT="115.173352"/>
           </TextLine>
-          <TextLine HPOS="88" VPOS="155" WIDTH="617" HEIGHT="46" BASELINE="88 201 705 201">
+          <TextLine HPOS="180.986696" VPOS="318.783385" WIDTH="1268.963539" HEIGHT="94.606682" BASELINE="180.986696 413.390067 1449.950235 413.390067">
             <Shape>
-              <Polygon POINTS="88 155 88 201 705 201 705 155"/>
+              <Polygon POINTS="180.986696 318.783385 180.986696 413.390067 1449.950235 413.390067 1449.950235 318.783385"/>
             </Shape>
-            <String CONTENT="علي غير سمت تلك الكتب وهو كتاب يكفي الناظر فيه الترداد وتصفح الكتب" HPOS="88" VPOS="155" WIDTH="617" HEIGHT="46"/>
+            <String CONTENT="علي غير سمت تلك الكتب وهو كتاب يكفي الناظر فيه الترداد وتصفح الكتب" HPOS="180.986696" VPOS="318.783385" WIDTH="1268.963539" HEIGHT="94.606682"/>
           </TextLine>
-          <TextLine HPOS="508" VPOS="192" WIDTH="201" HEIGHT="54" BASELINE="508 246 709 246">
+          <TextLine HPOS="1044.786836" VPOS="394.880064" WIDTH="413.390067" HEIGHT="111.060018" BASELINE="1044.786836 505.940082 1458.176903 505.940082">
             <Shape>
-              <Polygon POINTS="508 192 508 246 709 246 709 192"/>
+              <Polygon POINTS="1044.786836 394.880064 1044.786836 505.940082 1458.176903 505.940082 1458.176903 394.880064"/>
             </Shape>
-            <String CONTENT="وارجو اني لم اسبق الي مثله" HPOS="508" VPOS="192" WIDTH="201" HEIGHT="54"/>
+            <String CONTENT="وارجو اني لم اسبق الي مثله" HPOS="1044.786836" VPOS="394.880064" WIDTH="413.390067" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="150" VPOS="380" WIDTH="486" HEIGHT="52" BASELINE="150 432 636 432">
+          <TextLine HPOS="308.50005" VPOS="781.53346" WIDTH="999.540162" HEIGHT="106.946684" BASELINE="308.50005 888.480144 1308.040212 888.480144">
             <Shape>
-              <Polygon POINTS="150 380 150 432 636 432 636 380"/>
+              <Polygon POINTS="308.50005 781.53346 308.50005 888.480144 1308.040212 888.480144 1308.040212 781.53346"/>
             </Shape>
-            <String CONTENT="فعاقل فطن اعيت مذاهبه وجاهل حمق تلقاه مرزوقا" HPOS="150" VPOS="380" WIDTH="486" HEIGHT="52"/>
+            <String CONTENT="فعاقل فطن اعيت مذاهبه وجاهل حمق تلقاه مرزوقا" HPOS="308.50005" VPOS="781.53346" WIDTH="999.540162" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="190" VPOS="477" WIDTH="404" HEIGHT="53" BASELINE="190 530 594 530">
+          <TextLine HPOS="390.76673" VPOS="981.030159" WIDTH="830.893468" HEIGHT="109.003351" BASELINE="390.76673 1090.03351 1221.660198 1090.03351">
             <Shape>
-              <Polygon POINTS="190 477 190 530 594 530 594 477"/>
+              <Polygon POINTS="390.76673 981.030159 390.76673 1090.03351 1221.660198 1090.03351 1221.660198 981.030159"/>
             </Shape>
-            <String CONTENT="وما الناس الا وعاة العلوم وسايرهم غنم في قطيع" HPOS="190" VPOS="477" WIDTH="404" HEIGHT="53"/>
+            <String CONTENT="وما الناس الا وعاة العلوم وسايرهم غنم في قطيع" HPOS="390.76673" VPOS="981.030159" WIDTH="830.893468" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="90" VPOS="538" WIDTH="561" HEIGHT="75" BASELINE="90 613 651 613">
+          <TextLine HPOS="185.10003" VPOS="1106.486846" WIDTH="1153.790187" HEIGHT="154.250025" BASELINE="185.10003 1260.736871 1338.8902170000001 1260.736871">
             <Shape>
-              <Polygon POINTS="90 538 90 613 651 613 651 538"/>
+              <Polygon POINTS="185.10003 1106.486846 185.10003 1260.736871 1338.8902170000001 1260.736871 1338.8902170000001 1106.486846"/>
             </Shape>
-            <String CONTENT="ومنها الموسوس والانوك والبدهة والذولة والموتة والعرهاة والاولق والمهوس واللهلباجة" HPOS="90" VPOS="538" WIDTH="561" HEIGHT="75"/>
+            <String CONTENT="ومنها الموسوس والانوك والبدهة والذولة والموتة والعرهاة والاولق والمهوس واللهلباجة" HPOS="185.10003" VPOS="1106.486846" WIDTH="1153.790187" HEIGHT="154.250025"/>
           </TextLine>
-          <TextLine HPOS="94" VPOS="600" WIDTH="610" HEIGHT="59" BASELINE="94 659 704 659">
+          <TextLine HPOS="193.326698" VPOS="1234.0002" WIDTH="1254.56687" HEIGHT="121.34335300000001" BASELINE="193.326698 1355.343553 1447.893568 1355.343553">
             <Shape>
-              <Polygon POINTS="94 600 94 659 704 659 704 600"/>
+              <Polygon POINTS="193.326698 1234.0002 193.326698 1355.343553 1447.893568 1355.343553 1447.893568 1234.0002"/>
             </Shape>
-            <String CONTENT="واللكع والجذب والهجاجة والرشاع ثم ذكر الامثال المضروبة في الحمق والحمقي فمنها" HPOS="94" VPOS="600" WIDTH="610" HEIGHT="59"/>
+            <String CONTENT="واللكع والجذب والهجاجة والرشاع ثم ذكر الامثال المضروبة في الحمق والحمقي فمنها" HPOS="193.326698" VPOS="1234.0002" WIDTH="1254.56687" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="83" VPOS="642" WIDTH="624" HEIGHT="63" BASELINE="83 705 707 705">
+          <TextLine HPOS="170.703361" VPOS="1320.380214" WIDTH="1283.360208" HEIGHT="129.570021" BASELINE="170.703361 1449.950235 1454.063569 1449.950235">
             <Shape>
-              <Polygon POINTS="83 642 83 705 707 705 707 642"/>
+              <Polygon POINTS="170.703361 1320.380214 170.703361 1449.950235 1454.063569 1449.950235 1454.063569 1320.380214"/>
             </Shape>
-            <String CONTENT="قولهم تحسبها حمقاء وهي باخس اي انها مع حمقها تظلم غيرها ومن امثالهم احمق بلغ" HPOS="83" VPOS="642" WIDTH="624" HEIGHT="63"/>
+            <String CONTENT="قولهم تحسبها حمقاء وهي باخس اي انها مع حمقها تظلم غيرها ومن امثالهم احمق بلغ" HPOS="170.703361" VPOS="1320.380214" WIDTH="1283.360208" HEIGHT="129.570021"/>
           </TextLine>
-          <TextLine HPOS="85" VPOS="697" WIDTH="620" HEIGHT="53" BASELINE="85 750 705 750">
+          <TextLine HPOS="174.816695" VPOS="1433.496899" WIDTH="1275.13354" HEIGHT="109.003351" BASELINE="174.816695 1542.50025 1449.950235 1542.50025">
             <Shape>
-              <Polygon POINTS="85 697 85 750 705 750 705 697"/>
+              <Polygon POINTS="174.816695 1433.496899 174.816695 1542.50025 1449.950235 1542.50025 1449.950235 1433.496899"/>
             </Shape>
-            <String CONTENT="اي انه مع حمقه يبلغ حاجته ومن امثالهم فيه خرقاء ذات نيقة اي انها حمقاء وهي في ذلك" HPOS="85" VPOS="697" WIDTH="620" HEIGHT="53"/>
+            <String CONTENT="اي انه مع حمقه يبلغ حاجته ومن امثالهم فيه خرقاء ذات نيقة اي انها حمقاء وهي في ذلك" HPOS="174.816695" VPOS="1433.496899" WIDTH="1275.13354" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="82" VPOS="786" WIDTH="625" HEIGHT="53" BASELINE="82 839 707 839">
+          <TextLine HPOS="168.646694" VPOS="1616.540262" WIDTH="1285.4168750000001" HEIGHT="109.003351" BASELINE="168.646694 1725.543613 1454.063569 1725.543613">
             <Shape>
-              <Polygon POINTS="82 786 82 839 707 839 707 786"/>
+              <Polygon POINTS="168.646694 1616.540262 168.646694 1725.543613 1454.063569 1725.543613 1454.063569 1616.540262"/>
             </Shape>
-            <String CONTENT="السروح ومسايل الاودية فيجيء السيل فيجرفها ومن امثالهم انه لاحمق من ترب العقد" HPOS="82" VPOS="786" WIDTH="625" HEIGHT="53"/>
+            <String CONTENT="السروح ومسايل الاودية فيجيء السيل فيجرفها ومن امثالهم انه لاحمق من ترب العقد" HPOS="168.646694" VPOS="1616.540262" WIDTH="1285.4168750000001" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="82" VPOS="829" WIDTH="624" HEIGHT="54" BASELINE="82 883 706 883">
+          <TextLine HPOS="168.646694" VPOS="1704.9769430000001" WIDTH="1283.360208" HEIGHT="111.060018" BASELINE="168.646694 1816.036961 1452.006902 1816.036961">
             <Shape>
-              <Polygon POINTS="82 829 82 883 706 883 706 829"/>
+              <Polygon POINTS="168.646694 1704.9769430000001 168.646694 1816.036961 1452.006902 1816.036961 1452.006902 1704.9769430000001"/>
             </Shape>
-            <String CONTENT="والعقد عقد الرمل وحمقه انه ينهار ولا يثبت فيه الترب يضرب للذي لا يثبت ولا" HPOS="82" VPOS="829" WIDTH="624" HEIGHT="54"/>
+            <String CONTENT="والعقد عقد الرمل وحمقه انه ينهار ولا يثبت فيه الترب يضرب للذي لا يثبت ولا" HPOS="168.646694" VPOS="1704.9769430000001" WIDTH="1283.360208" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="81" VPOS="920" WIDTH="624" HEIGHT="55" BASELINE="81 975 705 975">
+          <TextLine HPOS="166.590027" VPOS="1892.13364" WIDTH="1283.360208" HEIGHT="113.116685" BASELINE="166.590027 2005.250325 1449.950235 2005.250325">
             <Shape>
-              <Polygon POINTS="81 920 81 975 705 975 705 920"/>
+              <Polygon POINTS="166.590027 1892.13364 166.590027 2005.250325 1449.950235 2005.250325 1449.950235 1892.13364"/>
             </Shape>
-            <String CONTENT="ومن امثالهم احمق من الممهورة احدي حدمتيها هما الخلخالان وتقول العرب للمبالغ" HPOS="81" VPOS="920" WIDTH="624" HEIGHT="55"/>
+            <String CONTENT="ومن امثالهم احمق من الممهورة احدي حدمتيها هما الخلخالان وتقول العرب للمبالغ" HPOS="166.590027" VPOS="1892.13364" WIDTH="1283.360208" HEIGHT="113.116685"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

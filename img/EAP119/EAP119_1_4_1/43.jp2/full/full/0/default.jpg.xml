@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,80 +10,80 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="814" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="814" HEIGHT="1200">
+    <Page WIDTH="1674.126938" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1674.126938" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="116" VPOS="97" WIDTH="577" HEIGHT="60" BASELINE="116 157 693 157">
+          <TextLine HPOS="238.573372" VPOS="199.496699" WIDTH="1186.696859" HEIGHT="123.40002" BASELINE="238.573372 322.896719 1425.270231 322.896719">
             <Shape>
-              <Polygon POINTS="116 97 116 157 693 157 693 97"/>
+              <Polygon POINTS="238.573372 199.496699 238.573372 322.896719 1425.270231 322.896719 1425.270231 199.496699"/>
             </Shape>
-            <String CONTENT="والكتاب جيد الطبع علي الجملة يطلب من مكتبة مصطفي افندي فهمي" HPOS="116" VPOS="97" WIDTH="577" HEIGHT="60"/>
+            <String CONTENT="والكتاب جيد الطبع علي الجملة يطلب من مكتبة مصطفي افندي فهمي" HPOS="238.573372" VPOS="199.496699" WIDTH="1186.696859" HEIGHT="123.40002"/>
           </TextLine>
-          <TextLine HPOS="116" VPOS="143" WIDTH="630" HEIGHT="64" BASELINE="116 207 746 207">
+          <TextLine HPOS="238.573372" VPOS="294.103381" WIDTH="1295.70021" HEIGHT="131.626688" BASELINE="238.573372 425.730069 1534.273582 425.730069">
             <Shape>
-              <Polygon POINTS="116 143 116 207 746 207 746 143"/>
+              <Polygon POINTS="238.573372 294.103381 238.573372 425.730069 1534.273582 425.730069 1534.273582 294.103381"/>
             </Shape>
-            <String CONTENT="بخمسين قرشا مصريا فنحث علي اقتنايه فان حسناته كثيرة ولا يجوز ان" HPOS="116" VPOS="143" WIDTH="630" HEIGHT="64"/>
+            <String CONTENT="بخمسين قرشا مصريا فنحث علي اقتنايه فان حسناته كثيرة ولا يجوز ان" HPOS="238.573372" VPOS="294.103381" WIDTH="1295.70021" HEIGHT="131.626688"/>
           </TextLine>
-          <TextLine HPOS="116" VPOS="202" WIDTH="627" HEIGHT="55" BASELINE="116 257 743 257">
+          <TextLine HPOS="238.573372" VPOS="415.446734" WIDTH="1289.530209" HEIGHT="113.116685" BASELINE="238.573372 528.563419 1528.103581 528.563419">
             <Shape>
-              <Polygon POINTS="116 202 116 257 743 257 743 202"/>
+              <Polygon POINTS="238.573372 415.446734 238.573372 528.563419 1528.103581 528.563419 1528.103581 415.446734"/>
             </Shape>
-            <String CONTENT="يزهد في عقد من اللولو اذا كان فيه بعض الخرز والصيرفي الحاذق ينقد" HPOS="116" VPOS="202" WIDTH="627" HEIGHT="55"/>
+            <String CONTENT="يزهد في عقد من اللولو اذا كان فيه بعض الخرز والصيرفي الحاذق ينقد" HPOS="238.573372" VPOS="415.446734" WIDTH="1289.530209" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="123" VPOS="388" WIDTH="624" HEIGHT="57" BASELINE="123 445 747 445">
+          <TextLine HPOS="252.970041" VPOS="797.986796" WIDTH="1283.360208" HEIGHT="117.230019" BASELINE="252.970041 915.216815 1536.330249 915.216815">
             <Shape>
-              <Polygon POINTS="123 388 123 445 747 445 747 388"/>
+              <Polygon POINTS="252.970041 797.986796 252.970041 915.216815 1536.330249 915.216815 1536.330249 797.986796"/>
             </Shape>
-            <String CONTENT="اجتماعية وتاريخية عن البحيرة والشرقية والفيوم واسيوط وغيرها ومباحث" HPOS="123" VPOS="388" WIDTH="624" HEIGHT="57"/>
+            <String CONTENT="اجتماعية وتاريخية عن البحيرة والشرقية والفيوم واسيوط وغيرها ومباحث" HPOS="252.970041" VPOS="797.986796" WIDTH="1283.360208" HEIGHT="117.230019"/>
           </TextLine>
-          <TextLine HPOS="122" VPOS="445" WIDTH="625" HEIGHT="51" BASELINE="122 496 747 496">
+          <TextLine HPOS="250.913374" VPOS="915.216815" WIDTH="1285.4168750000001" HEIGHT="104.890017" BASELINE="250.913374 1020.106832 1536.330249 1020.106832">
             <Shape>
-              <Polygon POINTS="122 445 122 496 747 496 747 445"/>
+              <Polygon POINTS="250.913374 915.216815 250.913374 1020.106832 1536.330249 1020.106832 1536.330249 915.216815"/>
             </Shape>
-            <String CONTENT="عمومية عن العربان والامن العام وغير ذلك مما له علاقة بحياة هذه المديريات" HPOS="122" VPOS="445" WIDTH="625" HEIGHT="51"/>
+            <String CONTENT="عمومية عن العربان والامن العام وغير ذلك مما له علاقة بحياة هذه المديريات" HPOS="250.913374" VPOS="915.216815" WIDTH="1285.4168750000001" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="115" VPOS="496" WIDTH="635" HEIGHT="52" BASELINE="115 548 750 548">
+          <TextLine HPOS="236.516705" VPOS="1020.106832" WIDTH="1305.983545" HEIGHT="106.946684" BASELINE="236.516705 1127.053516 1542.50025 1127.053516">
             <Shape>
-              <Polygon POINTS="115 496 115 548 750 548 750 496"/>
+              <Polygon POINTS="236.516705 1020.106832 236.516705 1127.053516 1542.50025 1127.053516 1542.50025 1020.106832"/>
             </Shape>
-            <String CONTENT="المهمة في القطر المصري ساح فيها عوض افندي واصف صاحب مجلة" HPOS="115" VPOS="496" WIDTH="635" HEIGHT="52"/>
+            <String CONTENT="المهمة في القطر المصري ساح فيها عوض افندي واصف صاحب مجلة" HPOS="236.516705" VPOS="1020.106832" WIDTH="1305.983545" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="123" VPOS="643" WIDTH="629" HEIGHT="58" BASELINE="123 701 752 701">
+          <TextLine HPOS="252.970041" VPOS="1322.436881" WIDTH="1293.643543" HEIGHT="119.286686" BASELINE="252.970041 1441.723567 1546.613584 1441.723567">
             <Shape>
-              <Polygon POINTS="123 643 123 701 752 701 752 643"/>
+              <Polygon POINTS="252.970041 1322.436881 252.970041 1441.723567 1546.613584 1441.723567 1546.613584 1322.436881"/>
             </Shape>
-            <String CONTENT="ا لمشتركيه في العام الماضي وهي تطلب من مولفها وفيها من الفوايد ما يرغب" HPOS="123" VPOS="643" WIDTH="629" HEIGHT="58"/>
+            <String CONTENT="ا لمشتركيه في العام الماضي وهي تطلب من مولفها وفيها من الفوايد ما يرغب" HPOS="252.970041" VPOS="1322.436881" WIDTH="1293.643543" HEIGHT="119.286686"/>
           </TextLine>
-          <TextLine HPOS="141" VPOS="696" WIDTH="609" HEIGHT="53" BASELINE="141 749 750 749">
+          <TextLine HPOS="289.990047" VPOS="1431.440232" WIDTH="1252.510203" HEIGHT="109.003351" BASELINE="289.990047 1540.443583 1542.50025 1540.443583">
             <Shape>
-              <Polygon POINTS="141 696 141 749 750 749 750 696"/>
+              <Polygon POINTS="289.990047 1431.440232 289.990047 1540.443583 1542.50025 1540.443583 1542.50025 1431.440232"/>
             </Shape>
-            <String CONTENT="فيه كل مصري اديب فنحث علي اقتنايها ونشكر لرصيفنا عنايته وهديته" HPOS="141" VPOS="696" WIDTH="609" HEIGHT="53"/>
+            <String CONTENT="فيه كل مصري اديب فنحث علي اقتنايها ونشكر لرصيفنا عنايته وهديته" HPOS="289.990047" VPOS="1431.440232" WIDTH="1252.510203" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="399" VPOS="775" WIDTH="99" HEIGHT="77" BASELINE="399 852 498 852">
+          <TextLine HPOS="820.610133" VPOS="1593.916925" WIDTH="203.61003300000002" HEIGHT="158.363359" BASELINE="820.610133 1752.280284 1024.220166 1752.280284">
             <Shape>
-              <Polygon POINTS="399 775 399 852 498 852 498 775"/>
+              <Polygon POINTS="820.610133 1593.916925 820.610133 1752.280284 1024.220166 1752.280284 1024.220166 1593.916925"/>
             </Shape>
-            <String CONTENT="سير العلم" HPOS="399" VPOS="775" WIDTH="99" HEIGHT="77"/>
+            <String CONTENT="سير العلم" HPOS="820.610133" VPOS="1593.916925" WIDTH="203.61003300000002" HEIGHT="158.363359"/>
           </TextLine>
-          <TextLine HPOS="122" VPOS="908" WIDTH="631" HEIGHT="60" BASELINE="122 968 753 968">
+          <TextLine HPOS="250.913374" VPOS="1867.453636" WIDTH="1297.756877" HEIGHT="123.40002" BASELINE="250.913374 1990.853656 1548.670251 1990.853656">
             <Shape>
-              <Polygon POINTS="122 908 122 968 753 968 753 908"/>
+              <Polygon POINTS="250.913374 1867.453636 250.913374 1990.853656 1548.670251 1990.853656 1548.670251 1867.453636"/>
             </Shape>
-            <String CONTENT="الروسي انتشارا عظيما في العهد الاخير واقبل الاوروبيون علي تعلمها لسهولة" HPOS="122" VPOS="908" WIDTH="631" HEIGHT="60"/>
+            <String CONTENT="الروسي انتشارا عظيما في العهد الاخير واقبل الاوروبيون علي تعلمها لسهولة" HPOS="250.913374" VPOS="1867.453636" WIDTH="1297.756877" HEIGHT="123.40002"/>
           </TextLine>
-          <TextLine HPOS="122" VPOS="970" WIDTH="630" HEIGHT="55" BASELINE="122 1025 752 1025">
+          <TextLine HPOS="250.913374" VPOS="1994.9669900000001" WIDTH="1295.70021" HEIGHT="113.116685" BASELINE="250.913374 2108.083675 1546.613584 2108.083675">
             <Shape>
-              <Polygon POINTS="122 970 122 1025 752 1025 752 970"/>
+              <Polygon POINTS="250.913374 1994.9669900000001 250.913374 2108.083675 1546.613584 2108.083675 1546.613584 1994.9669900000001"/>
             </Shape>
-            <String CONTENT="ماخذها وسينعقد موتمرها هذه السنة في كامبردج فتقيم له كلية هذه المدينة" HPOS="122" VPOS="970" WIDTH="630" HEIGHT="55"/>
+            <String CONTENT="ماخذها وسينعقد موتمرها هذه السنة في كامبردج فتقيم له كلية هذه المدينة" HPOS="250.913374" VPOS="1994.9669900000001" WIDTH="1295.70021" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="127" VPOS="1054" WIDTH="627" HEIGHT="72" BASELINE="127 1126 754 1126">
+          <TextLine HPOS="261.196709" VPOS="2167.727018" WIDTH="1289.530209" HEIGHT="148.080024" BASELINE="261.196709 2315.807042 1550.726918 2315.807042">
             <Shape>
-              <Polygon POINTS="127 1054 127 1126 754 1126 754 1054"/>
+              <Polygon POINTS="261.196709 2167.727018 261.196709 2315.807042 1550.726918 2315.807042 1550.726918 2167.727018"/>
             </Shape>
-            <String CONTENT="وممن ينتصر لهذه اللغة وتلقنها ملكة اسبانيا وملكة نروج التي تعلم هذه اللغة" HPOS="127" VPOS="1054" WIDTH="627" HEIGHT="72"/>
+            <String CONTENT="وممن ينتصر لهذه اللغة وتلقنها ملكة اسبانيا وملكة نروج التي تعلم هذه اللغة" HPOS="261.196709" VPOS="2167.727018" WIDTH="1289.530209" HEIGHT="148.080024"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

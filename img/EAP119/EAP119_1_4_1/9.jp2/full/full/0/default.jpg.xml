@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,26 +10,26 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="753" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="753" HEIGHT="1200">
+    <Page WIDTH="1548.670251" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1548.670251" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="124" VPOS="963" WIDTH="600" HEIGHT="63" BASELINE="124 1026 724 1026">
+          <TextLine HPOS="255.026708" VPOS="1980.570321" WIDTH="1234.0002" HEIGHT="129.570021" BASELINE="255.026708 2110.140342 1489.026908 2110.140342">
             <Shape>
-              <Polygon POINTS="124 963 124 1026 724 1026 724 963"/>
+              <Polygon POINTS="255.026708 1980.570321 255.026708 2110.140342 1489.026908 2110.140342 1489.026908 1980.570321"/>
             </Shape>
-            <String CONTENT="النصاري في كل سمة من الورق خمسون الف درهم يكون في مدة ثلاث و عشرين" HPOS="124" VPOS="963" WIDTH="600" HEIGHT="63"/>
+            <String CONTENT="النصاري في كل سمة من الورق خمسون الف درهم يكون في مدة ثلاث و عشرين" HPOS="255.026708" VPOS="1980.570321" WIDTH="1234.0002" HEIGHT="129.570021"/>
           </TextLine>
-          <TextLine HPOS="120" VPOS="1014" WIDTH="600" HEIGHT="59" BASELINE="120 1073 720 1073">
+          <TextLine HPOS="246.80004" VPOS="2085.460338" WIDTH="1234.0002" HEIGHT="121.34335300000001" BASELINE="246.80004 2206.803691 1480.80024 2206.803691">
             <Shape>
-              <Polygon POINTS="120 1014 120 1073 720 1073 720 1014"/>
+              <Polygon POINTS="246.80004 2085.460338 246.80004 2206.803691 1480.80024 2206.803691 1480.80024 2085.460338"/>
             </Shape>
-            <String CONTENT="سنة الف الف وماية و خمسون الف درهم وفي يوم الشعانين من كل سنة ثياب من وشي" HPOS="120" VPOS="1014" WIDTH="600" HEIGHT="59"/>
+            <String CONTENT="سنة الف الف وماية و خمسون الف درهم وفي يوم الشعانين من كل سنة ثياب من وشي" HPOS="246.80004" VPOS="2085.460338" WIDTH="1234.0002" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="116" VPOS="1065" WIDTH="611" HEIGHT="55" BASELINE="116 1120 727 1120">
+          <TextLine HPOS="238.573372" VPOS="2190.350355" WIDTH="1256.623537" HEIGHT="113.116685" BASELINE="238.573372 2303.46704 1495.196909 2303.46704">
             <Shape>
-              <Polygon POINTS="116 1065 116 1120 727 1120 727 1065"/>
+              <Polygon POINTS="238.573372 2190.350355 238.573372 2303.46704 1495.196909 2303.46704 1495.196909 2190.350355"/>
             </Shape>
-            <String CONTENT="وقصب وملحم وغيرهم بقيمة عشرة الاف درهم يكون في مدة ثلاث و عشرين سنة" HPOS="116" VPOS="1065" WIDTH="611" HEIGHT="55"/>
+            <String CONTENT="وقصب وملحم وغيرهم بقيمة عشرة الاف درهم يكون في مدة ثلاث و عشرين سنة" HPOS="238.573372" VPOS="2190.350355" WIDTH="1256.623537" HEIGHT="113.116685"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

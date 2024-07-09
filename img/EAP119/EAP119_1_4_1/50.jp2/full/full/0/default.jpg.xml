@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/50.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,62 +10,62 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="785" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="785" HEIGHT="1200">
+    <Page WIDTH="1614.483595" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1614.483595" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="332" VPOS="195" WIDTH="106" HEIGHT="69" BASELINE="332 264 438 264">
+          <TextLine HPOS="682.813444" VPOS="401.050065" WIDTH="218.006702" HEIGHT="141.910023" BASELINE="682.813444 542.960088 900.820146 542.960088">
             <Shape>
-              <Polygon POINTS="332 195 332 264 438 264 438 195"/>
+              <Polygon POINTS="682.813444 401.050065 682.813444 542.960088 900.820146 542.960088 900.820146 401.050065"/>
             </Shape>
-            <String CONTENT="فجايع البايسين" HPOS="332" VPOS="195" WIDTH="106" HEIGHT="69"/>
+            <String CONTENT="فجايع البايسين" HPOS="682.813444" VPOS="401.050065" WIDTH="218.006702" HEIGHT="141.910023"/>
           </TextLine>
-          <TextLine HPOS="69" VPOS="419" WIDTH="614" HEIGHT="52" BASELINE="69 471 683 471">
+          <TextLine HPOS="141.910023" VPOS="861.743473" WIDTH="1262.7935380000001" HEIGHT="106.946684" BASELINE="141.910023 968.690157 1404.703561 968.690157">
             <Shape>
-              <Polygon POINTS="69 419 69 471 683 471 683 419"/>
+              <Polygon POINTS="141.910023 861.743473 141.910023 968.690157 1404.703561 968.690157 1404.703561 861.743473"/>
             </Shape>
-            <String CONTENT="وان كان بين الروايتين فرق في الاسلوب وكيفية الاداء ولا عجب اذا" HPOS="69" VPOS="419" WIDTH="614" HEIGHT="52"/>
+            <String CONTENT="وان كان بين الروايتين فرق في الاسلوب وكيفية الاداء ولا عجب اذا" HPOS="141.910023" VPOS="861.743473" WIDTH="1262.7935380000001" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="76" VPOS="472" WIDTH="609" HEIGHT="57" BASELINE="76 529 685 529">
+          <TextLine HPOS="156.306692" VPOS="970.7468240000001" WIDTH="1252.510203" HEIGHT="117.230019" BASELINE="156.306692 1087.976843 1408.816895 1087.976843">
             <Shape>
-              <Polygon POINTS="76 472 76 529 685 529 685 472"/>
+              <Polygon POINTS="156.306692 970.7468240000001 156.306692 1087.976843 1408.816895 1087.976843 1408.816895 970.7468240000001"/>
             </Shape>
-            <String CONTENT="تم للمتقدم ما لم يتم للمتاخر فان حافظا هو بلا مراء مالك زمام البيان" HPOS="76" VPOS="472" WIDTH="609" HEIGHT="57"/>
+            <String CONTENT="تم للمتقدم ما لم يتم للمتاخر فان حافظا هو بلا مراء مالك زمام البيان" HPOS="156.306692" VPOS="970.7468240000001" WIDTH="1252.510203" HEIGHT="117.230019"/>
           </TextLine>
-          <TextLine HPOS="79" VPOS="524" WIDTH="605" HEIGHT="51" BASELINE="79 575 684 575">
+          <TextLine HPOS="162.476693" VPOS="1077.693508" WIDTH="1244.283535" HEIGHT="104.890017" BASELINE="162.476693 1182.583525 1406.760228 1182.583525">
             <Shape>
-              <Polygon POINTS="79 524 79 575 684 575 684 524"/>
+              <Polygon POINTS="162.476693 1077.693508 162.476693 1182.583525 1406.760228 1182.583525 1406.760228 1077.693508"/>
             </Shape>
-            <String CONTENT="والتبيان ولعل المغرمين بالروايات والعالمين بنسج الاقاصيص والحكايات" HPOS="79" VPOS="524" WIDTH="605" HEIGHT="51"/>
+            <String CONTENT="والتبيان ولعل المغرمين بالروايات والعالمين بنسج الاقاصيص والحكايات" HPOS="162.476693" VPOS="1077.693508" WIDTH="1244.283535" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="81" VPOS="570" WIDTH="604" HEIGHT="53" BASELINE="81 623 685 623">
+          <TextLine HPOS="166.590027" VPOS="1172.30019" WIDTH="1242.226868" HEIGHT="109.003351" BASELINE="166.590027 1281.303541 1408.816895 1281.303541">
             <Shape>
-              <Polygon POINTS="81 570 81 623 685 623 685 570"/>
+              <Polygon POINTS="166.590027 1172.30019 166.590027 1281.303541 1408.816895 1281.303541 1408.816895 1172.30019"/>
             </Shape>
-            <String CONTENT="يواخذونني علي الاقتضاب في الفصول الغرامية فيعدونه نقصا في الاسلوب" HPOS="81" VPOS="570" WIDTH="604" HEIGHT="53"/>
+            <String CONTENT="يواخذونني علي الاقتضاب في الفصول الغرامية فيعدونه نقصا في الاسلوب" HPOS="166.590027" VPOS="1172.30019" WIDTH="1242.226868" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="70" VPOS="616" WIDTH="616" HEIGHT="59" BASELINE="70 675 686 675">
+          <TextLine HPOS="143.96669" VPOS="1266.906872" WIDTH="1266.906872" HEIGHT="121.34335300000001" BASELINE="143.96669 1388.250225 1410.873562 1388.250225">
             <Shape>
-              <Polygon POINTS="70 616 70 675 686 675 686 616"/>
+              <Polygon POINTS="143.96669 1266.906872 143.96669 1388.250225 1410.873562 1388.250225 1410.873562 1266.906872"/>
             </Shape>
-            <String CONTENT="فانا استميحهم عذرا علي ذلك اذ قضي علي وضع الرواية وسلسلة حوادثها" HPOS="70" VPOS="616" WIDTH="616" HEIGHT="59"/>
+            <String CONTENT="فانا استميحهم عذرا علي ذلك اذ قضي علي وضع الرواية وسلسلة حوادثها" HPOS="143.96669" VPOS="1266.906872" WIDTH="1266.906872" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="80" VPOS="934" WIDTH="606" HEIGHT="53" BASELINE="80 987 686 987">
+          <TextLine HPOS="164.53336000000002" VPOS="1920.926978" WIDTH="1246.340202" HEIGHT="109.003351" BASELINE="164.53336000000002 2029.930329 1410.873562 2029.930329">
             <Shape>
-              <Polygon POINTS="80 934 80 987 686 987 686 934"/>
+              <Polygon POINTS="164.53336000000002 1920.926978 164.53336000000002 2029.930329 1410.873562 2029.930329 1410.873562 1920.926978"/>
             </Shape>
-            <String CONTENT="زوجها احمد واخبرته بما الم بها من الم المخاض فهب من ساعته لياتي بالداية واحب" HPOS="80" VPOS="934" WIDTH="606" HEIGHT="53"/>
+            <String CONTENT="زوجها احمد واخبرته بما الم بها من الم المخاض فهب من ساعته لياتي بالداية واحب" HPOS="164.53336000000002" VPOS="1920.926978" WIDTH="1246.340202" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="76" VPOS="975" WIDTH="612" HEIGHT="51" BASELINE="76 1026 688 1026">
+          <TextLine HPOS="156.306692" VPOS="2005.250325" WIDTH="1258.680204" HEIGHT="104.890017" BASELINE="156.306692 2110.140342 1414.9868960000001 2110.140342">
             <Shape>
-              <Polygon POINTS="76 975 76 1026 688 1026 688 975"/>
+              <Polygon POINTS="156.306692 2005.250325 156.306692 2110.140342 1414.9868960000001 2110.140342 1414.9868960000001 2005.250325"/>
             </Shape>
-            <String CONTENT="ان يستصحب معه مصباحا يستصبح به في ظلام الليل الدامس ولما كانت داره خالية" HPOS="76" VPOS="975" WIDTH="612" HEIGHT="51"/>
+            <String CONTENT="ان يستصحب معه مصباحا يستصبح به في ظلام الليل الدامس ولما كانت داره خالية" HPOS="156.306692" VPOS="2005.250325" WIDTH="1258.680204" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="80" VPOS="1053" WIDTH="605" HEIGHT="60" BASELINE="80 1113 685 1113">
+          <TextLine HPOS="164.53336000000002" VPOS="2165.670351" WIDTH="1244.283535" HEIGHT="123.40002" BASELINE="164.53336000000002 2289.0703710000003 1408.816895 2289.0703710000003">
             <Shape>
-              <Polygon POINTS="80 1053 80 1113 685 1113 685 1053"/>
+              <Polygon POINTS="164.53336000000002 2165.670351 164.53336000000002 2289.0703710000003 1408.816895 2289.0703710000003 1408.816895 2165.670351"/>
             </Shape>
-            <String CONTENT="مصباحا فطرق الباب عليه وكان الخادم مهتما باحضار سفرة الحلويات والفاكهة ليتناول" HPOS="80" VPOS="1053" WIDTH="605" HEIGHT="60"/>
+            <String CONTENT="مصباحا فطرق الباب عليه وكان الخادم مهتما باحضار سفرة الحلويات والفاكهة ليتناول" HPOS="164.53336000000002" VPOS="2165.670351" WIDTH="1244.283535" HEIGHT="123.40002"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

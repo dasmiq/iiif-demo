@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,44 +10,44 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="776" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="776" HEIGHT="1200">
+    <Page WIDTH="1595.973592" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1595.973592" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="317" VPOS="199" WIDTH="214" HEIGHT="58" BASELINE="317 257 531 257">
+          <TextLine HPOS="651.963439" VPOS="409.276733" WIDTH="440.126738" HEIGHT="119.286686" BASELINE="651.963439 528.563419 1092.090177 528.563419">
             <Shape>
-              <Polygon POINTS="317 199 317 257 531 257 531 199"/>
+              <Polygon POINTS="651.963439 409.276733 651.963439 528.563419 1092.090177 528.563419 1092.090177 409.276733"/>
             </Shape>
-            <String CONTENT="بجبال السمك المستحجر" HPOS="317" VPOS="199" WIDTH="214" HEIGHT="58"/>
+            <String CONTENT="بجبال السمك المستحجر" HPOS="651.963439" VPOS="409.276733" WIDTH="440.126738" HEIGHT="119.286686"/>
           </TextLine>
-          <TextLine HPOS="319" VPOS="336" WIDTH="207" HEIGHT="59" BASELINE="319 395 526 395">
+          <TextLine HPOS="656.076773" VPOS="691.040112" WIDTH="425.730069" HEIGHT="121.34335300000001" BASELINE="656.076773 812.383465 1081.806842 812.383465">
             <Shape>
-              <Polygon POINTS="319 336 319 395 526 395 526 336"/>
+              <Polygon POINTS="656.076773 691.040112 656.076773 812.383465 1081.806842 812.383465 1081.806842 691.040112"/>
             </Shape>
-            <String CONTENT="ثرا من حيوان الابحر" HPOS="319" VPOS="336" WIDTH="207" HEIGHT="59"/>
+            <String CONTENT="ثرا من حيوان الابحر" HPOS="656.076773" VPOS="691.040112" WIDTH="425.730069" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="183" VPOS="530" WIDTH="486" HEIGHT="46" BASELINE="183 576 669 576">
+          <TextLine HPOS="376.370061" VPOS="1090.03351" WIDTH="999.540162" HEIGHT="94.606682" BASELINE="376.370061 1184.640192 1375.910223 1184.640192">
             <Shape>
-              <Polygon POINTS="183 530 183 576 669 576 669 530"/>
+              <Polygon POINTS="376.370061 1090.03351 376.370061 1184.640192 1375.910223 1184.640192 1375.910223 1090.03351"/>
             </Shape>
-            <String CONTENT="في صعيد الابحر المنغمس مثل ما يوجد فوق اليبس" HPOS="183" VPOS="530" WIDTH="486" HEIGHT="46"/>
+            <String CONTENT="في صعيد الابحر المنغمس مثل ما يوجد فوق اليبس" HPOS="376.370061" VPOS="1090.03351" WIDTH="999.540162" HEIGHT="94.606682"/>
           </TextLine>
-          <TextLine HPOS="317" VPOS="760" WIDTH="211" HEIGHT="44" BASELINE="317 804 528 804">
+          <TextLine HPOS="651.963439" VPOS="1563.06692" WIDTH="433.95673700000003" HEIGHT="90.493348" BASELINE="651.963439 1653.560268 1085.920176 1653.560268">
             <Shape>
-              <Polygon POINTS="317 760 317 804 528 804 528 760"/>
+              <Polygon POINTS="651.963439 1563.06692 651.963439 1653.560268 1085.920176 1653.560268 1085.920176 1563.06692"/>
             </Shape>
-            <String CONTENT="ذات جرم ذايب مستعر" HPOS="317" VPOS="760" WIDTH="211" HEIGHT="44"/>
+            <String CONTENT="ذات جرم ذايب مستعر" HPOS="651.963439" VPOS="1563.06692" WIDTH="433.95673700000003" HEIGHT="90.493348"/>
           </TextLine>
-          <TextLine HPOS="169" VPOS="840" WIDTH="500" HEIGHT="56" BASELINE="169 896 669 896">
+          <TextLine HPOS="347.576723" VPOS="1727.60028" WIDTH="1028.3335" HEIGHT="115.173352" BASELINE="347.576723 1842.773632 1375.910223 1842.773632">
             <Shape>
-              <Polygon POINTS="169 840 169 896 669 896 669 840"/>
+              <Polygon POINTS="347.576723 1727.60028 347.576723 1842.773632 1375.910223 1842.773632 1375.910223 1727.60028"/>
             </Shape>
-            <String CONTENT="وكذاك الارض في ماضي الزمان كرويا قد غدا ملتيما" HPOS="169" VPOS="840" WIDTH="500" HEIGHT="56"/>
+            <String CONTENT="وكذاك الارض في ماضي الزمان كرويا قد غدا ملتيما" HPOS="347.576723" VPOS="1727.60028" WIDTH="1028.3335" HEIGHT="115.173352"/>
           </TextLine>
-          <TextLine HPOS="315" VPOS="1030" WIDTH="212" HEIGHT="60" BASELINE="315 1090 527 1090">
+          <TextLine HPOS="647.850105" VPOS="2118.36701" WIDTH="436.013404" HEIGHT="123.40002" BASELINE="647.850105 2241.76703 1083.863509 2241.76703">
             <Shape>
-              <Polygon POINTS="315 1030 315 1090 527 1090 527 1030"/>
+              <Polygon POINTS="647.850105 2118.36701 647.850105 2241.76703 1083.863509 2241.76703 1083.863509 2118.36701"/>
             </Shape>
-            <String CONTENT="فهي بنت الشمس ام القمر" HPOS="315" VPOS="1030" WIDTH="212" HEIGHT="60"/>
+            <String CONTENT="فهي بنت الشمس ام القمر" HPOS="647.850105" VPOS="2118.36701" WIDTH="436.013404" HEIGHT="123.40002"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

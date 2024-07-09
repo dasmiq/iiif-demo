@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,86 +10,86 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="778" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="778" HEIGHT="1200">
+    <Page WIDTH="1600.086926" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1600.086926" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="635" VPOS="156" WIDTH="95" HEIGHT="50" BASELINE="635 206 730 206">
+          <TextLine HPOS="1305.983545" VPOS="320.840052" WIDTH="195.383365" HEIGHT="102.83335" BASELINE="1305.983545 423.673402 1501.36691 423.673402">
             <Shape>
-              <Polygon POINTS="635 156 635 206 730 206 730 156"/>
+              <Polygon POINTS="1305.983545 320.840052 1305.983545 423.673402 1501.36691 423.673402 1501.36691 320.840052"/>
             </Shape>
-            <String CONTENT="ما زال يكثر" HPOS="635" VPOS="156" WIDTH="95" HEIGHT="50"/>
+            <String CONTENT="ما زال يكثر" HPOS="1305.983545" VPOS="320.840052" WIDTH="195.383365" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="108" VPOS="278" WIDTH="618" HEIGHT="55" BASELINE="108 333 726 333">
+          <TextLine HPOS="222.120036" VPOS="571.753426" WIDTH="1271.020206" HEIGHT="113.116685" BASELINE="222.120036 684.870111 1493.140242 684.870111">
             <Shape>
-              <Polygon POINTS="108 278 108 333 726 333 726 278"/>
+              <Polygon POINTS="222.120036 571.753426 222.120036 684.870111 1493.140242 684.870111 1493.140242 571.753426"/>
             </Shape>
-            <String CONTENT="وهو يترجم الان الي اكثر اللغات الاوروبية شان كل كتاب نافع يصدر" HPOS="108" VPOS="278" WIDTH="618" HEIGHT="55"/>
+            <String CONTENT="وهو يترجم الان الي اكثر اللغات الاوروبية شان كل كتاب نافع يصدر" HPOS="222.120036" VPOS="571.753426" WIDTH="1271.020206" HEIGHT="113.116685"/>
           </TextLine>
-          <TextLine HPOS="114" VPOS="331" WIDTH="615" HEIGHT="51" BASELINE="114 382 729 382">
+          <TextLine HPOS="234.460038" VPOS="680.756777" WIDTH="1264.850205" HEIGHT="104.890017" BASELINE="234.460038 785.646794 1499.3102430000001 785.646794">
             <Shape>
-              <Polygon POINTS="114 331 114 382 729 382 729 331"/>
+              <Polygon POINTS="234.460038 680.756777 234.460038 785.646794 1499.3102430000001 785.646794 1499.3102430000001 680.756777"/>
             </Shape>
-            <String CONTENT="باحدي لغاتها فلا يلبث ان يترجم في الشهر الذي يصدر فيه وربما صدرت" HPOS="114" VPOS="331" WIDTH="615" HEIGHT="51"/>
+            <String CONTENT="باحدي لغاتها فلا يلبث ان يترجم في الشهر الذي يصدر فيه وربما صدرت" HPOS="234.460038" VPOS="680.756777" WIDTH="1264.850205" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="110" VPOS="378" WIDTH="619" HEIGHT="52" BASELINE="110 430 729 430">
+          <TextLine HPOS="226.23337" VPOS="777.420126" WIDTH="1273.076873" HEIGHT="106.946684" BASELINE="226.23337 884.36681 1499.3102430000001 884.36681">
             <Shape>
-              <Polygon POINTS="110 378 110 430 729 430 729 378"/>
+              <Polygon POINTS="226.23337 777.420126 226.23337 884.36681 1499.3102430000001 884.36681 1499.3102430000001 777.420126"/>
             </Shape>
-            <String CONTENT="الترجمة والاصل في ساعة واحدة من المطبقة وقد اتي بالبراهين السديدة" HPOS="110" VPOS="378" WIDTH="619" HEIGHT="52"/>
+            <String CONTENT="الترجمة والاصل في ساعة واحدة من المطبقة وقد اتي بالبراهين السديدة" HPOS="226.23337" VPOS="777.420126" WIDTH="1273.076873" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="109" VPOS="414" WIDTH="617" HEIGHT="69" BASELINE="109 483 726 483">
+          <TextLine HPOS="224.176703" VPOS="851.460138" WIDTH="1268.963539" HEIGHT="141.910023" BASELINE="224.176703 993.370161 1493.140242 993.370161">
             <Shape>
-              <Polygon POINTS="109 414 109 483 726 483 726 414"/>
+              <Polygon POINTS="224.176703 851.460138 224.176703 993.370161 1493.140242 993.370161 1493.140242 851.460138"/>
             </Shape>
-            <String CONTENT="عند كلامه عن فلاسفة القرن التاسع عشر فانتقد كانت واضع الفلسفة" HPOS="109" VPOS="414" WIDTH="617" HEIGHT="69"/>
+            <String CONTENT="عند كلامه عن فلاسفة القرن التاسع عشر فانتقد كانت واضع الفلسفة" HPOS="224.176703" VPOS="851.460138" WIDTH="1268.963539" HEIGHT="141.910023"/>
           </TextLine>
-          <TextLine HPOS="114" VPOS="486" WIDTH="613" HEIGHT="50" BASELINE="114 536 727 536">
+          <TextLine HPOS="234.460038" VPOS="999.540162" WIDTH="1260.736871" HEIGHT="102.83335" BASELINE="234.460038 1102.3735120000001 1495.196909 1102.3735120000001">
             <Shape>
-              <Polygon POINTS="114 486 114 536 727 536 727 486"/>
+              <Polygon POINTS="234.460038 999.540162 234.460038 1102.3735120000001 1495.196909 1102.3735120000001 1495.196909 999.540162"/>
             </Shape>
-            <String CONTENT="الحديثة احسن انتقاد ثم انحي علي الفيلسوفين فيختي وهيكل الالمانيين" HPOS="114" VPOS="486" WIDTH="613" HEIGHT="50"/>
+            <String CONTENT="الحديثة احسن انتقاد ثم انحي علي الفيلسوفين فيختي وهيكل الالمانيين" HPOS="234.460038" VPOS="999.540162" WIDTH="1260.736871" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="109" VPOS="580" WIDTH="614" HEIGHT="54" BASELINE="109 634 723 634">
+          <TextLine HPOS="224.176703" VPOS="1192.86686" WIDTH="1262.7935380000001" HEIGHT="111.060018" BASELINE="224.176703 1303.926878 1486.970241 1303.926878">
             <Shape>
-              <Polygon POINTS="109 580 109 634 723 634 723 580"/>
+              <Polygon POINTS="224.176703 1192.86686 224.176703 1303.926878 1486.970241 1303.926878 1486.970241 1192.86686"/>
             </Shape>
-            <String CONTENT="وشوبنهارو وهربارت من الفلاسفة الالمان لانه لا نظام في ارايهم وهم" HPOS="109" VPOS="580" WIDTH="614" HEIGHT="54"/>
+            <String CONTENT="وشوبنهارو وهربارت من الفلاسفة الالمان لانه لا نظام في ارايهم وهم" HPOS="224.176703" VPOS="1192.86686" WIDTH="1262.7935380000001" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="108" VPOS="682" WIDTH="619" HEIGHT="51" BASELINE="108 733 727 733">
+          <TextLine HPOS="222.120036" VPOS="1402.646894" WIDTH="1273.076873" HEIGHT="104.890017" BASELINE="222.120036 1507.536911 1495.196909 1507.536911">
             <Shape>
-              <Polygon POINTS="108 682 108 733 727 733 727 682"/>
+              <Polygon POINTS="222.120036 1402.646894 222.120036 1507.536911 1495.196909 1507.536911 1495.196909 1402.646894"/>
             </Shape>
-            <String CONTENT="الفرنسوي كما تبدا الفلسفة الانكليزية من ستوارت ميل ودارومير" HPOS="108" VPOS="682" WIDTH="619" HEIGHT="51"/>
+            <String CONTENT="الفرنسوي كما تبدا الفلسفة الانكليزية من ستوارت ميل ودارومير" HPOS="222.120036" VPOS="1402.646894" WIDTH="1273.076873" HEIGHT="104.890017"/>
           </TextLine>
-          <TextLine HPOS="125" VPOS="731" WIDTH="595" HEIGHT="53" BASELINE="125 784 720 784">
+          <TextLine HPOS="257.083375" VPOS="1503.423577" WIDTH="1223.716865" HEIGHT="109.003351" BASELINE="257.083375 1612.426928 1480.80024 1612.426928">
             <Shape>
-              <Polygon POINTS="125 731 125 784 720 784 720 731"/>
+              <Polygon POINTS="257.083375 1503.423577 257.083375 1612.426928 1480.80024 1612.426928 1480.80024 1503.423577"/>
             </Shape>
-            <String CONTENT="وسبنسر فان هولاء اتوا الغرب بافكار وعواطف يسير عليها اليوم ويعيش" HPOS="125" VPOS="731" WIDTH="595" HEIGHT="53"/>
+            <String CONTENT="وسبنسر فان هولاء اتوا الغرب بافكار وعواطف يسير عليها اليوم ويعيش" HPOS="257.083375" VPOS="1503.423577" WIDTH="1223.716865" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="668" VPOS="780" WIDTH="55" HEIGHT="54" BASELINE="668 834 723 834">
+          <TextLine HPOS="1373.853556" VPOS="1604.20026" WIDTH="113.116685" HEIGHT="111.060018" BASELINE="1373.853556 1715.260278 1486.970241 1715.260278">
             <Shape>
-              <Polygon POINTS="668 780 668 834 723 834 723 780"/>
+              <Polygon POINTS="1373.853556 1604.20026 1373.853556 1715.260278 1486.970241 1715.260278 1486.970241 1604.20026"/>
             </Shape>
-            <String CONTENT="في ظلها" HPOS="668" VPOS="780" WIDTH="55" HEIGHT="54"/>
+            <String CONTENT="في ظلها" HPOS="1373.853556" VPOS="1604.20026" WIDTH="113.116685" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="102" VPOS="961" WIDTH="622" HEIGHT="53" BASELINE="102 1014 724 1014">
+          <TextLine HPOS="209.780034" VPOS="1976.456987" WIDTH="1279.246874" HEIGHT="109.003351" BASELINE="209.780034 2085.460338 1489.026908 2085.460338">
             <Shape>
-              <Polygon POINTS="102 961 102 1014 724 1014 724 961"/>
+              <Polygon POINTS="209.780034 1976.456987 209.780034 2085.460338 1489.026908 2085.460338 1489.026908 1976.456987"/>
             </Shape>
-            <String CONTENT="العلماء عنديذ بانهم كادوا يظفرون بالحلقة المفقودة بين الانسان والقرد كما" HPOS="102" VPOS="961" WIDTH="622" HEIGHT="53"/>
+            <String CONTENT="العلماء عنديذ بانهم كادوا يظفرون بالحلقة المفقودة بين الانسان والقرد كما" HPOS="209.780034" VPOS="1976.456987" WIDTH="1279.246874" HEIGHT="109.003351"/>
           </TextLine>
-          <TextLine HPOS="106" VPOS="1004" WIDTH="609" HEIGHT="54" BASELINE="106 1058 715 1058">
+          <TextLine HPOS="218.006702" VPOS="2064.893668" WIDTH="1252.510203" HEIGHT="111.060018" BASELINE="218.006702 2175.953686 1470.516905 2175.953686">
             <Shape>
-              <Polygon POINTS="106 1004 106 1058 715 1058 715 1004"/>
+              <Polygon POINTS="218.006702 2064.893668 218.006702 2175.953686 1470.516905 2175.953686 1470.516905 2064.893668"/>
             </Shape>
-            <String CONTENT="هو مذهب كبار علماء الطبيعة امثال داروين ووالاس وهاكل وغيرهم ثم" HPOS="106" VPOS="1004" WIDTH="609" HEIGHT="54"/>
+            <String CONTENT="هو مذهب كبار علماء الطبيعة امثال داروين ووالاس وهاكل وغيرهم ثم" HPOS="218.006702" VPOS="2064.893668" WIDTH="1252.510203" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="108" VPOS="1049" WIDTH="617" HEIGHT="60" BASELINE="108 1109 725 1109">
+          <TextLine HPOS="222.120036" VPOS="2157.443683" WIDTH="1268.963539" HEIGHT="123.40002" BASELINE="222.120036 2280.843703 1491.083575 2280.843703">
             <Shape>
-              <Polygon POINTS="108 1049 108 1109 725 1109 725 1049"/>
+              <Polygon POINTS="222.120036 2157.443683 222.120036 2280.843703 1491.083575 2280.843703 1491.083575 2157.443683"/>
             </Shape>
-            <String CONTENT="اجلي البحث عن لا شيء وقد فرح العلماء الان بما وفق الي اكتشافه" HPOS="108" VPOS="1049" WIDTH="617" HEIGHT="60"/>
+            <String CONTENT="اجلي البحث عن لا شيء وقد فرح العلماء الان بما وفق الي اكتشافه" HPOS="222.120036" VPOS="2157.443683" WIDTH="1268.963539" HEIGHT="123.40002"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

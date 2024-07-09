@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,20 +10,20 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="735" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="735" HEIGHT="1200">
+    <Page WIDTH="1511.650245" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1511.650245" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="126" VPOS="405" WIDTH="490" HEIGHT="50" BASELINE="126 455 616 455">
+          <TextLine HPOS="259.140042" VPOS="832.950135" WIDTH="1007.76683" HEIGHT="102.83335" BASELINE="259.140042 935.783485 1266.906872 935.783485">
             <Shape>
-              <Polygon POINTS="126 405 126 455 616 455 616 405"/>
+              <Polygon POINTS="259.140042 832.950135 259.140042 935.783485 1266.906872 935.783485 1266.906872 832.950135"/>
             </Shape>
-            <String CONTENT="ثم صارت وهي من قبل موات تصلح الاقطار منها للحياة" HPOS="126" VPOS="405" WIDTH="490" HEIGHT="50"/>
+            <String CONTENT="ثم صارت وهي من قبل موات تصلح الاقطار منها للحياة" HPOS="259.140042" VPOS="832.950135" WIDTH="1007.76683" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="135" VPOS="821" WIDTH="457" HEIGHT="49" BASELINE="135 870 592 870">
+          <TextLine HPOS="277.650045" VPOS="1688.523607" WIDTH="939.896819" HEIGHT="100.776683" BASELINE="277.650045 1789.3002900000001 1217.546864 1789.3002900000001">
             <Shape>
-              <Polygon POINTS="135 821 135 870 592 870 592 821"/>
+              <Polygon POINTS="277.650045 1688.523607 277.650045 1789.3002900000001 1217.546864 1789.3002900000001 1217.546864 1688.523607"/>
             </Shape>
-            <String CONTENT="كم علي الارض رفات باليات من جسوم طحنتها الدايرات" HPOS="135" VPOS="821" WIDTH="457" HEIGHT="49"/>
+            <String CONTENT="كم علي الارض رفات باليات من جسوم طحنتها الدايرات" HPOS="277.650045" VPOS="1688.523607" WIDTH="939.896819" HEIGHT="100.776683"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

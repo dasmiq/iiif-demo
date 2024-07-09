@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/106.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,14 +10,14 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="759" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="759" HEIGHT="1200">
+    <Page WIDTH="1561.010253" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1561.010253" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="355" VPOS="66" WIDTH="51" HEIGHT="44" BASELINE="355 110 406 110">
+          <TextLine HPOS="730.116785" VPOS="135.740022" WIDTH="104.890017" HEIGHT="90.493348" BASELINE="730.116785 226.23337 835.006802 226.23337">
             <Shape>
-              <Polygon POINTS="355 66 355 110 406 110 406 66"/>
+              <Polygon POINTS="730.116785 135.740022 730.116785 226.23337 835.006802 226.23337 835.006802 135.740022"/>
             </Shape>
-            <String CONTENT="سير العلم" HPOS="355" VPOS="66" WIDTH="51" HEIGHT="44"/>
+            <String CONTENT="سير العلم" HPOS="730.116785" VPOS="135.740022" WIDTH="104.890017" HEIGHT="90.493348"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

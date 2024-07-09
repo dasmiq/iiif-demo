@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,44 +10,44 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="805" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="805" HEIGHT="1200">
+    <Page WIDTH="1655.616935" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1655.616935" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="279" VPOS="183" WIDTH="374" HEIGHT="50" BASELINE="279 233 653 233">
+          <TextLine HPOS="573.810093" VPOS="376.370061" WIDTH="769.193458" HEIGHT="102.83335" BASELINE="573.810093 479.203411 1343.003551 479.203411">
             <Shape>
-              <Polygon POINTS="279 183 279 233 653 233 653 183"/>
+              <Polygon POINTS="573.810093 376.370061 573.810093 479.203411 1343.003551 479.203411 1343.003551 376.370061"/>
             </Shape>
-            <String CONTENT="الشهادة الحسنة بحق العدو احبولة التصديق عند الذم" HPOS="279" VPOS="183" WIDTH="374" HEIGHT="50"/>
+            <String CONTENT="الشهادة الحسنة بحق العدو احبولة التصديق عند الذم" HPOS="573.810093" VPOS="376.370061" WIDTH="769.193458" HEIGHT="102.83335"/>
           </TextLine>
-          <TextLine HPOS="607" VPOS="281" WIDTH="82" HEIGHT="41" BASELINE="607 322 689 322">
+          <TextLine HPOS="1248.396869" VPOS="577.9234270000001" WIDTH="168.646694" HEIGHT="84.323347" BASELINE="1248.396869 662.246774 1417.043563 662.246774">
             <Shape>
-              <Polygon POINTS="607 281 607 322 689 322 689 281"/>
+              <Polygon POINTS="1248.396869 577.9234270000001 1248.396869 662.246774 1417.043563 662.246774 1417.043563 577.9234270000001"/>
             </Shape>
-            <String CONTENT="بالبناء الساقط" HPOS="607" VPOS="281" WIDTH="82" HEIGHT="41"/>
+            <String CONTENT="بالبناء الساقط" HPOS="1248.396869" VPOS="577.9234270000001" WIDTH="168.646694" HEIGHT="84.323347"/>
           </TextLine>
-          <TextLine HPOS="94" VPOS="360" WIDTH="597" HEIGHT="59" BASELINE="94 419 691 419">
+          <TextLine HPOS="193.326698" VPOS="740.40012" WIDTH="1227.830199" HEIGHT="121.34335300000001" BASELINE="193.326698 861.743473 1421.156897 861.743473">
             <Shape>
-              <Polygon POINTS="94 360 94 419 691 419 691 360"/>
+              <Polygon POINTS="193.326698 740.40012 193.326698 861.743473 1421.156897 861.743473 1421.156897 740.40012"/>
             </Shape>
-            <String CONTENT="شييا من جده ولا هزله وانما كان التعب مع المتوسط هذا الذي لا يدري متي يصدق" HPOS="94" VPOS="360" WIDTH="597" HEIGHT="59"/>
+            <String CONTENT="شييا من جده ولا هزله وانما كان التعب مع المتوسط هذا الذي لا يدري متي يصدق" HPOS="193.326698" VPOS="740.40012" WIDTH="1227.830199" HEIGHT="121.34335300000001"/>
           </TextLine>
-          <TextLine HPOS="95" VPOS="499" WIDTH="556" HEIGHT="56" BASELINE="95 555 651 555">
+          <TextLine HPOS="195.383365" VPOS="1026.2768330000001" WIDTH="1143.506852" HEIGHT="115.173352" BASELINE="195.383365 1141.450185 1338.8902170000001 1141.450185">
             <Shape>
-              <Polygon POINTS="95 499 95 555 651 555 651 499"/>
+              <Polygon POINTS="195.383365 1026.2768330000001 195.383365 1141.450185 1338.8902170000001 1141.450185 1338.8902170000001 1026.2768330000001"/>
             </Shape>
-            <String CONTENT="قيمة الشيء الحاجة اليه فالثلج قيمته حمله والحجر ثمنه نقله وكم تراب هو ذهب" HPOS="95" VPOS="499" WIDTH="556" HEIGHT="56"/>
+            <String CONTENT="قيمة الشيء الحاجة اليه فالثلج قيمته حمله والحجر ثمنه نقله وكم تراب هو ذهب" HPOS="195.383365" VPOS="1026.2768330000001" WIDTH="1143.506852" HEIGHT="115.173352"/>
           </TextLine>
-          <TextLine HPOS="251" VPOS="638" WIDTH="402" HEIGHT="48" BASELINE="251 686 653 686">
+          <TextLine HPOS="516.223417" VPOS="1312.153546" WIDTH="826.780134" HEIGHT="98.720016" BASELINE="516.223417 1410.873562 1343.003551 1410.873562">
             <Shape>
-              <Polygon POINTS="251 638 251 686 653 686 653 638"/>
+              <Polygon POINTS="516.223417 1312.153546 516.223417 1410.873562 1343.003551 1410.873562 1343.003551 1312.153546"/>
             </Shape>
-            <String CONTENT="التواضع ستار كل العيوب والخضوع ملين لاقسي القلوب" HPOS="251" VPOS="638" WIDTH="402" HEIGHT="48"/>
+            <String CONTENT="التواضع ستار كل العيوب والخضوع ملين لاقسي القلوب" HPOS="516.223417" VPOS="1312.153546" WIDTH="826.780134" HEIGHT="98.720016"/>
           </TextLine>
-          <TextLine HPOS="260" VPOS="748" WIDTH="379" HEIGHT="74" BASELINE="260 822 639 822">
+          <TextLine HPOS="534.73342" VPOS="1538.386916" WIDTH="779.476793" HEIGHT="152.193358" BASELINE="534.73342 1690.580274 1314.210213 1690.580274">
             <Shape>
-              <Polygon POINTS="260 748 260 822 639 822 639 748"/>
+              <Polygon POINTS="534.73342 1538.386916 534.73342 1690.580274 1314.210213 1690.580274 1314.210213 1538.386916"/>
             </Shape>
-            <String CONTENT="كثرة التسهيل في الاول تورث كثرة التعقيد في الاخر" HPOS="260" VPOS="748" WIDTH="379" HEIGHT="74"/>
+            <String CONTENT="كثرة التسهيل في الاول تورث كثرة التعقيد في الاخر" HPOS="534.73342" VPOS="1538.386916" WIDTH="779.476793" HEIGHT="152.193358"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

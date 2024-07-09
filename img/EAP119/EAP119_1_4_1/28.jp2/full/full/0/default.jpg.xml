@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/28.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,38 +10,38 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="759" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="759" HEIGHT="1200">
+    <Page WIDTH="1561.010253" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1561.010253" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="137" VPOS="294" WIDTH="497" HEIGHT="52" BASELINE="137 346 634 346">
+          <TextLine HPOS="281.763379" VPOS="604.6600980000001" WIDTH="1022.163499" HEIGHT="106.946684" BASELINE="281.763379 711.606782 1303.926878 711.606782">
             <Shape>
-              <Polygon POINTS="137 294 137 346 634 346 634 294"/>
+              <Polygon POINTS="281.763379 604.6600980000001 281.763379 711.606782 1303.926878 711.606782 1303.926878 604.6600980000001"/>
             </Shape>
-            <String CONTENT="ان هذي الارض كانت اولا ما تري بحرا بها او جبلا" HPOS="137" VPOS="294" WIDTH="497" HEIGHT="52"/>
+            <String CONTENT="ان هذي الارض كانت اولا ما تري بحرا بها او جبلا" HPOS="281.763379" VPOS="604.6600980000001" WIDTH="1022.163499" HEIGHT="106.946684"/>
           </TextLine>
-          <TextLine HPOS="284" VPOS="391" WIDTH="210" HEIGHT="45" BASELINE="284 436 494 436">
+          <TextLine HPOS="584.093428" VPOS="804.156797" WIDTH="431.90007" HEIGHT="92.550015" BASELINE="584.093428 896.706812 1015.993498 896.706812">
             <Shape>
-              <Polygon POINTS="284 391 284 436 494 436 494 391"/>
+              <Polygon POINTS="584.093428 804.156797 584.093428 896.706812 1015.993498 896.706812 1015.993498 804.156797"/>
             </Shape>
-            <String CONTENT="من سحاب جادها بالمطر" HPOS="284" VPOS="391" WIDTH="210" HEIGHT="45"/>
+            <String CONTENT="من سحاب جادها بالمطر" HPOS="584.093428" VPOS="804.156797" WIDTH="431.90007" HEIGHT="92.550015"/>
           </TextLine>
-          <TextLine HPOS="283" VPOS="523" WIDTH="184" HEIGHT="48" BASELINE="283 571 467 571">
+          <TextLine HPOS="582.036761" VPOS="1075.636841" WIDTH="378.426728" HEIGHT="98.720016" BASELINE="582.036761 1174.356857 960.463489 1174.356857">
             <Shape>
-              <Polygon POINTS="283 523 283 571 467 571 467 523"/>
+              <Polygon POINTS="582.036761 1075.636841 582.036761 1174.356857 960.463489 1174.356857 960.463489 1075.636841"/>
             </Shape>
-            <String CONTENT="كتلة واحدة في النظر" HPOS="283" VPOS="523" WIDTH="184" HEIGHT="48"/>
+            <String CONTENT="كتلة واحدة في النظر" HPOS="582.036761" VPOS="1075.636841" WIDTH="378.426728" HEIGHT="98.720016"/>
           </TextLine>
-          <TextLine HPOS="142" VPOS="839" WIDTH="488" HEIGHT="46" BASELINE="142 885 630 885">
+          <TextLine HPOS="292.046714" VPOS="1725.543613" WIDTH="1003.653496" HEIGHT="94.606682" BASELINE="292.046714 1820.150295 1295.70021 1820.150295">
             <Shape>
-              <Polygon POINTS="142 839 142 885 630 885 630 839"/>
+              <Polygon POINTS="292.046714 1725.543613 292.046714 1820.150295 1295.70021 1820.150295 1295.70021 1725.543613"/>
             </Shape>
-            <String CONTENT="واخو الزهرة بالشمس اقتدي ولها اقرب سيار غدا" HPOS="142" VPOS="839" WIDTH="488" HEIGHT="46"/>
+            <String CONTENT="واخو الزهرة بالشمس اقتدي ولها اقرب سيار غدا" HPOS="292.046714" VPOS="1725.543613" WIDTH="1003.653496" HEIGHT="94.606682"/>
           </TextLine>
-          <TextLine HPOS="283" VPOS="928" WIDTH="207" HEIGHT="49" BASELINE="283 977 490 977">
+          <TextLine HPOS="582.036761" VPOS="1908.586976" WIDTH="425.730069" HEIGHT="100.776683" BASELINE="582.036761 2009.363659 1007.76683 2009.363659">
             <Shape>
-              <Polygon POINTS="283 928 283 977 490 977 490 928"/>
+              <Polygon POINTS="582.036761 1908.586976 582.036761 2009.363659 1007.76683 2009.363659 1007.76683 1908.586976"/>
             </Shape>
-            <String CONTENT="خلفها المريخ ثم المشتري" HPOS="283" VPOS="928" WIDTH="207" HEIGHT="49"/>
+            <String CONTENT="خلفها المريخ ثم المشتري" HPOS="582.036761" VPOS="1908.586976" WIDTH="425.730069" HEIGHT="100.776683"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

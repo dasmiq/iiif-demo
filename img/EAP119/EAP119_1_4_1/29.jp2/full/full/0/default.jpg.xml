@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
   <Description>
-    <MeasurementUnit>inch1200</MeasurementUnit>
+    <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
       <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg</fileName>
     </sourceImageInformation>
@@ -10,32 +10,32 @@
     <OtherTag ID="TYPE_1" LABEL="default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="788" HEIGHT="1200" ID="page_0">
-      <PrintSpace HPOS="0" VPOS="0" WIDTH="788" HEIGHT="1200">
+    <Page WIDTH="1620.653596" HEIGHT="2468.0004" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1620.653596" HEIGHT="2468.0004">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine HPOS="205" VPOS="394" WIDTH="468" HEIGHT="57" BASELINE="205 451 673 451">
+          <TextLine HPOS="421.616735" VPOS="810.326798" WIDTH="962.520156" HEIGHT="117.230019" BASELINE="421.616735 927.556817 1384.136891 927.556817">
             <Shape>
-              <Polygon POINTS="205 394 205 451 673 451 673 394"/>
+              <Polygon POINTS="421.616735 810.326798 421.616735 927.556817 1384.136891 927.556817 1384.136891 810.326798"/>
             </Shape>
-            <String CONTENT="ثم قد صار علي مر الزمان قشره يغلظ انا بعد ان" HPOS="205" VPOS="394" WIDTH="468" HEIGHT="57"/>
+            <String CONTENT="ثم قد صار علي مر الزمان قشره يغلظ انا بعد ان" HPOS="421.616735" VPOS="810.326798" WIDTH="962.520156" HEIGHT="117.230019"/>
           </TextLine>
-          <TextLine HPOS="332" VPOS="776" WIDTH="208" HEIGHT="47" BASELINE="332 823 540 823">
+          <TextLine HPOS="682.813444" VPOS="1595.973592" WIDTH="427.786736" HEIGHT="96.663349" BASELINE="682.813444 1692.636941 1110.60018 1692.636941">
             <Shape>
-              <Polygon POINTS="332 776 332 823 540 823 540 776"/>
+              <Polygon POINTS="682.813444 1595.973592 682.813444 1692.636941 1110.60018 1692.636941 1110.60018 1595.973592"/>
             </Shape>
-            <String CONTENT="وهو صلب الجسم صعب المكسر" HPOS="332" VPOS="776" WIDTH="208" HEIGHT="47"/>
+            <String CONTENT="وهو صلب الجسم صعب المكسر" HPOS="682.813444" VPOS="1595.973592" WIDTH="427.786736" HEIGHT="96.663349"/>
           </TextLine>
-          <TextLine HPOS="198" VPOS="960" WIDTH="477" HEIGHT="54" BASELINE="198 1014 675 1014">
+          <TextLine HPOS="407.22006600000003" VPOS="1974.40032" WIDTH="981.030159" HEIGHT="111.060018" BASELINE="407.22006600000003 2085.460338 1388.250225 2085.460338">
             <Shape>
-              <Polygon POINTS="198 960 198 1014 675 1014 675 960"/>
+              <Polygon POINTS="407.22006600000003 1974.40032 407.22006600000003 2085.460338 1388.250225 2085.460338 1388.250225 1974.40032"/>
             </Shape>
-            <String CONTENT="عمها السيل فغطي حين سال سطحها مجترفا منها الرمال" HPOS="198" VPOS="960" WIDTH="477" HEIGHT="54"/>
+            <String CONTENT="عمها السيل فغطي حين سال سطحها مجترفا منها الرمال" HPOS="407.22006600000003" VPOS="1974.40032" WIDTH="981.030159" HEIGHT="111.060018"/>
           </TextLine>
-          <TextLine HPOS="335" VPOS="1056" WIDTH="210" HEIGHT="54" BASELINE="335 1110 545 1110">
+          <TextLine HPOS="688.983445" VPOS="2171.840352" WIDTH="431.90007" HEIGHT="111.060018" BASELINE="688.983445 2282.90037 1120.883515 2282.90037">
             <Shape>
-              <Polygon POINTS="335 1056 335 1110 545 1110 545 1056"/>
+              <Polygon POINTS="688.983445 2171.840352 688.983445 2282.90037 1120.883515 2282.90037 1120.883515 2171.840352"/>
             </Shape>
-            <String CONTENT="وعلت كالسفن فوق الابحر" HPOS="335" VPOS="1056" WIDTH="210" HEIGHT="54"/>
+            <String CONTENT="وعلت كالسفن فوق الابحر" HPOS="688.983445" VPOS="2171.840352" WIDTH="431.90007" HEIGHT="111.060018"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
