@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/22.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="781" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="781" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="85" VPOS="220" WIDTH="565" HEIGHT="51" BASELINE="85 271 650 271">
+            <Shape>
+              <Polygon POINTS="85 220 85 271 650 271 650 220"/>
+            </Shape>
+            <String CONTENT="الصادق اشد الناس دهاء لانه يصل الي جميع مقاصده من اخصر الطرق ويعبر" HPOS="85" VPOS="220" WIDTH="565" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="485" VPOS="262" WIDTH="200" HEIGHT="51" BASELINE="485 313 685 313">
+            <Shape>
+              <Polygon POINTS="485 262 485 313 685 313 685 262"/>
+            </Shape>
+            <String CONTENT="الي النجاة علي جسر الاعتقاد" HPOS="485" VPOS="262" WIDTH="200" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="307" VPOS="351" WIDTH="338" HEIGHT="49" BASELINE="307 400 645 400">
+            <Shape>
+              <Polygon POINTS="307 351 307 400 645 400 645 351"/>
+            </Shape>
+            <String CONTENT="اذا كان الملك حكيما فمملكته هي المدينة الفاضلة" HPOS="307" VPOS="351" WIDTH="338" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="397" WIDTH="563" HEIGHT="54" BASELINE="86 451 649 451">
+            <Shape>
+              <Polygon POINTS="86 397 86 451 649 451 649 397"/>
+            </Shape>
+            <String CONTENT="لا تظنن العالم الشرير عالما لان العلم الذي لا تطهر معه النفس هو كالماء الذي" HPOS="86" VPOS="397" WIDTH="563" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="756" WIDTH="559" HEIGHT="47" BASELINE="90 803 649 803">
+            <Shape>
+              <Polygon POINTS="90 756 90 803 649 803 649 756"/>
+            </Shape>
+            <String CONTENT="الثناء نبت شايك لا يجتني الا بادماء الاصابع والراحة لص هارب لا يمسك" HPOS="90" VPOS="756" WIDTH="559" HEIGHT="47"/>
+          </TextLine>
+          <TextLine HPOS="593" VPOS="869" WIDTH="75" HEIGHT="62" BASELINE="593 931 668 931">
+            <Shape>
+              <Polygon POINTS="593 869 593 931 668 931 668 869"/>
+            </Shape>
+            <String CONTENT="كرمك بالمنة" HPOS="593" VPOS="869" WIDTH="75" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="185" VPOS="973" WIDTH="455" HEIGHT="50" BASELINE="185 1023 640 1023">
+            <Shape>
+              <Polygon POINTS="185 973 185 1023 640 1023 640 973"/>
+            </Shape>
+            <String CONTENT="ضدان لا اصعب من اجتماعهما لدي المرء ضيق الرزق وسعة العقل" HPOS="185" VPOS="973" WIDTH="455" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="170" VPOS="1063" WIDTH="478" HEIGHT="54" BASELINE="170 1117 648 1117">
+            <Shape>
+              <Polygon POINTS="170 1063 170 1117 648 1117 648 1063"/>
+            </Shape>
+            <String CONTENT="ما عاض من المال مثل العقل ولا سد هوة الفقر مثل الشرف ولا" HPOS="170" VPOS="1063" WIDTH="478" HEIGHT="54"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

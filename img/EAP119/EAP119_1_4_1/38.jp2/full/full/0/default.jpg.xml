@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/38.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="794" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="794" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="81" VPOS="187" WIDTH="613" HEIGHT="61" BASELINE="81 248 694 248">
+            <Shape>
+              <Polygon POINTS="81 187 81 248 694 248 694 187"/>
+            </Shape>
+            <String CONTENT="الاصمعي لقد اكثر الناس في العشق فما سمعت باوجز ولا اجمل من قول بعض نساء" HPOS="81" VPOS="187" WIDTH="613" HEIGHT="61"/>
+          </TextLine>
+          <TextLine HPOS="80" VPOS="238" WIDTH="615" HEIGHT="54" BASELINE="80 292 695 292">
+            <Shape>
+              <Polygon POINTS="80 238 80 292 695 292 695 238"/>
+            </Shape>
+            <String CONTENT="الاعراب وسيلت عن العشق فقالت داء وجنون وكانت العرب تقول الشباب شعبة" HPOS="80" VPOS="238" WIDTH="615" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="331" WIDTH="566" HEIGHT="56" BASELINE="86 387 652 387">
+            <Shape>
+              <Polygon POINTS="86 331 86 387 652 387 652 331"/>
+            </Shape>
+            <String CONTENT="وهنا تم القسم العلمي من الكتاب وبدا المولف يورد القصص والحكايات" HPOS="86" VPOS="331" WIDTH="566" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="75" VPOS="380" WIDTH="619" HEIGHT="53" BASELINE="75 433 694 433">
+            <Shape>
+              <Polygon POINTS="75 380 75 433 694 433 694 380"/>
+            </Shape>
+            <String CONTENT="الكثيرة علي المجانين واشعارهم وذكر امثلة ممن اعتقد بدعة وارتكب كبيرة فادركه شومها" HPOS="75" VPOS="380" WIDTH="619" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="472" WIDTH="603" HEIGHT="48" BASELINE="85 520 688 520">
+            <Shape>
+              <Polygon POINTS="85 472 85 520 688 520 688 472"/>
+            </Shape>
+            <String CONTENT="من تعاطي ذلك ليري شانه ويستره علي الناس ومنهم من تحامق لينال غناء ومن تحامق" HPOS="85" VPOS="472" WIDTH="603" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="82" VPOS="559" WIDTH="566" HEIGHT="55" BASELINE="82 614 648 614">
+            <Shape>
+              <Polygon POINTS="82 559 82 614 648 614 648 559"/>
+            </Shape>
+            <String CONTENT="ولم تخل هذه الحكايات من حكم وامثال لا يتاتي مثلها الا لارباب العقول واشعار" HPOS="82" VPOS="559" WIDTH="566" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="183" VPOS="744" WIDTH="405" HEIGHT="48" BASELINE="183 792 588 792">
+            <Shape>
+              <Polygon POINTS="183 744 183 792 588 792 588 744"/>
+            </Shape>
+            <String CONTENT="ولقد قلت حين اغروا بلومي ايها اللايمون في الحمق مهلا" HPOS="183" VPOS="744" WIDTH="405" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="906" WIDTH="555" HEIGHT="51" BASELINE="89 957 644 957">
+            <Shape>
+              <Polygon POINTS="89 906 89 957 644 957 644 906"/>
+            </Shape>
+            <String CONTENT="ومن حكاياتهم ان رجلا الي بيمين ان لا يتزوج حتي يستشير ماية نفس لما" HPOS="89" VPOS="906" WIDTH="555" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="957" WIDTH="600" HEIGHT="51" BASELINE="87 1008 687 1008">
+            <Shape>
+              <Polygon POINTS="87 957 87 1008 687 1008 687 957"/>
+            </Shape>
+            <String CONTENT="قاسي من بلاء النساء فاستشار تسعة و تسعين نفسا وبقي واحد فخرج علي ان يسال اول" HPOS="87" VPOS="957" WIDTH="600" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="992" WIDTH="597" HEIGHT="53" BASELINE="90 1045 687 1045">
+            <Shape>
+              <Polygon POINTS="90 992 90 1045 687 1045 687 992"/>
+            </Shape>
+            <String CONTENT="من نظر اليه فراي مجنونا قد اتخذ قلادة من عظم وسود وجهه وركب قصبة فاخذ رمحه" HPOS="90" VPOS="992" WIDTH="597" HEIGHT="53"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/17.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="796" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="796" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="99" VPOS="157" WIDTH="579" HEIGHT="54" BASELINE="99 211 678 211">
+            <Shape>
+              <Polygon POINTS="99 157 99 211 678 211 678 157"/>
+            </Shape>
+            <String CONTENT="ومما يقصونه من الاخبار عن فيرموس ماركوس الجبار المصري انه كان يركب" HPOS="99" VPOS="157" WIDTH="579" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="98" VPOS="196" WIDTH="626" HEIGHT="61" BASELINE="98 257 724 257">
+            <Shape>
+              <Polygon POINTS="98 196 98 257 724 257 724 196"/>
+            </Shape>
+            <String CONTENT="نعاما ضخمة ويستوي علي ظهورها فتنساب به انسيابا سريعا حتي كنت تخاله يطير" HPOS="98" VPOS="196" WIDTH="626" HEIGHT="61"/>
+          </TextLine>
+          <TextLine HPOS="111" VPOS="342" WIDTH="611" HEIGHT="54" BASELINE="111 396 722 396">
+            <Shape>
+              <Polygon POINTS="111 342 111 396 722 396 722 342"/>
+            </Shape>
+            <String CONTENT="واستعمل النعام في نينوي صورا لطيفة في الثياب المطرزة والمشالح الاشورية وفي بعض" HPOS="111" VPOS="342" WIDTH="611" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="373" WIDTH="632" HEIGHT="69" BASELINE="96 442 728 442">
+            <Shape>
+              <Polygon POINTS="96 373 96 442 728 442 728 373"/>
+            </Shape>
+            <String CONTENT="النقود الرومية صور مقلوبة تمثل نعامة تسير الي الشمال والكلب يهم بها وفي صور قدماء" HPOS="96" VPOS="373" WIDTH="632" HEIGHT="69"/>
+          </TextLine>
+          <TextLine HPOS="227" VPOS="433" WIDTH="500" HEIGHT="55" BASELINE="227 488 727 488">
+            <Shape>
+              <Polygon POINTS="227 433 227 488 727 488 727 433"/>
+            </Shape>
+            <String CONTENT="المصريين اشياء كثيرة تدل علي استخدامهم النعام في كثير من المهام" HPOS="227" VPOS="433" WIDTH="500" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="101" VPOS="482" WIDTH="584" HEIGHT="53" BASELINE="101 535 685 535">
+            <Shape>
+              <Polygon POINTS="101 482 101 535 685 535 685 482"/>
+            </Shape>
+            <String CONTENT="ورد في كتب التاريخ اقاصيص عن حسن تخلص النعام في الحروب مما يرجع" HPOS="101" VPOS="482" WIDTH="584" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="607" WIDTH="627" HEIGHT="63" BASELINE="99 670 726 670">
+            <Shape>
+              <Polygon POINTS="99 607 99 670 726 670 726 607"/>
+            </Shape>
+            <String CONTENT="الجعلان ولذلك نري من جملة الجزي التي كان الفراعنة يضربونها علي سكان الحبشة" HPOS="99" VPOS="607" WIDTH="627" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="712" WIDTH="576" HEIGHT="48" BASELINE="108 760 684 760">
+            <Shape>
+              <Polygon POINTS="108 712 108 760 684 760 684 712"/>
+            </Shape>
+            <String CONTENT="يقول هورابولون ان المصريين كانوا يمثلون للرجل العادل بريش النعام بدعوي" HPOS="108" VPOS="712" WIDTH="576" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="104" VPOS="757" WIDTH="622" HEIGHT="50" BASELINE="104 807 726 807">
+            <Shape>
+              <Polygon POINTS="104 757 104 807 726 807 726 757"/>
+            </Shape>
+            <String CONTENT="ان هذا الطاير هو الوحيد من بين الطيور في تساوي ريشه ولذلك امثلة كثيرة في" HPOS="104" VPOS="757" WIDTH="622" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="789" WIDTH="620" HEIGHT="68" BASELINE="105 857 725 857">
+            <Shape>
+              <Polygon POINTS="105 789 105 857 725 857 725 789"/>
+            </Shape>
+            <String CONTENT="تاريخهم القديم وتري في الخط الهيروغليفي ان ريش النعام اشارة الي صوتين مختلفين" HPOS="105" VPOS="789" WIDTH="620" HEIGHT="68"/>
+          </TextLine>
+          <TextLine HPOS="98" VPOS="986" WIDTH="628" HEIGHT="52" BASELINE="98 1038 726 1038">
+            <Shape>
+              <Polygon POINTS="98 986 98 1038 726 1038 726 986"/>
+            </Shape>
+            <String CONTENT="امراة وكثيرا ما تظهر في صورة رشيقة متجلببة برداء ضيق وقد جعلت في ذراعيها" HPOS="98" VPOS="986" WIDTH="628" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="110" VPOS="1035" WIDTH="613" HEIGHT="50" BASELINE="110 1085 723 1085">
+            <Shape>
+              <Polygon POINTS="110 1035 110 1085 723 1085 723 1035"/>
+            </Shape>
+            <String CONTENT="وكاحليها اساور وفي احدي يديها اشارة الحياة وفي الثانية صولجانا تريد بذلك" HPOS="110" VPOS="1035" WIDTH="613" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="106" VPOS="1077" WIDTH="623" HEIGHT="53" BASELINE="106 1130 729 1130">
+            <Shape>
+              <Polygon POINTS="106 1077 106 1130 729 1130 729 1077"/>
+            </Shape>
+            <String CONTENT="الحقيقة والعدل وكثيرا ما كنت تري امثال هذه الصور ماثلة بعضها اما بعض وقد" HPOS="106" VPOS="1077" WIDTH="623" HEIGHT="53"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

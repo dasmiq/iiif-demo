@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/43.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="814" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="814" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="116" VPOS="97" WIDTH="577" HEIGHT="60" BASELINE="116 157 693 157">
+            <Shape>
+              <Polygon POINTS="116 97 116 157 693 157 693 97"/>
+            </Shape>
+            <String CONTENT="والكتاب جيد الطبع علي الجملة يطلب من مكتبة مصطفي افندي فهمي" HPOS="116" VPOS="97" WIDTH="577" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="116" VPOS="143" WIDTH="630" HEIGHT="64" BASELINE="116 207 746 207">
+            <Shape>
+              <Polygon POINTS="116 143 116 207 746 207 746 143"/>
+            </Shape>
+            <String CONTENT="بخمسين قرشا مصريا فنحث علي اقتنايه فان حسناته كثيرة ولا يجوز ان" HPOS="116" VPOS="143" WIDTH="630" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="116" VPOS="202" WIDTH="627" HEIGHT="55" BASELINE="116 257 743 257">
+            <Shape>
+              <Polygon POINTS="116 202 116 257 743 257 743 202"/>
+            </Shape>
+            <String CONTENT="يزهد في عقد من اللولو اذا كان فيه بعض الخرز والصيرفي الحاذق ينقد" HPOS="116" VPOS="202" WIDTH="627" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="388" WIDTH="624" HEIGHT="57" BASELINE="123 445 747 445">
+            <Shape>
+              <Polygon POINTS="123 388 123 445 747 445 747 388"/>
+            </Shape>
+            <String CONTENT="اجتماعية وتاريخية عن البحيرة والشرقية والفيوم واسيوط وغيرها ومباحث" HPOS="123" VPOS="388" WIDTH="624" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="445" WIDTH="625" HEIGHT="51" BASELINE="122 496 747 496">
+            <Shape>
+              <Polygon POINTS="122 445 122 496 747 496 747 445"/>
+            </Shape>
+            <String CONTENT="عمومية عن العربان والامن العام وغير ذلك مما له علاقة بحياة هذه المديريات" HPOS="122" VPOS="445" WIDTH="625" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="115" VPOS="496" WIDTH="635" HEIGHT="52" BASELINE="115 548 750 548">
+            <Shape>
+              <Polygon POINTS="115 496 115 548 750 548 750 496"/>
+            </Shape>
+            <String CONTENT="المهمة في القطر المصري ساح فيها عوض افندي واصف صاحب مجلة" HPOS="115" VPOS="496" WIDTH="635" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="643" WIDTH="629" HEIGHT="58" BASELINE="123 701 752 701">
+            <Shape>
+              <Polygon POINTS="123 643 123 701 752 701 752 643"/>
+            </Shape>
+            <String CONTENT="ا لمشتركيه في العام الماضي وهي تطلب من مولفها وفيها من الفوايد ما يرغب" HPOS="123" VPOS="643" WIDTH="629" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="141" VPOS="696" WIDTH="609" HEIGHT="53" BASELINE="141 749 750 749">
+            <Shape>
+              <Polygon POINTS="141 696 141 749 750 749 750 696"/>
+            </Shape>
+            <String CONTENT="فيه كل مصري اديب فنحث علي اقتنايها ونشكر لرصيفنا عنايته وهديته" HPOS="141" VPOS="696" WIDTH="609" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="399" VPOS="775" WIDTH="99" HEIGHT="77" BASELINE="399 852 498 852">
+            <Shape>
+              <Polygon POINTS="399 775 399 852 498 852 498 775"/>
+            </Shape>
+            <String CONTENT="سير العلم" HPOS="399" VPOS="775" WIDTH="99" HEIGHT="77"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="908" WIDTH="631" HEIGHT="60" BASELINE="122 968 753 968">
+            <Shape>
+              <Polygon POINTS="122 908 122 968 753 968 753 908"/>
+            </Shape>
+            <String CONTENT="الروسي انتشارا عظيما في العهد الاخير واقبل الاوروبيون علي تعلمها لسهولة" HPOS="122" VPOS="908" WIDTH="631" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="970" WIDTH="630" HEIGHT="55" BASELINE="122 1025 752 1025">
+            <Shape>
+              <Polygon POINTS="122 970 122 1025 752 1025 752 970"/>
+            </Shape>
+            <String CONTENT="ماخذها وسينعقد موتمرها هذه السنة في كامبردج فتقيم له كلية هذه المدينة" HPOS="122" VPOS="970" WIDTH="630" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="127" VPOS="1054" WIDTH="627" HEIGHT="72" BASELINE="127 1126 754 1126">
+            <Shape>
+              <Polygon POINTS="127 1054 127 1126 754 1126 754 1054"/>
+            </Shape>
+            <String CONTENT="وممن ينتصر لهذه اللغة وتلقنها ملكة اسبانيا وملكة نروج التي تعلم هذه اللغة" HPOS="127" VPOS="1054" WIDTH="627" HEIGHT="72"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

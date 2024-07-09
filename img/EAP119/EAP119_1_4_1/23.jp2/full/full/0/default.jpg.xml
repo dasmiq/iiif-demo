@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/23.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="803" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="803" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="112" VPOS="107" WIDTH="637" HEIGHT="57" BASELINE="112 164 749 164">
+            <Shape>
+              <Polygon POINTS="112 107 112 164 749 164 749 107"/>
+            </Shape>
+            <String CONTENT="الفضيلة مثل ريح الدعوي ولا جدع انف الاصالة مثل دنس العرض والاصيل الطاهر" HPOS="112" VPOS="107" WIDTH="637" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="202" VPOS="203" WIDTH="499" HEIGHT="50" BASELINE="202 253 701 253">
+            <Shape>
+              <Polygon POINTS="202 203 202 253 701 253 701 203"/>
+            </Shape>
+            <String CONTENT="مناط الحساب العقل وعلي قدر عقل الخصم يكون انفعال خصمه منه" HPOS="202" VPOS="203" WIDTH="499" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="465" VPOS="394" WIDTH="254" HEIGHT="83" BASELINE="465 477 719 477">
+            <Shape>
+              <Polygon POINTS="465 394 465 477 719 477 719 394"/>
+            </Shape>
+            <String CONTENT="العقل مع جرات الايتلاف بالقلب" HPOS="465" VPOS="394" WIDTH="254" HEIGHT="83"/>
+          </TextLine>
+          <TextLine HPOS="225" VPOS="484" WIDTH="519" HEIGHT="50" BASELINE="225 534 744 534">
+            <Shape>
+              <Polygon POINTS="225 484 225 534 744 534 744 484"/>
+            </Shape>
+            <String CONTENT="لان الصواب للنجاح اساس وما جاء خلاف ذلك فعلي خلاف القياس" HPOS="225" VPOS="484" WIDTH="519" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="109" VPOS="578" WIDTH="588" HEIGHT="52" BASELINE="109 630 697 630">
+            <Shape>
+              <Polygon POINTS="109 578 109 630 697 630 697 578"/>
+            </Shape>
+            <String CONTENT="ما اعجب الا ممن يتعرض للنوافل وهو غير متمم للفروض وممن يتصدي للمكارم" HPOS="109" VPOS="578" WIDTH="588" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="109" VPOS="610" WIDTH="628" HEIGHT="61" BASELINE="109 671 737 671">
+            <Shape>
+              <Polygon POINTS="109 610 109 671 737 671 737 610"/>
+            </Shape>
+            <String CONTENT="وهو غير مود للحقوق وممن ياخذ طريقة رفاعية او قادرية وهو مقصر في نفس الاسلام" HPOS="109" VPOS="610" WIDTH="628" HEIGHT="61"/>
+          </TextLine>
+          <TextLine HPOS="104" VPOS="804" WIDTH="635" HEIGHT="55" BASELINE="104 859 739 859">
+            <Shape>
+              <Polygon POINTS="104 804 104 859 739 859 739 804"/>
+            </Shape>
+            <String CONTENT="الجلاس اذ بين الصداقة والموانسة درجات فموانسة الجميع لباقة وكياسة ومصادقة" HPOS="104" VPOS="804" WIDTH="635" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="903" WIDTH="592" HEIGHT="55" BASELINE="108 958 700 958">
+            <Shape>
+              <Polygon POINTS="108 903 108 958 700 958 700 903"/>
+            </Shape>
+            <String CONTENT="لا يمكن الانسان ان يحب من لا يحترم ولكن ربما اتخذ من لا يحترم وسيلة" HPOS="108" VPOS="903" WIDTH="592" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="111" VPOS="998" WIDTH="589" HEIGHT="50" BASELINE="111 1048 700 1048">
+            <Shape>
+              <Polygon POINTS="111 998 111 1048 700 1048 700 998"/>
+            </Shape>
+            <String CONTENT="لا يجب الاتكال علي الكبار في تجويد الاعمال العامة بسبب علو مر بهم" HPOS="111" VPOS="998" WIDTH="589" HEIGHT="50"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

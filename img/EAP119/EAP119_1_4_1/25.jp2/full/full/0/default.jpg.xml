@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/25.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="820" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="820" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="138" VPOS="236" WIDTH="627" HEIGHT="59" BASELINE="138 295 765 295">
+            <Shape>
+              <Polygon POINTS="138 236 138 295 765 295 765 236"/>
+            </Shape>
+            <String CONTENT="ذلك العهد لم يذكروا عنها سوي اخبار اكتشافها في اواخر ذلك القرن غير ان كلام" HPOS="138" VPOS="236" WIDTH="627" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="136" VPOS="285" WIDTH="628" HEIGHT="53" BASELINE="136 338 764 338">
+            <Shape>
+              <Polygon POINTS="136 285 136 338 764 338 764 285"/>
+            </Shape>
+            <String CONTENT="ايراتوستينيس واسترابون اليونانيين اللذين عنيا بفن الجغرافيا بنحو ٢٠٠ سنة ق م" HPOS="136" VPOS="285" WIDTH="628" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="139" VPOS="381" WIDTH="582" HEIGHT="52" BASELINE="139 433 721 433">
+            <Shape>
+              <Polygon POINTS="139 381 139 433 721 433 721 381"/>
+            </Shape>
+            <String CONTENT="ولقد اهتم الخليفة المامون بن هارون الرشيد السابع من خلفاء بني العباس عام ٨٣٣" HPOS="139" VPOS="381" WIDTH="582" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="145" VPOS="428" WIDTH="622" HEIGHT="53" BASELINE="145 481 767 481">
+            <Shape>
+              <Polygon POINTS="145 428 145 481 767 481 767 428"/>
+            </Shape>
+            <String CONTENT="للميلاد بعلم الجغرافيا في جملة ما اهتم به من اصناف العلوم فكان من ذلك انه اشتغل" HPOS="145" VPOS="428" WIDTH="622" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="143" VPOS="461" WIDTH="621" HEIGHT="62" BASELINE="143 523 764 523">
+            <Shape>
+              <Polygon POINTS="143 461 143 523 764 523 764 461"/>
+            </Shape>
+            <String CONTENT="في هذا الفن عدد من علية علماء العرب في دار الخلافة وانتشرت معرفته من تلك" HPOS="143" VPOS="461" WIDTH="621" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="508" WIDTH="629" HEIGHT="63" BASELINE="137 571 766 571">
+            <Shape>
+              <Polygon POINTS="137 508 137 571 766 571 766 508"/>
+            </Shape>
+            <String CONTENT="المدينة الي معظم البلدان بعد ان درست اثاره وطمست اخباره في القرون المتوسطة" HPOS="137" VPOS="508" WIDTH="629" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="142" VPOS="596" WIDTH="579" HEIGHT="69" BASELINE="142 665 721 665">
+            <Shape>
+              <Polygon POINTS="142 596 142 665 721 665 721 596"/>
+            </Shape>
+            <String CONTENT="ولم يقتصر علماء العرب اذ ذاك علي جمع ما بقي من اقوال علماء اليونان والرومان" HPOS="142" VPOS="596" WIDTH="579" HEIGHT="69"/>
+          </TextLine>
+          <TextLine HPOS="142" VPOS="661" WIDTH="616" HEIGHT="52" BASELINE="142 713 758 713">
+            <Shape>
+              <Polygon POINTS="142 661 142 713 758 713 758 661"/>
+            </Shape>
+            <String CONTENT="في هذا الفن بل جدوا في اكتشاف بلاد مجهولة في ايامهم وتخطيطها فذهب فريق" HPOS="142" VPOS="661" WIDTH="616" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="707" WIDTH="627" HEIGHT="53" BASELINE="137 760 764 760">
+            <Shape>
+              <Polygon POINTS="137 707 137 760 764 760 764 707"/>
+            </Shape>
+            <String CONTENT="منهم سنة ٩٠٠ للمسيح الي الشرق الاقصي من القارة الاسيوية ومضي فريق اخر" HPOS="137" VPOS="707" WIDTH="627" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="136" VPOS="747" WIDTH="626" HEIGHT="53" BASELINE="136 800 762 800">
+            <Shape>
+              <Polygon POINTS="136 747 136 800 762 800 762 747"/>
+            </Shape>
+            <String CONTENT="الي القارة الغربية ولو لم يثبط عزايمهم امير الجزيرة التي بلغوها بعد ٢٤ يوما من سفرهم" HPOS="136" VPOS="747" WIDTH="626" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="218" VPOS="787" WIDTH="541" HEIGHT="57" BASELINE="218 844 759 844">
+            <Shape>
+              <Polygon POINTS="218 787 218 844 759 844 759 787"/>
+            </Shape>
+            <String CONTENT="من لشبونة من بلاد البرتغال الي الغرب لكانوا اول من اكتشفوا اميركا" HPOS="218" VPOS="787" WIDTH="541" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="142" VPOS="886" WIDTH="615" HEIGHT="53" BASELINE="142 939 757 939">
+            <Shape>
+              <Polygon POINTS="142 886 142 939 757 939 757 886"/>
+            </Shape>
+            <String CONTENT="ولذا بقيت القارة الامريكية واستراليا والجهات الشمالية من اوروبا والجهات الشرقية من" HPOS="142" VPOS="886" WIDTH="615" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="136" VPOS="931" WIDTH="620" HEIGHT="50" BASELINE="136 981 756 981">
+            <Shape>
+              <Polygon POINTS="136 931 136 981 756 981 756 931"/>
+            </Shape>
+            <String CONTENT="اسيا مجهولة في تلك البرهة الطويلة ومن الحروب والفتوحات ما يبعث علي يقظة" HPOS="136" VPOS="931" WIDTH="620" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="131" VPOS="1057" WIDTH="624" HEIGHT="70" BASELINE="131 1127 755 1127">
+            <Shape>
+              <Polygon POINTS="131 1057 131 1127 755 1127 755 1057"/>
+            </Shape>
+            <String CONTENT="حملوها علي المشرق حاملين معهم ما اكتسبوه من علوم العرب وكتبهم واخذوا" HPOS="131" VPOS="1057" WIDTH="624" HEIGHT="70"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

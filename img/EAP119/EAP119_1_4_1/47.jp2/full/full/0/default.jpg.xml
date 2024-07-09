@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/47.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="778" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="778" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="635" VPOS="156" WIDTH="95" HEIGHT="50" BASELINE="635 206 730 206">
+            <Shape>
+              <Polygon POINTS="635 156 635 206 730 206 730 156"/>
+            </Shape>
+            <String CONTENT="ما زال يكثر" HPOS="635" VPOS="156" WIDTH="95" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="278" WIDTH="618" HEIGHT="55" BASELINE="108 333 726 333">
+            <Shape>
+              <Polygon POINTS="108 278 108 333 726 333 726 278"/>
+            </Shape>
+            <String CONTENT="وهو يترجم الان الي اكثر اللغات الاوروبية شان كل كتاب نافع يصدر" HPOS="108" VPOS="278" WIDTH="618" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="114" VPOS="331" WIDTH="615" HEIGHT="51" BASELINE="114 382 729 382">
+            <Shape>
+              <Polygon POINTS="114 331 114 382 729 382 729 331"/>
+            </Shape>
+            <String CONTENT="باحدي لغاتها فلا يلبث ان يترجم في الشهر الذي يصدر فيه وربما صدرت" HPOS="114" VPOS="331" WIDTH="615" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="110" VPOS="378" WIDTH="619" HEIGHT="52" BASELINE="110 430 729 430">
+            <Shape>
+              <Polygon POINTS="110 378 110 430 729 430 729 378"/>
+            </Shape>
+            <String CONTENT="الترجمة والاصل في ساعة واحدة من المطبقة وقد اتي بالبراهين السديدة" HPOS="110" VPOS="378" WIDTH="619" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="109" VPOS="414" WIDTH="617" HEIGHT="69" BASELINE="109 483 726 483">
+            <Shape>
+              <Polygon POINTS="109 414 109 483 726 483 726 414"/>
+            </Shape>
+            <String CONTENT="عند كلامه عن فلاسفة القرن التاسع عشر فانتقد كانت واضع الفلسفة" HPOS="109" VPOS="414" WIDTH="617" HEIGHT="69"/>
+          </TextLine>
+          <TextLine HPOS="114" VPOS="486" WIDTH="613" HEIGHT="50" BASELINE="114 536 727 536">
+            <Shape>
+              <Polygon POINTS="114 486 114 536 727 536 727 486"/>
+            </Shape>
+            <String CONTENT="الحديثة احسن انتقاد ثم انحي علي الفيلسوفين فيختي وهيكل الالمانيين" HPOS="114" VPOS="486" WIDTH="613" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="109" VPOS="580" WIDTH="614" HEIGHT="54" BASELINE="109 634 723 634">
+            <Shape>
+              <Polygon POINTS="109 580 109 634 723 634 723 580"/>
+            </Shape>
+            <String CONTENT="وشوبنهارو وهربارت من الفلاسفة الالمان لانه لا نظام في ارايهم وهم" HPOS="109" VPOS="580" WIDTH="614" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="682" WIDTH="619" HEIGHT="51" BASELINE="108 733 727 733">
+            <Shape>
+              <Polygon POINTS="108 682 108 733 727 733 727 682"/>
+            </Shape>
+            <String CONTENT="الفرنسوي كما تبدا الفلسفة الانكليزية من ستوارت ميل ودارومير" HPOS="108" VPOS="682" WIDTH="619" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="125" VPOS="731" WIDTH="595" HEIGHT="53" BASELINE="125 784 720 784">
+            <Shape>
+              <Polygon POINTS="125 731 125 784 720 784 720 731"/>
+            </Shape>
+            <String CONTENT="وسبنسر فان هولاء اتوا الغرب بافكار وعواطف يسير عليها اليوم ويعيش" HPOS="125" VPOS="731" WIDTH="595" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="668" VPOS="780" WIDTH="55" HEIGHT="54" BASELINE="668 834 723 834">
+            <Shape>
+              <Polygon POINTS="668 780 668 834 723 834 723 780"/>
+            </Shape>
+            <String CONTENT="في ظلها" HPOS="668" VPOS="780" WIDTH="55" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="961" WIDTH="622" HEIGHT="53" BASELINE="102 1014 724 1014">
+            <Shape>
+              <Polygon POINTS="102 961 102 1014 724 1014 724 961"/>
+            </Shape>
+            <String CONTENT="العلماء عنديذ بانهم كادوا يظفرون بالحلقة المفقودة بين الانسان والقرد كما" HPOS="102" VPOS="961" WIDTH="622" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="106" VPOS="1004" WIDTH="609" HEIGHT="54" BASELINE="106 1058 715 1058">
+            <Shape>
+              <Polygon POINTS="106 1004 106 1058 715 1058 715 1004"/>
+            </Shape>
+            <String CONTENT="هو مذهب كبار علماء الطبيعة امثال داروين ووالاس وهاكل وغيرهم ثم" HPOS="106" VPOS="1004" WIDTH="609" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="1049" WIDTH="617" HEIGHT="60" BASELINE="108 1109 725 1109">
+            <Shape>
+              <Polygon POINTS="108 1049 108 1109 725 1109 725 1049"/>
+            </Shape>
+            <String CONTENT="اجلي البحث عن لا شيء وقد فرح العلماء الان بما وفق الي اكتشافه" HPOS="108" VPOS="1049" WIDTH="617" HEIGHT="60"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

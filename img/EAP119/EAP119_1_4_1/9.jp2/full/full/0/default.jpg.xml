@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/9.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="753" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="753" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="124" VPOS="963" WIDTH="600" HEIGHT="63" BASELINE="124 1026 724 1026">
+            <Shape>
+              <Polygon POINTS="124 963 124 1026 724 1026 724 963"/>
+            </Shape>
+            <String CONTENT="النصاري في كل سمة من الورق خمسون الف درهم يكون في مدة ثلاث و عشرين" HPOS="124" VPOS="963" WIDTH="600" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="120" VPOS="1014" WIDTH="600" HEIGHT="59" BASELINE="120 1073 720 1073">
+            <Shape>
+              <Polygon POINTS="120 1014 120 1073 720 1073 720 1014"/>
+            </Shape>
+            <String CONTENT="سنة الف الف وماية و خمسون الف درهم وفي يوم الشعانين من كل سنة ثياب من وشي" HPOS="120" VPOS="1014" WIDTH="600" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="116" VPOS="1065" WIDTH="611" HEIGHT="55" BASELINE="116 1120 727 1120">
+            <Shape>
+              <Polygon POINTS="116 1065 116 1120 727 1120 727 1065"/>
+            </Shape>
+            <String CONTENT="وقصب وملحم وغيرهم بقيمة عشرة الاف درهم يكون في مدة ثلاث و عشرين سنة" HPOS="116" VPOS="1065" WIDTH="611" HEIGHT="55"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

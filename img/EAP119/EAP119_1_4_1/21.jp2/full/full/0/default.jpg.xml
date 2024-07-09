@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/21.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="779" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="779" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="355" VPOS="46" WIDTH="84" HEIGHT="63" BASELINE="355 109 439 109">
+            <Shape>
+              <Polygon POINTS="355 46 355 109 439 109 439 46"/>
+            </Shape>
+            <String CONTENT="حكم وخواطر" HPOS="355" VPOS="46" WIDTH="84" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="191" WIDTH="555" HEIGHT="62" BASELINE="95 253 650 253">
+            <Shape>
+              <Polygon POINTS="95 191 95 253 650 253 650 191"/>
+            </Shape>
+            <String CONTENT="كتبت منذ سنوات في المجلة المصرية بعض جمل وخواطر سنحت لي يوميذ" HPOS="95" VPOS="191" WIDTH="555" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="106" VPOS="247" WIDTH="603" HEIGHT="54" BASELINE="106 301 709 301">
+            <Shape>
+              <Polygon POINTS="106 247 106 301 709 301 709 247"/>
+            </Shape>
+            <String CONTENT="منها ما تحديث به مناهج الحكماء ومنها ما ذهبت به مذاهب التعريض والايماء الي معان" HPOS="106" VPOS="247" WIDTH="603" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="293" WIDTH="614" HEIGHT="51" BASELINE="92 344 706 344">
+            <Shape>
+              <Polygon POINTS="92 293 92 344 706 344 706 293"/>
+            </Shape>
+            <String CONTENT="عصرية ومقاصد سياسية فاستحسن بعضهم تلك الجمل واستشهدوا بها ووجد في بعضها" HPOS="92" VPOS="293" WIDTH="614" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="335" WIDTH="606" HEIGHT="55" BASELINE="102 390 708 390">
+            <Shape>
+              <Polygon POINTS="102 335 102 390 708 390 708 335"/>
+            </Shape>
+            <String CONTENT="قوم اغلاقا ولم يدركوا جميع مراميها فقصدت ان اجرب هذا النمط مرة ثانية لا لانني" HPOS="102" VPOS="335" WIDTH="606" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="101" VPOS="379" WIDTH="605" HEIGHT="56" BASELINE="101 435 706 435">
+            <Shape>
+              <Polygon POINTS="101 379 101 435 706 435 706 379"/>
+            </Shape>
+            <String CONTENT="مخترع شييا بل لاني مجدد اسلوبا اذ ان المعاني وان كان اكثرها قديما فلابد لها في" HPOS="101" VPOS="379" WIDTH="605" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="259" VPOS="424" WIDTH="432" HEIGHT="52" BASELINE="259 476 691 476">
+            <Shape>
+              <Polygon POINTS="259 424 259 476 691 476 691 424"/>
+            </Shape>
+            <String CONTENT="كل عصر من زي يلايمه ولكل زمن لغة ولكل عصر بلاغة" HPOS="259" VPOS="424" WIDTH="432" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="203" VPOS="696" WIDTH="466" HEIGHT="54" BASELINE="203 750 669 750">
+            <Shape>
+              <Polygon POINTS="203 696 203 750 669 750 669 696"/>
+            </Shape>
+            <String CONTENT="الفضل دنب يذنبه الفاضل الي اهل النقص فليكفر عنه بالتواضع" HPOS="203" VPOS="696" WIDTH="466" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="832" WIDTH="564" HEIGHT="52" BASELINE="102 884 666 884">
+            <Shape>
+              <Polygon POINTS="102 832 102 884 666 884 666 832"/>
+            </Shape>
+            <String CONTENT="قد يكون ما يجدي العدو بعداوته بوزن ما يفيد الصديق بصداقته وكم عداوة" HPOS="102" VPOS="832" WIDTH="564" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="920" WIDTH="571" HEIGHT="52" BASELINE="99 972 670 972">
+            <Shape>
+              <Polygon POINTS="99 920 99 972 670 972 670 920"/>
+            </Shape>
+            <String CONTENT="المتكبر ممقوت ولو اخرج الحق من جنبه والمتواضع محبوب ولو لم يتب من ذنبه" HPOS="99" VPOS="920" WIDTH="571" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="186" VPOS="1011" WIDTH="483" HEIGHT="51" BASELINE="186 1062 669 1062">
+            <Shape>
+              <Polygon POINTS="186 1011 186 1062 669 1062 669 1011"/>
+            </Shape>
+            <String CONTENT="احسن مركز للعدو العاقل العدل في غير لين والادب في غير خضوع" HPOS="186" VPOS="1011" WIDTH="483" HEIGHT="51"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

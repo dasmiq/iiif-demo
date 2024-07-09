@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/15.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="747" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="747" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="276" VPOS="153" WIDTH="205" HEIGHT="54" BASELINE="276 207 481 207">
+            <Shape>
+              <Polygon POINTS="276 153 276 207 481 207 481 153"/>
+            </Shape>
+            <String CONTENT="النعام في الحضارة المصرية" HPOS="276" VPOS="153" WIDTH="205" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="75" VPOS="246" WIDTH="571" HEIGHT="60" BASELINE="75 306 646 306">
+            <Shape>
+              <Polygon POINTS="75 246 75 306 646 306 646 246"/>
+            </Shape>
+            <String CONTENT="امة اعظم الطيور واضخمها يبلغ علوها نحو مترين ووزنها اربعين كيلوغراما" HPOS="75" VPOS="246" WIDTH="571" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="84" VPOS="292" WIDTH="601" HEIGHT="55" BASELINE="84 347 685 347">
+            <Shape>
+              <Polygon POINTS="84 292 84 347 685 347 685 292"/>
+            </Shape>
+            <String CONTENT="احيانا سمعها دقيق ونظرها حاد وحاسة الذوق والشم فيها غليظة بحيث لا تتخير" HPOS="84" VPOS="292" WIDTH="601" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="336" WIDTH="594" HEIGHT="58" BASELINE="87 394 681 394">
+            <Shape>
+              <Polygon POINTS="87 336 87 394 681 394 681 336"/>
+            </Shape>
+            <String CONTENT="غذاءها وقلما تميز بين جيده وردييه فهي وان تكن من الحيوانات اكلة العشب" HPOS="87" VPOS="336" WIDTH="594" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="80" VPOS="377" WIDTH="607" HEIGHT="64" BASELINE="80 441 687 441">
+            <Shape>
+              <Polygon POINTS="80 377 80 441 687 441 687 377"/>
+            </Shape>
+            <String CONTENT="تخضم اغذية نباتية وتحتك بكل ما يقع نظرها عليه من حديد وقرمد وخشب وتصدمه" HPOS="80" VPOS="377" WIDTH="607" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="430" WIDTH="599" HEIGHT="54" BASELINE="83 484 682 484">
+            <Shape>
+              <Polygon POINTS="83 430 83 484 682 484 682 430"/>
+            </Shape>
+            <String CONTENT="حتي يكاد يتناثر ساقاها مستويتان مستطيلتان متينتان حتي انها لتقطع نحو ٢٨٠ كيلومترا" HPOS="83" VPOS="430" WIDTH="599" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="119" VPOS="933" WIDTH="528" HEIGHT="52" BASELINE="119 985 647 985">
+            <Shape>
+              <Polygon POINTS="119 933 119 985 647 985 647 933"/>
+            </Shape>
+            <String CONTENT="هذا الطاير مشهور منذ القرون العريقة في القدم ويبيض في الرمل ولا تحضن" HPOS="119" VPOS="933" WIDTH="528" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="1072" WIDTH="593" HEIGHT="55" BASELINE="96 1127 689 1127">
+            <Shape>
+              <Polygon POINTS="96 1072 96 1127 689 1127 689 1072"/>
+            </Shape>
+            <String CONTENT="الي ضفاف النيل وفي رمال صحراء ليبية ومصر الوسطي وفي القفر الواقع في الجنوب" HPOS="96" VPOS="1072" WIDTH="593" HEIGHT="55"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

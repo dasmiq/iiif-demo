@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/2.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="757" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="757" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="77" VPOS="262" WIDTH="585" HEIGHT="51" BASELINE="77 313 662 313">
+            <Shape>
+              <Polygon POINTS="77 262 77 313 662 313 662 262"/>
+            </Shape>
+            <String CONTENT="سنة النمو والارتقاء ولكل عمل عمره الطبيعي لا مندوحة من قضايه" HPOS="77" VPOS="262" WIDTH="585" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="69" VPOS="311" WIDTH="595" HEIGHT="53" BASELINE="69 364 664 364">
+            <Shape>
+              <Polygon POINTS="69 311 69 364 664 364 664 311"/>
+            </Shape>
+            <String CONTENT="والنتايج ابدا بالمقدمات مقرونة واذا جاز الفخر فيحق لهذه الصحيفة ان" HPOS="69" VPOS="311" WIDTH="595" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="71" VPOS="412" WIDTH="594" HEIGHT="54" BASELINE="71 466 665 466">
+            <Shape>
+              <Polygon POINTS="71 412 71 466 665 466 665 412"/>
+            </Shape>
+            <String CONTENT="ولذلك فرض عليها ان تشكر ايادي المتوفرين علي امدادها من معين" HPOS="71" VPOS="412" WIDTH="594" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="72" VPOS="510" WIDTH="543" HEIGHT="57" BASELINE="72 567 615 567">
+            <Shape>
+              <Polygon POINTS="72 510 72 567 615 567 615 510"/>
+            </Shape>
+            <String CONTENT="وستظل ابحاثها علي ما كانت عليه مع اشباع الكلام اكثر من ذي قبل" HPOS="72" VPOS="510" WIDTH="543" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="66" VPOS="562" WIDTH="599" HEIGHT="51" BASELINE="66 613 665 613">
+            <Shape>
+              <Polygon POINTS="66 562 66 613 665 613 665 562"/>
+            </Shape>
+            <String CONTENT="في معظم ما تخوض عبابه من الموضوعات وتنشر في كل جزء رواية او قصة" HPOS="66" VPOS="562" WIDTH="599" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="71" VPOS="610" WIDTH="596" HEIGHT="52" BASELINE="71 662 667 662">
+            <Shape>
+              <Polygon POINTS="71 610 71 662 667 662 667 610"/>
+            </Shape>
+            <String CONTENT="او افكوهة تروح عن النفس بعد تلاوة العلميات والادبيات وذلك عملا" HPOS="71" VPOS="610" WIDTH="596" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="76" VPOS="701" WIDTH="587" HEIGHT="57" BASELINE="76 758 663 758">
+            <Shape>
+              <Polygon POINTS="76 701 76 758 663 758 663 701"/>
+            </Shape>
+            <String CONTENT="وكنا نود ان لا نعود اليه موتمرين بامر بعض الاكابر لولا ان ثبت" HPOS="76" VPOS="701" WIDTH="587" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="69" VPOS="749" WIDTH="599" HEIGHT="64" BASELINE="69 813 668 813">
+            <Shape>
+              <Polygon POINTS="69 749 69 813 668 813 668 749"/>
+            </Shape>
+            <String CONTENT="لنا بالاختبار ان الجد البحث لا يروج بين ابناء الغرب وهم في تهذيبهم" HPOS="69" VPOS="749" WIDTH="599" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="74" VPOS="945" WIDTH="597" HEIGHT="62" BASELINE="74 1007 671 1007">
+            <Shape>
+              <Polygon POINTS="74 945 74 1007 671 1007 671 945"/>
+            </Shape>
+            <String CONTENT="العالم الغابر وتدعو الشرقي باسمه كما تدعو الغربي وفي ذلك تخفيف علي" HPOS="74" VPOS="945" WIDTH="597" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="396" VPOS="1043" WIDTH="276" HEIGHT="58" BASELINE="396 1101 672 1101">
+            <Shape>
+              <Polygon POINTS="396 1043 396 1101 672 1101 672 1043"/>
+            </Shape>
+            <String CONTENT="الغربيين المحدثين والله ولي الهداية" HPOS="396" VPOS="1043" WIDTH="276" HEIGHT="58"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

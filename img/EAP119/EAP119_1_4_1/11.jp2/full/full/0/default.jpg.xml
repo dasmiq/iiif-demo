@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/11.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="752" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="752" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="104" VPOS="100" WIDTH="549" HEIGHT="57" BASELINE="104 157 653 157">
+            <Shape>
+              <Polygon POINTS="104 100 104 157 653 157 653 100"/>
+            </Shape>
+            <String CONTENT="التذكرة الخراج من ذلك ومن الصلات التي لم تذكر في النفقات وغيرها" HPOS="104" VPOS="100" WIDTH="549" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="80" VPOS="237" WIDTH="618" HEIGHT="61" BASELINE="80 298 698 298">
+            <Shape>
+              <Polygon POINTS="80 237 80 298 698 298 698 237"/>
+            </Shape>
+            <String CONTENT="الف درهم علي التقريب وجملتها في السنين المذكورة سبعة و عشرون الف الف درهم" HPOS="80" VPOS="237" WIDTH="618" HEIGHT="61"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="271" WIDTH="606" HEIGHT="76" BASELINE="93 347 699 347">
+            <Shape>
+              <Polygon POINTS="93 271 93 347 699 347 699 271"/>
+            </Shape>
+            <String CONTENT="وستماية الف درهم ثمن دور وبساتين ومتنزهات ورقيق ودواب والجمازات سبعون الف" HPOS="93" VPOS="271" WIDTH="606" HEIGHT="76"/>
+          </TextLine>
+          <TextLine HPOS="88" VPOS="517" WIDTH="618" HEIGHT="60" BASELINE="88 577 706 577">
+            <Shape>
+              <Polygon POINTS="88 517 88 577 706 577 706 517"/>
+            </Shape>
+            <String CONTENT="السنين المقدم ذكرها ثلاثة الاف الف درهم وما كابره عليه اصحاب الودايع وجحدوه" HPOS="88" VPOS="517" WIDTH="618" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="563" WIDTH="613" HEIGHT="60" BASELINE="91 623 704 623">
+            <Shape>
+              <Polygon POINTS="91 563 91 623 704 623 704 563"/>
+            </Shape>
+            <String CONTENT="ثلاثة الاف الف درهم ثم وصي بعد ذلك كله عند وفاته الي المامون لابنه بختيشوع" HPOS="91" VPOS="563" WIDTH="613" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="111" VPOS="641" WIDTH="599" HEIGHT="73" BASELINE="111 714 710 714">
+            <Shape>
+              <Polygon POINTS="111 641 111 714 710 714 710 641"/>
+            </Shape>
+            <String CONTENT="ولا عجب فيما قاله فثيون الترجمان ان جنس جورجس وولده كانوا اجمل اهل زمانهم بما" HPOS="111" VPOS="641" WIDTH="599" HEIGHT="73"/>
+          </TextLine>
+          <TextLine HPOS="98" VPOS="701" WIDTH="606" HEIGHT="62" BASELINE="98 763 704 763">
+            <Shape>
+              <Polygon POINTS="98 701 98 763 704 763 704 701"/>
+            </Shape>
+            <String CONTENT="خصهم الله به من شرف النفوس ونبل الهمم ومن البر والمعروف والافضال والصدقات" HPOS="98" VPOS="701" WIDTH="606" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="747" WIDTH="615" HEIGHT="62" BASELINE="95 809 710 809">
+            <Shape>
+              <Polygon POINTS="95 747 95 809 710 809 710 747"/>
+            </Shape>
+            <String CONTENT="وتفقد المرضي من الفقراء والمساكين والاخذ بايدي المنكوبين والمرهوقين علي ما يتجاوز" HPOS="95" VPOS="747" WIDTH="615" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="834" WIDTH="570" HEIGHT="64" BASELINE="100 898 670 898">
+            <Shape>
+              <Polygon POINTS="100 834 100 898 670 898 670 834"/>
+            </Shape>
+            <String CONTENT="وبلغ بختيشوع بن جبراييل من عظم المنزلة والحال وكثرة المال ما لم يبلغه احد" HPOS="100" VPOS="834" WIDTH="570" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="97" VPOS="875" WIDTH="613" HEIGHT="74" BASELINE="97 949 710 949">
+            <Shape>
+              <Polygon POINTS="97 875 97 949 710 949 710 875"/>
+            </Shape>
+            <String CONTENT="من ساير الاطباء الذين كانوا في عصره وكان يضاهي المتوكل في اللباس والفرس وبلغ" HPOS="97" VPOS="875" WIDTH="613" HEIGHT="74"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="1068" WIDTH="612" HEIGHT="68" BASELINE="105 1136 717 1136">
+            <Shape>
+              <Polygon POINTS="105 1068 105 1136 717 1136 717 1068"/>
+            </Shape>
+            <String CONTENT="عليه فامر ان يدخل الي ساير الخزاين فكل ما اعترف به فليرد اليه بغير استيمار ولا" HPOS="105" VPOS="1068" WIDTH="612" HEIGHT="68"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/39.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="772" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="772" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="108" VPOS="157" WIDTH="618" HEIGHT="53" BASELINE="108 210 726 210">
+            <Shape>
+              <Polygon POINTS="108 157 108 210 726 210 726 157"/>
+            </Shape>
+            <String CONTENT="وانت تمام ال ماية فقال اعلم ان النساء ثلاثة واحدة لك وواحدة عليك وواحدة" HPOS="108" VPOS="157" WIDTH="618" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="341" WIDTH="616" HEIGHT="51" BASELINE="108 392 724 392">
+            <Shape>
+              <Polygon POINTS="108 341 108 392 724 392 724 341"/>
+            </Shape>
+            <String CONTENT="قد تزوجت قبلك فان رات خيرا قالت هكذا تجب وان رات شرا حنت الي زوجها" HPOS="108" VPOS="341" WIDTH="616" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="114" VPOS="385" WIDTH="614" HEIGHT="49" BASELINE="114 434 728 434">
+            <Shape>
+              <Polygon POINTS="114 385 114 434 728 434 728 385"/>
+            </Shape>
+            <String CONTENT="الاول فقلت ناشدتك الله ما الذي غير من امرك ما اري قال الم اشترط عليك ان" HPOS="114" VPOS="385" WIDTH="614" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="116" VPOS="431" WIDTH="611" HEIGHT="48" BASELINE="116 479 727 479">
+            <Shape>
+              <Polygon POINTS="116 431 116 479 727 479 727 431"/>
+            </Shape>
+            <String CONTENT="لا تسال عما لا يعنيك فاقسمت عليه فقال اني رشحت للقضاء فاخترت ما تري" HPOS="116" VPOS="431" WIDTH="611" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="112" VPOS="478" WIDTH="613" HEIGHT="49" BASELINE="112 527 725 527">
+            <Shape>
+              <Polygon POINTS="112 478 112 527 725 527 725 478"/>
+            </Shape>
+            <String CONTENT="علي القضاء قلت وقد فعل ابن الهيثم الرياضي الفيلسوف المشهور مثل هذا وترك" HPOS="112" VPOS="478" WIDTH="613" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="108" VPOS="610" WIDTH="618" HEIGHT="45" BASELINE="108 655 726 655">
+            <Shape>
+              <Polygon POINTS="108 610 108 655 726 655 726 610"/>
+            </Shape>
+            <String CONTENT="يهذي وقد اجتمع اليه الناس فقلت من هذا فقالوا حساس الموسوس لا يزال ينام ليله" HPOS="108" VPOS="610" WIDTH="618" HEIGHT="45"/>
+          </TextLine>
+          <TextLine HPOS="115" VPOS="654" WIDTH="607" HEIGHT="51" BASELINE="115 705 722 705">
+            <Shape>
+              <Polygon POINTS="115 654 115 705 722 705 722 654"/>
+            </Shape>
+            <String CONTENT="ونهاره وربما ينتبه فزعا مرعوبا فيجلس ساعة ثم يصيح ويهيم علي وجهه ثم يعود الي" HPOS="115" VPOS="654" WIDTH="607" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="114" VPOS="691" WIDTH="610" HEIGHT="49" BASELINE="114 740 724 740">
+            <Shape>
+              <Polygon POINTS="114 691 114 740 724 740 724 691"/>
+            </Shape>
+            <String CONTENT="نومه فبت ليلة هناك وهو علي الحال الذي وصفوه فلما اصبحنا اتيته فقلت ما اسمك" HPOS="114" VPOS="691" WIDTH="610" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="115" VPOS="736" WIDTH="609" HEIGHT="53" BASELINE="115 789 724 789">
+            <Shape>
+              <Polygon POINTS="115 736 115 789 724 789 724 736"/>
+            </Shape>
+            <String CONTENT="يا شيخ انت انوم من فهد مالك تنام دهرك فقال النوم لا تبعة علي فيه وفي مجالستك" HPOS="115" VPOS="736" WIDTH="609" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="118" VPOS="782" WIDTH="606" HEIGHT="50" BASELINE="118 832 724 832">
+            <Shape>
+              <Polygon POINTS="118 782 118 832 724 832 724 782"/>
+            </Shape>
+            <String CONTENT="ومجالسة اضرابك تبعات قلت واي تبعة عليك في مجالستي قال اشتغل بك" HPOS="118" VPOS="782" WIDTH="606" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="111" VPOS="991" WIDTH="570" HEIGHT="63" BASELINE="111 1054 681 1054">
+            <Shape>
+              <Polygon POINTS="111 991 111 1054 681 1054 681 991"/>
+            </Shape>
+            <String CONTENT="قال الاصمعي بينا انا ذات يوم عند والي الكوفة وهو يسالني عن اهل البصرة" HPOS="111" VPOS="991" WIDTH="570" HEIGHT="63"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

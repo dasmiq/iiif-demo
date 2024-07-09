@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/32.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="774" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="774" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="80" VPOS="261" WIDTH="567" HEIGHT="51" BASELINE="80 312 647 312">
+            <Shape>
+              <Polygon POINTS="80 261 80 312 647 312 647 261"/>
+            </Shape>
+            <String CONTENT="كان لانتصار اليابانيين علي الروس رنة فرح في الصين والهند فاعتبرت الصين" HPOS="80" VPOS="261" WIDTH="567" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="76" VPOS="294" WIDTH="621" HEIGHT="61" BASELINE="76 355 697 355">
+            <Shape>
+              <Polygon POINTS="76 294 76 355 697 355 697 294"/>
+            </Shape>
+            <String CONTENT="بهذه الحرب وتنبه في ابنايها شعور الوطنية وراحوا بعد ان كانوا يفزعون من العدد" HPOS="76" VPOS="294" WIDTH="621" HEIGHT="61"/>
+          </TextLine>
+          <TextLine HPOS="82" VPOS="398" WIDTH="617" HEIGHT="53" BASELINE="82 451 699 451">
+            <Shape>
+              <Polygon POINTS="82 398 82 451 699 451 699 398"/>
+            </Shape>
+            <String CONTENT="الاستسلام للبيض علي نحو ما كانت حالهم منذ قرون وقلما اثر في الماضي عن الصينيين" HPOS="82" VPOS="398" WIDTH="617" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="76" VPOS="443" WIDTH="621" HEIGHT="52" BASELINE="76 495 697 495">
+            <Shape>
+              <Polygon POINTS="76 443 76 495 697 495 697 443"/>
+            </Shape>
+            <String CONTENT="انتقاض او ثورة علي الاجانب بل كانوا ابدا يحتقرون برابرة الغرب في سرهم" HPOS="76" VPOS="443" WIDTH="621" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="77" VPOS="492" WIDTH="622" HEIGHT="48" BASELINE="77 540 699 540">
+            <Shape>
+              <Polygon POINTS="77 492 77 540 699 540 699 492"/>
+            </Shape>
+            <String CONTENT="ويعتبرونهم دونهم من حيث الذكاء والمدنية اما الان وقد اثبتت الجيوش اليابانية" HPOS="77" VPOS="492" WIDTH="622" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="80" VPOS="535" WIDTH="619" HEIGHT="53" BASELINE="80 588 699 588">
+            <Shape>
+              <Polygon POINTS="80 535 80 588 699 588 699 535"/>
+            </Shape>
+            <String CONTENT="لاهل الجنس الاصفر ان ما اقامه الاوروبيون من العقبات في سبيلهم يمكن تذليله فقد" HPOS="80" VPOS="535" WIDTH="619" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="579" WIDTH="615" HEIGHT="52" BASELINE="85 631 700 631">
+            <Shape>
+              <Polygon POINTS="85 579 85 631 700 631 700 579"/>
+            </Shape>
+            <String CONTENT="نفضت الصين عنها غبار الكسل واطرحت الجبن جانبا وهبت من سباتها عازمة ان" HPOS="85" VPOS="579" WIDTH="615" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="626" WIDTH="614" HEIGHT="53" BASELINE="83 679 697 679">
+            <Shape>
+              <Polygon POINTS="83 626 83 679 697 679 697 626"/>
+            </Shape>
+            <String CONTENT="تشترك في الجهاد الزمني الذي يتمخض به الجنسان الابيض والاصفر ولم تكن الحرب" HPOS="83" VPOS="626" WIDTH="614" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="714" WIDTH="572" HEIGHT="57" BASELINE="87 771 659 771">
+            <Shape>
+              <Polygon POINTS="87 714 87 771 659 771 659 714"/>
+            </Shape>
+            <String CONTENT="تالف في الصين حزب يطالب بالاصلاح فارادت الحكومة بادي بدء ان تحل ع" HPOS="87" VPOS="714" WIDTH="572" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="851" WIDTH="610" HEIGHT="52" BASELINE="89 903 699 903">
+            <Shape>
+              <Polygon POINTS="89 851 89 903 699 903 699 851"/>
+            </Shape>
+            <String CONTENT="ابن السماء بانه لا امان من تقسيم الاوروبيين او الاذلال بيد اليابانيين الا اذا صلحت" HPOS="89" VPOS="851" WIDTH="610" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="895" WIDTH="612" HEIGHT="60" BASELINE="87 955 699 955">
+            <Shape>
+              <Polygon POINTS="87 895 87 955 699 955 699 895"/>
+            </Shape>
+            <String CONTENT="حالها ولذلك انضم الي حزب كانغ يو واي المصلح الشهير كثير من العمال الذين" HPOS="87" VPOS="895" WIDTH="612" HEIGHT="60"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="944" WIDTH="612" HEIGHT="50" BASELINE="87 994 699 994">
+            <Shape>
+              <Polygon POINTS="87 944 87 994 699 994 699 944"/>
+            </Shape>
+            <String CONTENT="يخشون علي بلادهم من التمزق وما لبثت الافكار الجديدة ان سرت الي بلاط" HPOS="87" VPOS="944" WIDTH="612" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="558" VPOS="1077" WIDTH="142" HEIGHT="59" BASELINE="558 1136 700 1136">
+            <Shape>
+              <Polygon POINTS="558 1077 558 1136 700 1136 700 1077"/>
+            </Shape>
+            <String CONTENT="في الامبراطورة نفسها" HPOS="558" VPOS="1077" WIDTH="142" HEIGHT="59"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

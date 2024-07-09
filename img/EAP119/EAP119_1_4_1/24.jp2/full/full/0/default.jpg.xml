@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/24.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="805" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="805" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="279" VPOS="183" WIDTH="374" HEIGHT="50" BASELINE="279 233 653 233">
+            <Shape>
+              <Polygon POINTS="279 183 279 233 653 233 653 183"/>
+            </Shape>
+            <String CONTENT="الشهادة الحسنة بحق العدو احبولة التصديق عند الذم" HPOS="279" VPOS="183" WIDTH="374" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="607" VPOS="281" WIDTH="82" HEIGHT="41" BASELINE="607 322 689 322">
+            <Shape>
+              <Polygon POINTS="607 281 607 322 689 322 689 281"/>
+            </Shape>
+            <String CONTENT="بالبناء الساقط" HPOS="607" VPOS="281" WIDTH="82" HEIGHT="41"/>
+          </TextLine>
+          <TextLine HPOS="94" VPOS="360" WIDTH="597" HEIGHT="59" BASELINE="94 419 691 419">
+            <Shape>
+              <Polygon POINTS="94 360 94 419 691 419 691 360"/>
+            </Shape>
+            <String CONTENT="شييا من جده ولا هزله وانما كان التعب مع المتوسط هذا الذي لا يدري متي يصدق" HPOS="94" VPOS="360" WIDTH="597" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="499" WIDTH="556" HEIGHT="56" BASELINE="95 555 651 555">
+            <Shape>
+              <Polygon POINTS="95 499 95 555 651 555 651 499"/>
+            </Shape>
+            <String CONTENT="قيمة الشيء الحاجة اليه فالثلج قيمته حمله والحجر ثمنه نقله وكم تراب هو ذهب" HPOS="95" VPOS="499" WIDTH="556" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="251" VPOS="638" WIDTH="402" HEIGHT="48" BASELINE="251 686 653 686">
+            <Shape>
+              <Polygon POINTS="251 638 251 686 653 686 653 638"/>
+            </Shape>
+            <String CONTENT="التواضع ستار كل العيوب والخضوع ملين لاقسي القلوب" HPOS="251" VPOS="638" WIDTH="402" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="260" VPOS="748" WIDTH="379" HEIGHT="74" BASELINE="260 822 639 822">
+            <Shape>
+              <Polygon POINTS="260 748 260 822 639 822 639 748"/>
+            </Shape>
+            <String CONTENT="كثرة التسهيل في الاول تورث كثرة التعقيد في الاخر" HPOS="260" VPOS="748" WIDTH="379" HEIGHT="74"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

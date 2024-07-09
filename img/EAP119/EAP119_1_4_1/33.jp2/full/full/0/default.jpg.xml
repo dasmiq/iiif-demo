@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/33.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="784" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="784" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="387" VPOS="41" WIDTH="82" HEIGHT="44" BASELINE="387 85 469 85">
+            <Shape>
+              <Polygon POINTS="387 41 387 85 469 85 469 41"/>
+            </Shape>
+            <String CONTENT="بة الصين" HPOS="387" VPOS="41" WIDTH="82" HEIGHT="44"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="140" WIDTH="617" HEIGHT="63" BASELINE="123 203 740 203">
+            <Shape>
+              <Polygon POINTS="123 140 123 203 740 203 740 140"/>
+            </Shape>
+            <String CONTENT="بعد ان كانت منذ خمس سنين بعيدة كل البعد عن الافكار الحديثة وكانت عزلت" HPOS="123" VPOS="140" WIDTH="617" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="194" WIDTH="616" HEIGHT="54" BASELINE="123 248 739 248">
+            <Shape>
+              <Polygon POINTS="123 194 123 248 739 248 739 194"/>
+            </Shape>
+            <String CONTENT="ابن اختها عن الحكم لانه ظهر انه ممالي لحزب الاصلاح قد اخذت اليوم تدخل" HPOS="123" VPOS="194" WIDTH="616" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="121" VPOS="239" WIDTH="618" HEIGHT="55" BASELINE="121 294 739 294">
+            <Shape>
+              <Polygon POINTS="121 239 121 294 739 294 739 239"/>
+            </Shape>
+            <String CONTENT="بذاتها في طريق الاصلاح وعزمت كل العزم ان تنظم مملكتها وانشا مستشاراتها" HPOS="121" VPOS="239" WIDTH="618" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="284" WIDTH="602" HEIGHT="53" BASELINE="137 337 739 337">
+            <Shape>
+              <Polygon POINTS="137 284 137 337 739 337 739 284"/>
+            </Shape>
+            <String CONTENT="العارفات علي ما فيهن من حذق ودربة يقنعنها بما تصير اليه المملكة من الدمار اذا تركت" HPOS="137" VPOS="284" WIDTH="602" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="334" WIDTH="614" HEIGHT="50" BASELINE="122 384 736 384">
+            <Shape>
+              <Polygon POINTS="122 334 122 384 736 384 736 334"/>
+            </Shape>
+            <String CONTENT="وشانها لان المطامع محدقة بها فاي مسوولية تلحق الامبراطورة وباي وجه تقابل" HPOS="122" VPOS="334" WIDTH="614" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="451" WIDTH="573" HEIGHT="70" BASELINE="123 521 696 521">
+            <Shape>
+              <Polygon POINTS="123 451 123 521 696 521 696 451"/>
+            </Shape>
+            <String CONTENT="وينسب وصول حزب الاصلاح الي غاياته لاوليك التلاميذ الذين يتلقون العلم في" HPOS="123" VPOS="451" WIDTH="573" HEIGHT="70"/>
+          </TextLine>
+          <TextLine HPOS="124" VPOS="513" WIDTH="616" HEIGHT="54" BASELINE="124 567 740 567">
+            <Shape>
+              <Polygon POINTS="124 513 124 567 740 567 740 513"/>
+            </Shape>
+            <String CONTENT="المدارس خارج بلادهم وخصوصا لمن يدرسون في كليات اليابان وكلهم يد واحدة في" HPOS="124" VPOS="513" WIDTH="616" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="138" VPOS="552" WIDTH="596" HEIGHT="54" BASELINE="138 606 734 606">
+            <Shape>
+              <Polygon POINTS="138 552 138 606 734 606 734 552"/>
+            </Shape>
+            <String CONTENT="محاولة اصلاح بلادهم ذاك الاصلاح الذي به اصبحت اليابان مملكة مغبوطة مرهوبة" HPOS="138" VPOS="552" WIDTH="596" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="604" WIDTH="614" HEIGHT="46" BASELINE="123 650 737 650">
+            <Shape>
+              <Polygon POINTS="123 604 123 650 737 650 737 604"/>
+            </Shape>
+            <String CONTENT="الجانب والباس وان كثيرين من هولاء التلاميذ ينزعون الي الثورة ويريدون ان" HPOS="123" VPOS="604" WIDTH="614" HEIGHT="46"/>
+          </TextLine>
+          <TextLine HPOS="120" VPOS="689" WIDTH="617" HEIGHT="53" BASELINE="120 742 737 742">
+            <Shape>
+              <Polygon POINTS="120 689 120 742 737 742 737 689"/>
+            </Shape>
+            <String CONTENT="قياد الصفر عامة بيده وكان من نتايج اعمالهم الشريفة ان انبث هذا الفكر علي" HPOS="120" VPOS="689" WIDTH="617" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="120" VPOS="729" WIDTH="619" HEIGHT="58" BASELINE="120 787 739 787">
+            <Shape>
+              <Polygon POINTS="120 729 120 787 739 787 739 729"/>
+            </Shape>
+            <String CONTENT="التدريج في عقول اربعماية مليون نسمة من سكان الصين وانشاوا صحفا باللغة العامية" HPOS="120" VPOS="729" WIDTH="619" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="780" WIDTH="599" HEIGHT="51" BASELINE="137 831 736 831">
+            <Shape>
+              <Polygon POINTS="137 780 137 831 736 831 736 780"/>
+            </Shape>
+            <String CONTENT="اخذ منشيوها ينقدون احوال المملكة السماوية ويطالبون بتغيير ادارتها ويحملون" HPOS="137" VPOS="780" WIDTH="599" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="827" WIDTH="614" HEIGHT="52" BASELINE="123 879 737 879">
+            <Shape>
+              <Polygon POINTS="123 827 123 879 737 879 737 827"/>
+            </Shape>
+            <String CONTENT="الحملات المنكرة علي كل عامل يقف في طريق الاصلاح ويناوي سياسته غير مبالين" HPOS="123" VPOS="827" WIDTH="614" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="395" VPOS="867" WIDTH="339" HEIGHT="55" BASELINE="395 922 734 922">
+            <Shape>
+              <Polygon POINTS="395 867 395 922 734 922 734 867"/>
+            </Shape>
+            <String CONTENT="بما قد ينتج لهم ذلك من العذاب الشديد احيانا" HPOS="395" VPOS="867" WIDTH="339" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="130" VPOS="959" WIDTH="604" HEIGHT="52" BASELINE="130 1011 734 1011">
+            <Shape>
+              <Polygon POINTS="130 959 130 1011 734 1011 734 959"/>
+            </Shape>
+            <String CONTENT="نديمات الامبراطورة المشار اليهن اعظم مثال ينشطهن ويحتذين مثاله فاسسن مدارس" HPOS="130" VPOS="959" WIDTH="604" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="125" VPOS="996" WIDTH="608" HEIGHT="57" BASELINE="125 1053 733 1053">
+            <Shape>
+              <Polygon POINTS="125 996 125 1053 733 1053 733 996"/>
+            </Shape>
+            <String CONTENT="لبنات الحكام واسست الامبراطورة من مالها الخاص مدرسة خاصة لتهذيب بنات" HPOS="125" VPOS="996" WIDTH="608" HEIGHT="57"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

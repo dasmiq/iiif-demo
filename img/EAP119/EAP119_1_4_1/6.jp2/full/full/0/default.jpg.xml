@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/6.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="763" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="763" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="85" VPOS="150" WIDTH="617" HEIGHT="55" BASELINE="85 205 702 205">
+            <Shape>
+              <Polygon POINTS="85 150 85 205 702 205 702 150"/>
+            </Shape>
+            <String CONTENT="قال وطلب علاء الدين نسخته فلم يجدها فقالوا لم يكن عندك غير محمود الشيرازي فقال" HPOS="85" VPOS="150" WIDTH="617" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="193" WIDTH="617" HEIGHT="53" BASELINE="85 246 702 246">
+            <Shape>
+              <Polygon POINTS="85 193 85 246 702 246 702 193"/>
+            </Shape>
+            <String CONTENT="ليس هو اخذها وقال لي مهذب الدين الشيرازي احد تلاميذ قطب الدين ان قطب" HPOS="85" VPOS="193" WIDTH="617" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="77" VPOS="243" WIDTH="626" HEIGHT="52" BASELINE="77 295 703 295">
+            <Shape>
+              <Polygon POINTS="77 243 77 295 703 295 703 243"/>
+            </Shape>
+            <String CONTENT="الدين كان يلقي الدروس من هذه النسخة بمدينة سيواس ويقول هذه النسخة سرقتها" HPOS="77" VPOS="243" WIDTH="626" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="88" VPOS="289" WIDTH="614" HEIGHT="54" BASELINE="88 343 702 343">
+            <Shape>
+              <Polygon POINTS="88 289 88 343 702 343 702 289"/>
+            </Shape>
+            <String CONTENT="من شيخي علاء الدين الطاووسي بقزوين في مبدا تحصيل العلم وكنت عاجزا عن" HPOS="88" VPOS="289" WIDTH="614" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="383" WIDTH="575" HEIGHT="56" BASELINE="86 439 661 439">
+            <Shape>
+              <Polygon POINTS="86 383 86 439 661 439 661 383"/>
+            </Shape>
+            <String CONTENT="ولما عمر ملك خوارزم نلك مارستانا انفذ الشيخ قطب الدين اليه برسم هذا المارستان" HPOS="86" VPOS="383" WIDTH="575" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="521" WIDTH="608" HEIGHT="52" BASELINE="95 573 703 573">
+            <Shape>
+              <Polygon POINTS="95 521 95 573 703 573 703 521"/>
+            </Shape>
+            <String CONTENT="في علم الاخلاق والحكمة فاجازه ببغلة سنية والاتها ومعها ثلثماية مثقال ذهبا وتخت قماش" HPOS="95" VPOS="521" WIDTH="608" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="565" WIDTH="608" HEIGHT="55" BASELINE="91 620 699 620">
+            <Shape>
+              <Polygon POINTS="91 565 91 620 699 620 699 565"/>
+            </Shape>
+            <String CONTENT="ذكر هذا وما قبله الاربلي قال وكنت بماردين فسير لصاحبها الملك المظفر هدية تشتمل" HPOS="91" VPOS="565" WIDTH="608" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="612" WIDTH="616" HEIGHT="54" BASELINE="86 666 702 666">
+            <Shape>
+              <Polygon POINTS="86 612 86 666 702 666 702 612"/>
+            </Shape>
+            <String CONTENT="علي مملوك صغير تركي واخر رومي وتخت قماش منوع من الحرير وسجادة وكتاب صغير" HPOS="86" VPOS="612" WIDTH="616" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="659" WIDTH="612" HEIGHT="53" BASELINE="89 712 701 712">
+            <Shape>
+              <Polygon POINTS="89 659 89 712 701 712 701 659"/>
+            </Shape>
+            <String CONTENT="من تصانيفه فرد الملك المظفر الجميع وقبل السجادة والكتاب واجازه عليهما باثني عشر" HPOS="89" VPOS="659" WIDTH="612" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="792" WIDTH="600" HEIGHT="57" BASELINE="89 849 689 849">
+            <Shape>
+              <Polygon POINTS="89 792 89 849 689 849 689 792"/>
+            </Shape>
+            <String CONTENT="كراهية في النفوس بين الشخصين لان قطب الدين كان يتنقص كثيرا برشيد الدولة" HPOS="89" VPOS="792" WIDTH="600" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="475" VPOS="840" WIDTH="229" HEIGHT="45" BASELINE="475 885 704 885">
+            <Shape>
+              <Polygon POINTS="475 840 475 885 704 885 704 840"/>
+            </Shape>
+            <String CONTENT="وبتصانيفه ويستجهله ويحط عليه" HPOS="475" VPOS="840" WIDTH="229" HEIGHT="45"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

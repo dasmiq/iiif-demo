@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/40.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="799" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="799" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="80" VPOS="118" WIDTH="602" HEIGHT="39" BASELINE="80 157 682 157">
+            <Shape>
+              <Polygon POINTS="80 118 80 157 682 157 682 118"/>
+            </Shape>
+            <String CONTENT="سحوق نتن الاطراف موسوس فسلم علي الامير فرد عليه السلام وقال من انت فقال اني" HPOS="80" VPOS="118" WIDTH="602" HEIGHT="39"/>
+          </TextLine>
+          <TextLine HPOS="172" VPOS="315" WIDTH="407" HEIGHT="53" BASELINE="172 368 579 368">
+            <Shape>
+              <Polygon POINTS="172 315 172 368 579 368 579 315"/>
+            </Shape>
+            <String CONTENT="اليس ما تعطي علي الكهانة والحر لا يقنع بالمهانة" HPOS="172" VPOS="315" WIDTH="407" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="172" VPOS="560" WIDTH="410" HEIGHT="52" BASELINE="172 612 582 612">
+            <Shape>
+              <Polygon POINTS="172 560 172 612 582 612 582 560"/>
+            </Shape>
+            <String CONTENT="الرفة البيت فسل ماشيتا لقد وجدت عالما خريتا" HPOS="172" VPOS="560" WIDTH="410" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="70" VPOS="656" WIDTH="615" HEIGHT="49" BASELINE="70 705 685 705">
+            <Shape>
+              <Polygon POINTS="70 656 70 705 685 705 685 656"/>
+            </Shape>
+            <String CONTENT="والحل الرادح لا براح قلت الهلقس الطمع الحريص والسحساح الذي لا يستقر في" HPOS="70" VPOS="656" WIDTH="615" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="169" VPOS="729" WIDTH="406" HEIGHT="53" BASELINE="169 782 575 782">
+            <Shape>
+              <Polygon POINTS="169 729 169 782 575 782 575 729"/>
+            </Shape>
+            <String CONTENT="ما انت الا حافظ للعمل احسنت ما قلت بغير فهم" HPOS="169" VPOS="729" WIDTH="406" HEIGHT="53"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

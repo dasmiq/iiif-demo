@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/37.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="755" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="755" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="85" VPOS="98" WIDTH="617" HEIGHT="56" BASELINE="85 154 702 154">
+            <Shape>
+              <Polygon POINTS="85 98 85 154 702 154 702 98"/>
+            </Shape>
+            <String CONTENT="جزءا تتبعتها وتيقنتها وضممت اليها قراينها وعزوتها الي اصحابها والفت هذا الكتاب" HPOS="85" VPOS="98" WIDTH="617" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="88" VPOS="155" WIDTH="617" HEIGHT="46" BASELINE="88 201 705 201">
+            <Shape>
+              <Polygon POINTS="88 155 88 201 705 201 705 155"/>
+            </Shape>
+            <String CONTENT="علي غير سمت تلك الكتب وهو كتاب يكفي الناظر فيه الترداد وتصفح الكتب" HPOS="88" VPOS="155" WIDTH="617" HEIGHT="46"/>
+          </TextLine>
+          <TextLine HPOS="508" VPOS="192" WIDTH="201" HEIGHT="54" BASELINE="508 246 709 246">
+            <Shape>
+              <Polygon POINTS="508 192 508 246 709 246 709 192"/>
+            </Shape>
+            <String CONTENT="وارجو اني لم اسبق الي مثله" HPOS="508" VPOS="192" WIDTH="201" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="150" VPOS="380" WIDTH="486" HEIGHT="52" BASELINE="150 432 636 432">
+            <Shape>
+              <Polygon POINTS="150 380 150 432 636 432 636 380"/>
+            </Shape>
+            <String CONTENT="فعاقل فطن اعيت مذاهبه وجاهل حمق تلقاه مرزوقا" HPOS="150" VPOS="380" WIDTH="486" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="190" VPOS="477" WIDTH="404" HEIGHT="53" BASELINE="190 530 594 530">
+            <Shape>
+              <Polygon POINTS="190 477 190 530 594 530 594 477"/>
+            </Shape>
+            <String CONTENT="وما الناس الا وعاة العلوم وسايرهم غنم في قطيع" HPOS="190" VPOS="477" WIDTH="404" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="538" WIDTH="561" HEIGHT="75" BASELINE="90 613 651 613">
+            <Shape>
+              <Polygon POINTS="90 538 90 613 651 613 651 538"/>
+            </Shape>
+            <String CONTENT="ومنها الموسوس والانوك والبدهة والذولة والموتة والعرهاة والاولق والمهوس واللهلباجة" HPOS="90" VPOS="538" WIDTH="561" HEIGHT="75"/>
+          </TextLine>
+          <TextLine HPOS="94" VPOS="600" WIDTH="610" HEIGHT="59" BASELINE="94 659 704 659">
+            <Shape>
+              <Polygon POINTS="94 600 94 659 704 659 704 600"/>
+            </Shape>
+            <String CONTENT="واللكع والجذب والهجاجة والرشاع ثم ذكر الامثال المضروبة في الحمق والحمقي فمنها" HPOS="94" VPOS="600" WIDTH="610" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="642" WIDTH="624" HEIGHT="63" BASELINE="83 705 707 705">
+            <Shape>
+              <Polygon POINTS="83 642 83 705 707 705 707 642"/>
+            </Shape>
+            <String CONTENT="قولهم تحسبها حمقاء وهي باخس اي انها مع حمقها تظلم غيرها ومن امثالهم احمق بلغ" HPOS="83" VPOS="642" WIDTH="624" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="697" WIDTH="620" HEIGHT="53" BASELINE="85 750 705 750">
+            <Shape>
+              <Polygon POINTS="85 697 85 750 705 750 705 697"/>
+            </Shape>
+            <String CONTENT="اي انه مع حمقه يبلغ حاجته ومن امثالهم فيه خرقاء ذات نيقة اي انها حمقاء وهي في ذلك" HPOS="85" VPOS="697" WIDTH="620" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="82" VPOS="786" WIDTH="625" HEIGHT="53" BASELINE="82 839 707 839">
+            <Shape>
+              <Polygon POINTS="82 786 82 839 707 839 707 786"/>
+            </Shape>
+            <String CONTENT="السروح ومسايل الاودية فيجيء السيل فيجرفها ومن امثالهم انه لاحمق من ترب العقد" HPOS="82" VPOS="786" WIDTH="625" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="82" VPOS="829" WIDTH="624" HEIGHT="54" BASELINE="82 883 706 883">
+            <Shape>
+              <Polygon POINTS="82 829 82 883 706 883 706 829"/>
+            </Shape>
+            <String CONTENT="والعقد عقد الرمل وحمقه انه ينهار ولا يثبت فيه الترب يضرب للذي لا يثبت ولا" HPOS="82" VPOS="829" WIDTH="624" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="81" VPOS="920" WIDTH="624" HEIGHT="55" BASELINE="81 975 705 975">
+            <Shape>
+              <Polygon POINTS="81 920 81 975 705 975 705 920"/>
+            </Shape>
+            <String CONTENT="ومن امثالهم احمق من الممهورة احدي حدمتيها هما الخلخالان وتقول العرب للمبالغ" HPOS="81" VPOS="920" WIDTH="624" HEIGHT="55"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

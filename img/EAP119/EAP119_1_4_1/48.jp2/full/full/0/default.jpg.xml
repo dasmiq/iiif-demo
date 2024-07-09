@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/48.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="819" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="819" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="87" VPOS="108" WIDTH="634" HEIGHT="58" BASELINE="87 166 721 166">
+            <Shape>
+              <Polygon POINTS="87 108 87 166 721 166 721 108"/>
+            </Shape>
+            <String CONTENT="الاستاذ كلاتش اثناء بحثه في شمالي استراليا من اكتشاف ينفع علم الانسان" HPOS="87" VPOS="108" WIDTH="634" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="192" WIDTH="635" HEIGHT="74" BASELINE="83 266 718 266">
+            <Shape>
+              <Polygon POINTS="83 192 83 266 718 266 718 192"/>
+            </Shape>
+            <String CONTENT="قلما ينزل اليها السايحون ولم يدخلها التمدن الحاضر امراة تعيش في البلاد" HPOS="83" VPOS="192" WIDTH="635" HEIGHT="74"/>
+          </TextLine>
+          <TextLine HPOS="81" VPOS="267" WIDTH="636" HEIGHT="52" BASELINE="81 319 717 319">
+            <Shape>
+              <Polygon POINTS="81 267 81 319 717 319 717 267"/>
+            </Shape>
+            <String CONTENT="علي حالة التوحش من الفطرة الاصلية وتشبه باوصافها القرود التي تشبه" HPOS="81" VPOS="267" WIDTH="636" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="81" VPOS="319" WIDTH="639" HEIGHT="53" BASELINE="81 372 720 372">
+            <Shape>
+              <Polygon POINTS="81 319 81 372 720 372 720 319"/>
+            </Shape>
+            <String CONTENT="الانسان انتروبوييد ورجلاها مثل ارجل الزنوج تتسلق بهما الاشجار" HPOS="81" VPOS="319" WIDTH="639" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="365" WIDTH="625" HEIGHT="57" BASELINE="91 422 716 422">
+            <Shape>
+              <Polygon POINTS="91 365 91 422 716 422 716 365"/>
+            </Shape>
+            <String CONTENT="بمثل السرعة التي تتسلق بها القرود وهذه اول مرة شوهد فيها مخلوق" HPOS="91" VPOS="365" WIDTH="625" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="471" WIDTH="626" HEIGHT="54" BASELINE="86 525 712 525">
+            <Shape>
+              <Polygon POINTS="86 471 86 525 712 525 712 471"/>
+            </Shape>
+            <String CONTENT="من القردة وان اجدادها كانوا قرودا ولا شك فاذا ثبت له ما زعم فيكون" HPOS="86" VPOS="471" WIDTH="626" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="191" VPOS="519" WIDTH="527" HEIGHT="57" BASELINE="191 576 718 576">
+            <Shape>
+              <Polygon POINTS="191 519 191 576 718 576 718 519"/>
+            </Shape>
+            <String CONTENT="الدروينيون عثروا علي الحلقة المفقودة التي ينشدونها منذ ازمان" HPOS="191" VPOS="519" WIDTH="527" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="654" WIDTH="633" HEIGHT="57" BASELINE="83 711 716 711">
+            <Shape>
+              <Polygon POINTS="83 654 83 711 716 711 716 654"/>
+            </Shape>
+            <String CONTENT="قطارات الخطوط الحديدية الرييسة في الولايات المتحدة فتتاتي المخابرة بعد" HPOS="83" VPOS="654" WIDTH="633" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="708" WIDTH="628" HEIGHT="56" BASELINE="89 764 717 764">
+            <Shape>
+              <Polygon POINTS="89 708 89 764 717 764 717 708"/>
+            </Shape>
+            <String CONTENT="الان بين المركبات والقاطرة علي اختلاف انواعها كما تتيسر مخاطبة المحطات" HPOS="89" VPOS="708" WIDTH="628" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="758" WIDTH="623" HEIGHT="59" BASELINE="92 817 715 817">
+            <Shape>
+              <Polygon POINTS="92 758 92 817 715 817 715 758"/>
+            </Shape>
+            <String CONTENT="وتنفع هذه التلفونات في اتقاء الاخطار التي تعرض للقطاعات في طريقها وتستعمل" HPOS="92" VPOS="758" WIDTH="623" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="809" WIDTH="620" HEIGHT="57" BASELINE="96 866 716 866">
+            <Shape>
+              <Polygon POINTS="96 809 96 866 716 866 716 809"/>
+            </Shape>
+            <String CONTENT="اسلاك هذه التلفونات في ارسال الرسايل البرقية ولا يحدث من ذلك التباس" HPOS="96" VPOS="809" WIDTH="620" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="989" WIDTH="625" HEIGHT="59" BASELINE="86 1048 711 1048">
+            <Shape>
+              <Polygon POINTS="86 989 86 1048 711 1048 711 989"/>
+            </Shape>
+            <String CONTENT="من الالكحول وكان هذا الشجر معروفا منذ القديم بين النازحين الي تلك" HPOS="86" VPOS="989" WIDTH="625" HEIGHT="59"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

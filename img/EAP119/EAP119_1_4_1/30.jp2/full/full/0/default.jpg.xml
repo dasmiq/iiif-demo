@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/30.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="735" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="735" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="126" VPOS="405" WIDTH="490" HEIGHT="50" BASELINE="126 455 616 455">
+            <Shape>
+              <Polygon POINTS="126 405 126 455 616 455 616 405"/>
+            </Shape>
+            <String CONTENT="ثم صارت وهي من قبل موات تصلح الاقطار منها للحياة" HPOS="126" VPOS="405" WIDTH="490" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="135" VPOS="821" WIDTH="457" HEIGHT="49" BASELINE="135 870 592 870">
+            <Shape>
+              <Polygon POINTS="135 821 135 870 592 870 592 821"/>
+            </Shape>
+            <String CONTENT="كم علي الارض رفات باليات من جسوم طحنتها الدايرات" HPOS="135" VPOS="821" WIDTH="457" HEIGHT="49"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

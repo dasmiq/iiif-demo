@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/49.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="780" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="780" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="129" VPOS="156" WIDTH="568" HEIGHT="56" BASELINE="129 212 697 212">
+            <Shape>
+              <Polygon POINTS="129 156 129 212 697 212 697 156"/>
+            </Shape>
+            <String CONTENT="الف احد علماء الاجتماع في ايطاليا كتابا في العنصرين الانكليزي السكسوني" HPOS="129" VPOS="156" WIDTH="568" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="130" VPOS="193" WIDTH="605" HEIGHT="54" BASELINE="130 247 735 247">
+            <Shape>
+              <Polygon POINTS="130 193 130 247 735 247 735 193"/>
+            </Shape>
+            <String CONTENT="واللاتيني ابان فيه اهم اسباب ارتقاء الشعوب وبحث بحثا مدققا مويدا بالحجة في اسباب" HPOS="130" VPOS="193" WIDTH="605" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="131" VPOS="244" WIDTH="604" HEIGHT="52" BASELINE="131 296 735 296">
+            <Shape>
+              <Polygon POINTS="131 244 131 296 735 296 735 244"/>
+            </Shape>
+            <String CONTENT="سر تقدم الامم وانحطاطها وهو يري انه ليس هناك عناصر بل امم يويد ذلك لا من طريق" HPOS="131" VPOS="244" WIDTH="604" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="129" VPOS="280" WIDTH="606" HEIGHT="53" BASELINE="129 333 735 333">
+            <Shape>
+              <Polygon POINTS="129 280 129 333 735 333 735 280"/>
+            </Shape>
+            <String CONTENT="علم الاجتماع بل من طريق علم الانسان وقال انه ليس في العالم الان امم مكونة من" HPOS="129" VPOS="280" WIDTH="606" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="132" VPOS="317" WIDTH="597" HEIGHT="55" BASELINE="132 372 729 372">
+            <Shape>
+              <Polygon POINTS="132 317 132 372 729 372 729 317"/>
+            </Shape>
+            <String CONTENT="جنس واحد بل هي نتيجة الامتزاج الحقيق واخلاط من عناصر مختلفة فما ان" HPOS="132" VPOS="317" WIDTH="597" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="130" VPOS="367" WIDTH="606" HEIGHT="48" BASELINE="130 415 736 415">
+            <Shape>
+              <Polygon POINTS="130 367 130 415 736 415 736 367"/>
+            </Shape>
+            <String CONTENT="الجنس او العنصر يشتهر وينتظم بما له من الصفات التشريحية المعروفة فيه فكذلك" HPOS="130" VPOS="367" WIDTH="606" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="382" WIDTH="593" HEIGHT="70" BASELINE="137 452 730 452">
+            <Shape>
+              <Polygon POINTS="137 382 137 452 730 452 730 382"/>
+            </Shape>
+            <String CONTENT="تعرف الامة بجماع الاخلاق النفسية والمظاهر الاجتماعية وما سر تقدم امة الا ات" HPOS="137" VPOS="382" WIDTH="593" HEIGHT="70"/>
+          </TextLine>
+          <TextLine HPOS="137" VPOS="808" WIDTH="595" HEIGHT="48" BASELINE="137 856 732 856">
+            <Shape>
+              <Polygon POINTS="137 808 137 856 732 856 732 808"/>
+            </Shape>
+            <String CONTENT="ايطاليا وهما الامتان اللتان نالت كل منهما وحدتها في زمن متقارب فانه راي ان الناس" HPOS="137" VPOS="808" WIDTH="595" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="843" WIDTH="603" HEIGHT="51" BASELINE="122 894 725 894">
+            <Shape>
+              <Polygon POINTS="122 843 122 894 725 894 725 843"/>
+            </Shape>
+            <String CONTENT="يبالغون بما بلغته المانيا في سلم الارتقاء الاقتصادي وانها تفوق ايطاليا بمراحل في هذا" HPOS="122" VPOS="843" WIDTH="603" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="884" WIDTH="606" HEIGHT="49" BASELINE="122 933 728 933">
+            <Shape>
+              <Polygon POINTS="122 884 122 933 728 933 728 884"/>
+            </Shape>
+            <String CONTENT="السبيل فقال ان في المانيا ٥٧ مليون ساكن وثروتها نحو ١٥٠ مليارا من الفرنكات اما" HPOS="122" VPOS="884" WIDTH="606" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="127" VPOS="921" WIDTH="601" HEIGHT="48" BASELINE="127 969 728 969">
+            <Shape>
+              <Polygon POINTS="127 921 127 969 728 969 728 921"/>
+            </Shape>
+            <String CONTENT="ايطاليا فثروتها ٦٥ مليارا وسكانها ٣٢ مليونا فمعدل ثروة الفرد في المانيا ٢٦٢٢ فرنكا" HPOS="127" VPOS="921" WIDTH="601" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="128" VPOS="957" WIDTH="597" HEIGHT="58" BASELINE="128 1015 725 1015">
+            <Shape>
+              <Polygon POINTS="128 957 128 1015 725 1015 725 957"/>
+            </Shape>
+            <String CONTENT="وفي ايطاليا ٢٠٠٣ فرنكات اما من حيث عظمة ايطاليا في الامور العلمية فان كل من" HPOS="128" VPOS="957" WIDTH="597" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="432" VPOS="1046" WIDTH="297" HEIGHT="54" BASELINE="432 1100 729 1100">
+            <Shape>
+              <Polygon POINTS="432 1046 432 1100 729 1100 729 1046"/>
+            </Shape>
+            <String CONTENT="في المسير نحو دور جديد من العظمة والمجد" HPOS="432" VPOS="1046" WIDTH="297" HEIGHT="54"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

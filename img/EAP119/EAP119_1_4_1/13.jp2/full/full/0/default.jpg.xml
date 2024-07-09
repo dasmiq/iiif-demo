@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/13.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="768" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="768" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="126" VPOS="349" WIDTH="580" HEIGHT="58" BASELINE="126 407 706 407">
+            <Shape>
+              <Polygon POINTS="126 349 126 407 706 407 706 349"/>
+            </Shape>
+            <String CONTENT="تحضر جنازته الدار ويصلي عليه بالشمع والبخور علي زي النصاري الكامل ففعل" HPOS="126" VPOS="349" WIDTH="580" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="123" VPOS="747" WIDTH="543" HEIGHT="58" BASELINE="123 805 666 805">
+            <Shape>
+              <Polygon POINTS="123 747 123 805 666 805 666 747"/>
+            </Shape>
+            <String CONTENT="وخدم يوحنا بن ماسويه بصناعة الطب المامون والمعتصم والواثق والمتوكل وكان" HPOS="123" VPOS="747" WIDTH="543" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="126" VPOS="840" WIDTH="582" HEIGHT="50" BASELINE="126 890 708 890">
+            <Shape>
+              <Polygon POINTS="126 840 126 890 708 890 708 840"/>
+            </Shape>
+            <String CONTENT="علي مخدوميهم وكان ميخاييل بن ماسويه متطبب المامون وكان به معجبا وله علي" HPOS="126" VPOS="840" WIDTH="582" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="128" VPOS="882" WIDTH="577" HEIGHT="53" BASELINE="128 935 705 935">
+            <Shape>
+              <Polygon POINTS="128 882 128 935 705 935 705 882"/>
+            </Shape>
+            <String CONTENT="جبراييل بن بختيشوع مقدما حتي كان يدعوه بالكنية اكثر مما يدعوه بالاسم وكان" HPOS="128" VPOS="882" WIDTH="577" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="125" VPOS="929" WIDTH="585" HEIGHT="51" BASELINE="125 980 710 980">
+            <Shape>
+              <Polygon POINTS="125 929 125 980 710 980 710 929"/>
+            </Shape>
+            <String CONTENT="لا يشر الادوية الا مما تولي تركيبه واصلاحه له وبلغ حنين بن اسحاق عند" HPOS="125" VPOS="929" WIDTH="585" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="132" VPOS="970" WIDTH="582" HEIGHT="54" BASELINE="132 1024 714 1024">
+            <Shape>
+              <Polygon POINTS="132 970 132 1024 714 1024 714 970"/>
+            </Shape>
+            <String CONTENT="المامون منزلة عالية لانه كان رييس جماعة التراجمة لعهده وكانت له الاقطاعات" HPOS="132" VPOS="970" WIDTH="582" HEIGHT="54"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/7.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="756" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="756" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="92" VPOS="330" WIDTH="617" HEIGHT="69" BASELINE="92 399 709 399">
+            <Shape>
+              <Polygon POINTS="92 330 92 399 709 399 709 330"/>
+            </Shape>
+            <String CONTENT="فما اثر ذلك عنده شييا لكنه كان خايفا لان يسعي رشيد الدولة في قتله فامنه الله تعالي" HPOS="92" VPOS="330" WIDTH="617" HEIGHT="69"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="388" WIDTH="612" HEIGHT="56" BASELINE="93 444 705 444">
+            <Shape>
+              <Polygon POINTS="93 388 93 444 705 444 705 388"/>
+            </Shape>
+            <String CONTENT="منه قال الاربلي واخبرني التاجر الشفار قال ولما تطاولت علة الشيخ قطب الدين" HPOS="93" VPOS="388" WIDTH="612" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="88" VPOS="435" WIDTH="619" HEIGHT="56" BASELINE="88 491 707 491">
+            <Shape>
+              <Polygon POINTS="88 435 88 491 707 491 707 435"/>
+            </Shape>
+            <String CONTENT="الشيرازي واحس بالموت طلب اليه الصدر زين الدين علي بن فخر الدين بن عبد السلام" HPOS="88" VPOS="435" WIDTH="619" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="481" WIDTH="607" HEIGHT="58" BASELINE="92 539 699 539">
+            <Shape>
+              <Polygon POINTS="92 481 92 539 699 539 699 481"/>
+            </Shape>
+            <String CONTENT="الطيبي وقال له يا خواجه زين الدين اريد من انعامك ان تتولي امر تجهيزي ودفني فاني" HPOS="92" VPOS="481" WIDTH="607" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="523" WIDTH="615" HEIGHT="57" BASELINE="95 580 710 580">
+            <Shape>
+              <Polygon POINTS="95 523 95 580 710 580 710 523"/>
+            </Shape>
+            <String CONTENT="ما رايت ان اضع هذه المكرمة الا عندك لاني شاهدت رغبتك في فعل الخيرات والمبرات" HPOS="95" VPOS="523" WIDTH="615" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="97" VPOS="570" WIDTH="613" HEIGHT="59" BASELINE="97 629 710 629">
+            <Shape>
+              <Polygon POINTS="97 570 97 629 710 629 710 570"/>
+            </Shape>
+            <String CONTENT="فاجاب زين الدين بالسمع والطاعة قال ولما توفي قطب الدين انفق زين الدين علي" HPOS="97" VPOS="570" WIDTH="613" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="615" WIDTH="603" HEIGHT="53" BASELINE="102 668 705 668">
+            <Shape>
+              <Polygon POINTS="102 615 102 668 705 668 705 615"/>
+            </Shape>
+            <String CONTENT="جنازته وتجهيزه ودفنه وايام العزاء سبعة الاف درهم ومايتي درهم ومن ذلك انه اشتري" HPOS="102" VPOS="615" WIDTH="603" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="655" WIDTH="617" HEIGHT="62" BASELINE="90 717 707 717">
+            <Shape>
+              <Polygon POINTS="90 655 90 717 707 717 707 655"/>
+            </Shape>
+            <String CONTENT="سبعة الاف ذراع قماش قطن ابيض وفصلها قمصانا وعمايم للايتام والارامل والبسها" HPOS="90" VPOS="655" WIDTH="617" HEIGHT="62"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="739" WIDTH="615" HEIGHT="68" BASELINE="96 807 711 807">
+            <Shape>
+              <Polygon POINTS="96 739 96 807 711 807 711 739"/>
+            </Shape>
+            <String CONTENT="فكانوا بين يدي الجنازة يبكون ويندبون وجلس مدة ايام العزاء للناس والتزم اطعامهم" HPOS="96" VPOS="739" WIDTH="615" HEIGHT="68"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="779" WIDTH="610" HEIGHT="73" BASELINE="105 852 715 852">
+            <Shape>
+              <Polygon POINTS="105 779 105 852 715 852 715 779"/>
+            </Shape>
+            <String CONTENT="ومهامهم وما هو من كلف العزاء لمثل هذا الميت قال الصدر شمس الدين وما رايت" HPOS="105" VPOS="779" WIDTH="610" HEIGHT="73"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="842" WIDTH="612" HEIGHT="53" BASELINE="102 895 714 895">
+            <Shape>
+              <Polygon POINTS="102 842 102 895 714 895 714 842"/>
+            </Shape>
+            <String CONTENT="احدا من الروساء اطول من نفس قطب الدين الشيرازي في الشفاعات لذوي الحاجات" HPOS="102" VPOS="842" WIDTH="612" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="101" VPOS="887" WIDTH="613" HEIGHT="57" BASELINE="101 944 714 944">
+            <Shape>
+              <Polygon POINTS="101 887 101 944 714 944 714 887"/>
+            </Shape>
+            <String CONTENT="وذوي السلطان كان اذا جلس الي امير او وزير او قاض يخرج اوراقا من جيبه نحو" HPOS="101" VPOS="887" WIDTH="613" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="926" WIDTH="610" HEIGHT="63" BASELINE="102 989 712 989">
+            <Shape>
+              <Polygon POINTS="102 926 102 989 712 989 712 926"/>
+            </Shape>
+            <String CONTENT="عشرين او ثلاثين قطعة ويشفع في الجميع وكان غالبتها يقضي وما يرد الا القليل وكان" HPOS="102" VPOS="926" WIDTH="610" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="103" VPOS="973" WIDTH="601" HEIGHT="57" BASELINE="103 1030 704 1030">
+            <Shape>
+              <Polygon POINTS="103 973 103 1030 704 1030 704 973"/>
+            </Shape>
+            <String CONTENT="كثيرا ما يشاهد من الامراء والاكابر مللا من كثرة شفاعاته فلا يلتفت الي ذلك" HPOS="103" VPOS="973" WIDTH="601" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="97" VPOS="1022" WIDTH="615" HEIGHT="55" BASELINE="97 1077 712 1077">
+            <Shape>
+              <Polygon POINTS="97 1022 97 1077 712 1077 712 1022"/>
+            </Shape>
+            <String CONTENT="الممل ولا يترك تردده اليهم ويقول ولاي شيء خلقوا وخلقنا وما نفعنا بالجاه اذا لم" HPOS="97" VPOS="1022" WIDTH="615" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="115" VPOS="1053" WIDTH="600" HEIGHT="78" BASELINE="115 1131 715 1131">
+            <Shape>
+              <Polygon POINTS="115 1053 115 1131 715 1131 715 1053"/>
+            </Shape>
+            <String CONTENT="نقض حاجات الناس اذا تركنا هولاء وسجاياهم لا يقضون حاجة المسكين او عاج" HPOS="115" VPOS="1053" WIDTH="600" HEIGHT="78"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

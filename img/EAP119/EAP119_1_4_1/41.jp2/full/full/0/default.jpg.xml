@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/41.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="791" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="791" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="103" VPOS="89" WIDTH="578" HEIGHT="58" BASELINE="103 147 681 147">
+            <Shape>
+              <Polygon POINTS="103 89 103 147 681 147 681 89"/>
+            </Shape>
+            <String CONTENT="طبقات الشافعية الكبري   اهدانا مصطفي افندي فهمي الكتبي نسخة" HPOS="103" VPOS="89" WIDTH="578" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="112" VPOS="135" WIDTH="620" HEIGHT="67" BASELINE="112 202 732 202">
+            <Shape>
+              <Polygon POINTS="112 135 112 202 732 202 732 135"/>
+            </Shape>
+            <String CONTENT="من هذه الطبقات لمولفها شيخ الاسلام تاج الدين بن تقي الدين السبكي" HPOS="112" VPOS="135" WIDTH="620" HEIGHT="67"/>
+          </TextLine>
+          <TextLine HPOS="110" VPOS="196" WIDTH="630" HEIGHT="56" BASELINE="110 252 740 252">
+            <Shape>
+              <Polygon POINTS="110 196 110 252 740 252 740 196"/>
+            </Shape>
+            <String CONTENT="المطبوعة في مصر علي نفقة مولاي احمد بن عبد الكريم القادري الحسني" HPOS="110" VPOS="196" WIDTH="630" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="102" VPOS="247" WIDTH="634" HEIGHT="53" BASELINE="102 300 736 300">
+            <Shape>
+              <Polygon POINTS="102 247 102 300 736 300 736 247"/>
+            </Shape>
+            <String CONTENT="الفاسي فجاءت في ستة مجلدات حوت من الفوايد التاريخية والاجتماعية" HPOS="102" VPOS="247" WIDTH="634" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="107" VPOS="298" WIDTH="628" HEIGHT="53" BASELINE="107 351 735 351">
+            <Shape>
+              <Polygon POINTS="107 298 107 351 735 351 735 298"/>
+            </Shape>
+            <String CONTENT="والادبية والمذهبية والخلافية والمناظرات والمطارحات والفكاهات" HPOS="107" VPOS="298" WIDTH="628" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="350" WIDTH="628" HEIGHT="51" BASELINE="105 401 733 401">
+            <Shape>
+              <Polygon POINTS="105 350 105 401 733 401 733 350"/>
+            </Shape>
+            <String CONTENT="والحكايات ما لا يسع المتعلم جهله فضلا عن المشتغلين بفقه الشافعي لان" HPOS="105" VPOS="350" WIDTH="628" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="219" VPOS="401" WIDTH="513" HEIGHT="52" BASELINE="219 453 732 453">
+            <Shape>
+              <Polygon POINTS="219 401 219 453 732 453 732 401"/>
+            </Shape>
+            <String CONTENT="الوقوف علي سير ارباب هذا المذهب مما لا غنية لطالب عنه" HPOS="219" VPOS="401" WIDTH="513" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="503" WIDTH="630" HEIGHT="57" BASELINE="99 560 729 560">
+            <Shape>
+              <Polygon POINTS="99 503 99 560 729 560 729 503"/>
+            </Shape>
+            <String CONTENT="من كتابه لا تخلو من مغامز وفوايد جاءت عرضا ولابد ان تقع فيما ينقله" HPOS="99" VPOS="503" WIDTH="630" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="554" WIDTH="634" HEIGHT="57" BASELINE="100 611 734 611">
+            <Shape>
+              <Polygon POINTS="100 554 100 611 734 611 734 554"/>
+            </Shape>
+            <String CONTENT="المكثار ويرويه علي طرفة تستطرفها وفايدة تقتطفها ولذلك قالوا المكثار" HPOS="100" VPOS="554" WIDTH="634" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="106" VPOS="606" WIDTH="608" HEIGHT="57" BASELINE="106 663 714 663">
+            <Shape>
+              <Polygon POINTS="106 606 106 663 714 663 714 606"/>
+            </Shape>
+            <String CONTENT="كحاطب ليل ويجمع بين الجيد والرديء ولا ذنب في ذلك علي التاج السبكي" HPOS="106" VPOS="606" WIDTH="608" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="659" WIDTH="626" HEIGHT="50" BASELINE="105 709 731 709">
+            <Shape>
+              <Polygon POINTS="105 659 105 709 731 709 731 659"/>
+            </Shape>
+            <String CONTENT="بل الذنب في الاكثر علي عصره فقد كان عصر المشاغبات والمماحكات" HPOS="105" VPOS="659" WIDTH="626" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="763" WIDTH="579" HEIGHT="57" BASELINE="99 820 678 820">
+            <Shape>
+              <Polygon POINTS="99 763 99 820 678 820 678 763"/>
+            </Shape>
+            <String CONTENT="قسم المولف كتابه الي طبقات سبع الاولي طبقة من جالسوا الامام" HPOS="99" VPOS="763" WIDTH="579" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="99" VPOS="812" WIDTH="631" HEIGHT="59" BASELINE="99 871 730 871">
+            <Shape>
+              <Polygon POINTS="99 812 99 871 730 871 730 812"/>
+            </Shape>
+            <String CONTENT="الشافعي وعددهم نحو اربعين فقيها والثانية وهي فيمن توفي بعد ال مايتين يللهجرة" HPOS="99" VPOS="812" WIDTH="631" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="915" WIDTH="633" HEIGHT="51" BASELINE="95 966 728 966">
+            <Shape>
+              <Polygon POINTS="95 915 95 966 728 966 728 915"/>
+            </Shape>
+            <String CONTENT="والطبقة الثالثة فيمن توفي بين الثلثماية وال اربعماية وعددها نحو ١٧٠ مترجما" HPOS="95" VPOS="915" WIDTH="633" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="1000" WIDTH="628" HEIGHT="63" BASELINE="100 1063 728 1063">
+            <Shape>
+              <Polygon POINTS="100 1000 100 1063 728 1063 728 1000"/>
+            </Shape>
+            <String CONTENT="والطبقة الخامسة من مات بعد ال خمسماية وعددها نحو ٤٧٠ فقيها والطبقة" HPOS="100" VPOS="1000" WIDTH="628" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="1061" WIDTH="633" HEIGHT="57" BASELINE="96 1118 729 1118">
+            <Shape>
+              <Polygon POINTS="96 1061 96 1118 729 1118 729 1061"/>
+            </Shape>
+            <String CONTENT="السادسة فيمن توفي بين الستماية وال سبعماية وهي قرابة ٢٥٠ فقيها والطبقة" HPOS="96" VPOS="1061" WIDTH="633" HEIGHT="57"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

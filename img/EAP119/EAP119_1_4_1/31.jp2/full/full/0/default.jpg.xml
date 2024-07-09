@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/31.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="776" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="776" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="317" VPOS="199" WIDTH="214" HEIGHT="58" BASELINE="317 257 531 257">
+            <Shape>
+              <Polygon POINTS="317 199 317 257 531 257 531 199"/>
+            </Shape>
+            <String CONTENT="بجبال السمك المستحجر" HPOS="317" VPOS="199" WIDTH="214" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="319" VPOS="336" WIDTH="207" HEIGHT="59" BASELINE="319 395 526 395">
+            <Shape>
+              <Polygon POINTS="319 336 319 395 526 395 526 336"/>
+            </Shape>
+            <String CONTENT="ثرا من حيوان الابحر" HPOS="319" VPOS="336" WIDTH="207" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="183" VPOS="530" WIDTH="486" HEIGHT="46" BASELINE="183 576 669 576">
+            <Shape>
+              <Polygon POINTS="183 530 183 576 669 576 669 530"/>
+            </Shape>
+            <String CONTENT="في صعيد الابحر المنغمس مثل ما يوجد فوق اليبس" HPOS="183" VPOS="530" WIDTH="486" HEIGHT="46"/>
+          </TextLine>
+          <TextLine HPOS="317" VPOS="760" WIDTH="211" HEIGHT="44" BASELINE="317 804 528 804">
+            <Shape>
+              <Polygon POINTS="317 760 317 804 528 804 528 760"/>
+            </Shape>
+            <String CONTENT="ذات جرم ذايب مستعر" HPOS="317" VPOS="760" WIDTH="211" HEIGHT="44"/>
+          </TextLine>
+          <TextLine HPOS="169" VPOS="840" WIDTH="500" HEIGHT="56" BASELINE="169 896 669 896">
+            <Shape>
+              <Polygon POINTS="169 840 169 896 669 896 669 840"/>
+            </Shape>
+            <String CONTENT="وكذاك الارض في ماضي الزمان كرويا قد غدا ملتيما" HPOS="169" VPOS="840" WIDTH="500" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="315" VPOS="1030" WIDTH="212" HEIGHT="60" BASELINE="315 1090 527 1090">
+            <Shape>
+              <Polygon POINTS="315 1030 315 1090 527 1090 527 1030"/>
+            </Shape>
+            <String CONTENT="فهي بنت الشمس ام القمر" HPOS="315" VPOS="1030" WIDTH="212" HEIGHT="60"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/1.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="776" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="776" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="367" VPOS="426" WIDTH="124" HEIGHT="48" BASELINE="367 474 491 474">
+            <Shape>
+              <Polygon POINTS="367 426 367 474 491 474 491 426"/>
+            </Shape>
+            <String CONTENT="سم الله الرحمن الرحيم" HPOS="367" VPOS="426" WIDTH="124" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="142" VPOS="501" WIDTH="580" HEIGHT="59" BASELINE="142 560 722 560">
+            <Shape>
+              <Polygon POINTS="142 501 142 560 722 560 722 501"/>
+            </Shape>
+            <String CONTENT="افضل ما صدر عن كرمك الجزيل وفضلك العميم ونستهديك لسانا لا" HPOS="142" VPOS="501" WIDTH="580" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="142" VPOS="646" WIDTH="582" HEIGHT="57" BASELINE="142 703 724 703">
+            <Shape>
+              <Polygon POINTS="142 646 142 703 724 703 724 646"/>
+            </Shape>
+            <String CONTENT="الناقع بترياق التعليم النافع والادب الرافع وحبب الينا التواصي بالحق وا" HPOS="142" VPOS="646" WIDTH="582" HEIGHT="57"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

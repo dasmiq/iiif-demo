@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/42.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="793" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="793" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="100" VPOS="101" WIDTH="608" HEIGHT="53" BASELINE="100 154 708 154">
+            <Shape>
+              <Polygon POINTS="100 101 100 154 708 154 708 101"/>
+            </Shape>
+            <String CONTENT="السابعة فيمن توفي بعد ال سبعماية وتبلغ نحو ١٣٥ فقيها وقد ساق المولف" HPOS="100" VPOS="101" WIDTH="608" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="84" VPOS="147" WIDTH="625" HEIGHT="59" BASELINE="84 206 709 206">
+            <Shape>
+              <Polygon POINTS="84 147 84 206 709 206 709 147"/>
+            </Shape>
+            <String CONTENT="اسماءهم كلها علي حروف المعجم واكثر من الكلام علي من ارتضاهم وربما" HPOS="84" VPOS="147" WIDTH="625" HEIGHT="59"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="204" WIDTH="619" HEIGHT="54" BASELINE="91 258 710 258">
+            <Shape>
+              <Polygon POINTS="91 204 91 258 710 258 710 204"/>
+            </Shape>
+            <String CONTENT="ادخل في غمار الفقهاء من ليس منهم كما يفعل بعض مولفي الطبقات في" HPOS="91" VPOS="204" WIDTH="619" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="105" VPOS="288" WIDTH="564" HEIGHT="71" BASELINE="105 359 669 359">
+            <Shape>
+              <Polygon POINTS="105 288 105 359 669 359 669 288"/>
+            </Shape>
+            <String CONTENT="وقد اورد التاج طرفا كبيرا من الكوارث والفتن التي حدثت في بعض" HPOS="105" VPOS="288" WIDTH="564" HEIGHT="71"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="341" WIDTH="619" HEIGHT="64" BASELINE="90 405 709 405">
+            <Shape>
+              <Polygon POINTS="90 341 90 405 709 405 709 341"/>
+            </Shape>
+            <String CONTENT="تلك الادوار واستطرد اليها لادني مناسبة واكثر ما شاء وشاءت قريحته فلم" HPOS="90" VPOS="341" WIDTH="619" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="399" WIDTH="603" HEIGHT="57" BASELINE="95 456 698 456">
+            <Shape>
+              <Polygon POINTS="95 399 95 456 698 456 698 399"/>
+            </Shape>
+            <String CONTENT="يكن منها غير تكبير حجم الكتاب علي غير طايل وطبقات الرجال لا دخل" HPOS="95" VPOS="399" WIDTH="603" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="496" WIDTH="618" HEIGHT="63" BASELINE="90 559 708 559">
+            <Shape>
+              <Polygon POINTS="90 496 90 559 708 559 708 496"/>
+            </Shape>
+            <String CONTENT="المناظرات التي ذكرها المصنف وهي مما وقع بين بعض الفقهاء المترجمين" HPOS="90" VPOS="496" WIDTH="618" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="560" WIDTH="612" HEIGHT="49" BASELINE="93 609 705 609">
+            <Shape>
+              <Polygon POINTS="93 560 93 609 705 609 705 560"/>
+            </Shape>
+            <String CONTENT="وبين غيرهم ممن ليسوا علي مذهبهم يتضح له ما كان ثمة من تعصب بين" HPOS="93" VPOS="560" WIDTH="612" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="659" WIDTH="578" HEIGHT="51" BASELINE="91 710 669 710">
+            <Shape>
+              <Polygon POINTS="91 659 91 710 669 710 669 659"/>
+            </Shape>
+            <String CONTENT="وانا لم نر عبارة لوصف هذه الطبقات اجمل من التي كتب بها الينا احد" HPOS="91" VPOS="659" WIDTH="578" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="706" WIDTH="600" HEIGHT="52" BASELINE="92 758 692 758">
+            <Shape>
+              <Polygon POINTS="92 706 92 758 692 758 692 706"/>
+            </Shape>
+            <String CONTENT="كبار شيوخ العلم في الشام عندما صدر الجزء الاول منها قال قد سررت بط" HPOS="92" VPOS="706" WIDTH="600" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="859" WIDTH="610" HEIGHT="49" BASELINE="92 908 702 908">
+            <Shape>
+              <Polygon POINTS="92 859 92 908 702 908 702 859"/>
+            </Shape>
+            <String CONTENT="والمتعصبين وجعل من المفرطين فيه شيخه الحافظ الذهبي فزعم انه افرط" HPOS="92" VPOS="859" WIDTH="610" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="904" WIDTH="606" HEIGHT="53" BASELINE="93 957 699 957">
+            <Shape>
+              <Polygon POINTS="93 904 93 957 699 957 699 904"/>
+            </Shape>
+            <String CONTENT="علي الاشاعرة ومدح فزاد في المجسمة يريد بالمجسمة الحنابلة وعلماء الحديث" HPOS="93" VPOS="904" WIDTH="606" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="98" VPOS="948" WIDTH="603" HEIGHT="53" BASELINE="98 1001 701 1001">
+            <Shape>
+              <Polygon POINTS="98 948 98 1001 701 1001 701 948"/>
+            </Shape>
+            <String CONTENT="وهي عبارة تدل علي فرط السخافة فان كان الذهبي متعصبا فتعصبه نشا عن" HPOS="98" VPOS="948" WIDTH="603" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="985" WIDTH="602" HEIGHT="71" BASELINE="93 1056 695 1056">
+            <Shape>
+              <Polygon POINTS="93 985 93 1056 695 1056 695 985"/>
+            </Shape>
+            <String CONTENT="خطاء في الاجتهاد وتعصب التاج عن عناد ولجاج غير ان الزمان سيسقط" HPOS="93" VPOS="985" WIDTH="602" HEIGHT="71"/>
+          </TextLine>
+          <TextLine HPOS="106" VPOS="1050" WIDTH="593" HEIGHT="60" BASELINE="106 1110 699 1110">
+            <Shape>
+              <Polygon POINTS="106 1050 106 1110 699 1110 699 1050"/>
+            </Shape>
+            <String CONTENT="كل مموه ايا كان فينتفع بكتابه بمثل ذكر ما للمولف من مولف ونحو ذلك" HPOS="106" VPOS="1050" WIDTH="593" HEIGHT="60"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

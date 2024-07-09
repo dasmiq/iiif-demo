@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/16.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="759" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="759" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="72" VPOS="176" WIDTH="560" HEIGHT="52" BASELINE="72 228 632 228">
+            <Shape>
+              <Polygon POINTS="72 176 72 228 632 228 632 176"/>
+            </Shape>
+            <String CONTENT="راينا النعامة مرسومة في مصانع الفراعنة والحبشان اخذين بزمامها وقد لزت في" HPOS="72" VPOS="176" WIDTH="560" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="76" VPOS="224" WIDTH="599" HEIGHT="49" BASELINE="76 273 675 273">
+            <Shape>
+              <Polygon POINTS="76 224 76 273 675 273 675 224"/>
+            </Shape>
+            <String CONTENT="قرن مع الاسود والفهود وغيرها من حيوانات تلك الارجاء ويروي عنها في اساطير" HPOS="76" VPOS="224" WIDTH="599" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="79" VPOS="317" WIDTH="596" HEIGHT="49" BASELINE="79 366 675 366">
+            <Shape>
+              <Polygon POINTS="79 317 79 366 675 366 675 317"/>
+            </Shape>
+            <String CONTENT="الي الهند علي راس جيشه الجرار مجتازا صحاري ليبيا حتي اذا اشتد به الظما استغاث" HPOS="79" VPOS="317" WIDTH="596" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="71" VPOS="360" WIDTH="602" HEIGHT="51" BASELINE="71 411 673 411">
+            <Shape>
+              <Polygon POINTS="71 360 71 411 673 411 673 360"/>
+            </Shape>
+            <String CONTENT="بالمشتري فدله علي نعامة فتبعها حتي قادته الي مكان حفرت فيه الارض بمنقارها" HPOS="71" VPOS="360" WIDTH="602" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="652" WIDTH="599" HEIGHT="80" BASELINE="83 732 682 732">
+            <Shape>
+              <Polygon POINTS="83 652 83 732 682 732 682 652"/>
+            </Shape>
+            <String CONTENT="القشرة اقداحا واكوابا واذا راوها ضخمة يقسمونها شطرين يكونان قبضتين لرجلين" HPOS="83" VPOS="652" WIDTH="599" HEIGHT="80"/>
+          </TextLine>
+          <TextLine HPOS="78" VPOS="764" WIDTH="558" HEIGHT="58" BASELINE="78 822 636 822">
+            <Shape>
+              <Polygon POINTS="78 764 78 822 636 822 636 764"/>
+            </Shape>
+            <String CONTENT="ومازال بعض السكان في افريقيا الي يومنا هذا يقتاتون من لحم النعامة وشحمها وتومها" HPOS="78" VPOS="764" WIDTH="558" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="813" WIDTH="591" HEIGHT="52" BASELINE="87 865 678 865">
+            <Shape>
+              <Polygon POINTS="87 813 87 865 678 865 678 813"/>
+            </Shape>
+            <String CONTENT="ويبيعون ريشها او يستخدمونه زينة لرووسهم ويستخدم النعام لحمل الاثقال وشاعت عا" HPOS="87" VPOS="813" WIDTH="591" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="984" WIDTH="595" HEIGHT="63" BASELINE="86 1047 681 1047">
+            <Shape>
+              <Polygon POINTS="86 984 86 1047 681 1047 681 984"/>
+            </Shape>
+            <String CONTENT="اتينيه الكاتب اليوناني الذي جاء في القرن الثالث للمسيح انه كان في الاحتفال بظفر" HPOS="86" VPOS="984" WIDTH="595" HEIGHT="63"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

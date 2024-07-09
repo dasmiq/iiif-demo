@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/4.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="773" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="773" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="84" VPOS="209" WIDTH="604" HEIGHT="52" BASELINE="84 261 688 261">
+            <Shape>
+              <Polygon POINTS="84 209 84 261 688 261 688 209"/>
+            </Shape>
+            <String CONTENT="عنده مع تنقيحات لطيفة وزيادات غريبة من نتايج خاطره الغزيرة من كتب عزيزة" HPOS="84" VPOS="209" WIDTH="604" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="254" WIDTH="603" HEIGHT="48" BASELINE="87 302 690 302">
+            <Shape>
+              <Polygon POINTS="87 254 87 302 690 302 690 254"/>
+            </Shape>
+            <String CONTENT="الوجود قد لا يوجد مثلها الا في خزاين الملوك وسماه التحفة السعدية يعني باسم الوزير" HPOS="87" VPOS="254" WIDTH="603" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="301" WIDTH="601" HEIGHT="47" BASELINE="89 348 690 348">
+            <Shape>
+              <Polygon POINTS="89 301 89 348 690 348 690 301"/>
+            </Shape>
+            <String CONTENT="سعد الدين محمد الساوجي وزير الملك غازان وبعده اخيه كذا خربنده واتفق ان" HPOS="89" VPOS="301" WIDTH="601" HEIGHT="47"/>
+          </TextLine>
+          <TextLine HPOS="88" VPOS="344" WIDTH="602" HEIGHT="50" BASELINE="88 394 690 394">
+            <Shape>
+              <Polygon POINTS="88 344 88 394 690 394 690 344"/>
+            </Shape>
+            <String CONTENT="هذا الكتاب تم شرحه وسيره الي الوزير المذكور وفي اثناء هذه الحال توفي الشيخ" HPOS="88" VPOS="344" WIDTH="602" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="84" VPOS="466" WIDTH="607" HEIGHT="58" BASELINE="84 524 691 524">
+            <Shape>
+              <Polygon POINTS="84 466 84 524 691 524 691 466"/>
+            </Shape>
+            <String CONTENT="منه الي ان قتله ليلة السبت حادي عشر شوال سنة احدي عشرة بمحول قريب بغداد" HPOS="84" VPOS="466" WIDTH="607" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="517" WIDTH="601" HEIGHT="55" BASELINE="86 572 687 572">
+            <Shape>
+              <Polygon POINTS="86 517 86 572 687 572 687 517"/>
+            </Shape>
+            <String CONTENT="ومع ما كان فيه هذا الوزير من المضايقة رسم لقطب الدين جايزة هذا الشرح مبلغ" HPOS="86" VPOS="517" WIDTH="601" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="656" WIDTH="605" HEIGHT="50" BASELINE="83 706 688 706">
+            <Shape>
+              <Polygon POINTS="83 656 83 706 688 706 688 656"/>
+            </Shape>
+            <String CONTENT="لمثله وفي مثل كتابه فاحضر جميع المال المذكور وجمع له ارباب الديون فقضي عنه" HPOS="83" VPOS="656" WIDTH="605" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="86" VPOS="701" WIDTH="602" HEIGHT="48" BASELINE="86 749 688 749">
+            <Shape>
+              <Polygon POINTS="86 701 86 749 688 749 688 701"/>
+            </Shape>
+            <String CONTENT="ما كان عليه من الديون القديمة والحديثة التي كانت قد اجتمعت عليه مدة المرض وكان قد" HPOS="86" VPOS="701" WIDTH="602" HEIGHT="48"/>
+          </TextLine>
+          <TextLine HPOS="85" VPOS="836" WIDTH="600" HEIGHT="44" BASELINE="85 880 685 880">
+            <Shape>
+              <Polygon POINTS="85 836 85 880 685 880 685 836"/>
+            </Shape>
+            <String CONTENT="بهذه الجايزة وهو يوميذ تحت التوكيل وهو مطالب بالف كومار من المال منها عشرة" HPOS="85" VPOS="836" WIDTH="600" HEIGHT="44"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="920" WIDTH="553" HEIGHT="55" BASELINE="91 975 644 975">
+            <Shape>
+              <Polygon POINTS="91 920 91 975 644 975 644 920"/>
+            </Shape>
+            <String CONTENT="وكان له مع المشايخ الصالحين والصوفية المحققين اتصال حقيقي ونفس روحاني يرتاح" HPOS="91" VPOS="920" WIDTH="553" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="83" VPOS="968" WIDTH="602" HEIGHT="48" BASELINE="83 1016 685 1016">
+            <Shape>
+              <Polygon POINTS="83 968 83 1016 685 1016 685 968"/>
+            </Shape>
+            <String CONTENT="اليهم في اوقات خلواته وصفاء مشروباته قال وقد لازمت ذراه المحروس ثماني عشرة" HPOS="83" VPOS="968" WIDTH="602" HEIGHT="48"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/34.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="817" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="817" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="95" VPOS="113" WIDTH="601" HEIGHT="46" BASELINE="95 159 696 159">
+            <Shape>
+              <Polygon POINTS="95 113 95 159 696 159 696 113"/>
+            </Shape>
+            <String CONTENT="ق واحد مزوجة كانت ام عازبة لا تتخلل حياتها سلوي ادبية وان كانت من الغنيات" HPOS="95" VPOS="113" WIDTH="601" HEIGHT="46"/>
+          </TextLine>
+          <TextLine HPOS="101" VPOS="212" WIDTH="615" HEIGHT="44" BASELINE="101 256 716 256">
+            <Shape>
+              <Polygon POINTS="101 212 101 256 716 256 716 212"/>
+            </Shape>
+            <String CONTENT="الفتيات الصينيات يذهبن الي الكليات اليابانية ينجزن فيها دروسهن مع التلاميذ" HPOS="101" VPOS="212" WIDTH="615" HEIGHT="44"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="251" WIDTH="620" HEIGHT="55" BASELINE="96 306 716 306">
+            <Shape>
+              <Polygon POINTS="96 251 96 306 716 306 716 251"/>
+            </Shape>
+            <String CONTENT="الصينيين واصبحت تطبع مجلات خاصة بالنساء وذلك في المدن الصينية الكبري" HPOS="96" VPOS="251" WIDTH="620" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="89" VPOS="381" WIDTH="628" HEIGHT="55" BASELINE="89 436 717 436">
+            <Shape>
+              <Polygon POINTS="89 381 89 436 717 436 717 381"/>
+            </Shape>
+            <String CONTENT="تعصيب الارجل لتكون صغيرة في الكبر فعادت اليوم تلغي هذه العادة البربرية راسا" HPOS="89" VPOS="381" WIDTH="628" HEIGHT="55"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="467" WIDTH="612" HEIGHT="65" BASELINE="100 532 712 532">
+            <Shape>
+              <Polygon POINTS="100 467 100 532 712 532 712 467"/>
+            </Shape>
+            <String CONTENT="يتركوا ارجل بناتهم بدون تصغير ويمنعوا اولادهم من التزوج بزوجات ضغطت ارجلهن" HPOS="100" VPOS="467" WIDTH="612" HEIGHT="65"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="524" WIDTH="619" HEIGHT="52" BASELINE="96 576 715 576">
+            <Shape>
+              <Polygon POINTS="96 524 96 576 715 576 715 524"/>
+            </Shape>
+            <String CONTENT="في صباهن حتي صغرت وهذه النهضة النسايية من الادلة علي انقلاب حالة الصين" HPOS="96" VPOS="524" WIDTH="619" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="98" VPOS="564" WIDTH="617" HEIGHT="54" BASELINE="98 618 715 618">
+            <Shape>
+              <Polygon POINTS="98 564 98 618 715 618 715 564"/>
+            </Shape>
+            <String CONTENT="في الزمن الاخير اذ ما كان يظهر قبل عشر سنين ان تدخل امثال هذه الاصلاحات" HPOS="98" VPOS="564" WIDTH="617" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="693" WIDTH="623" HEIGHT="63" BASELINE="90 756 713 756">
+            <Shape>
+              <Polygon POINTS="90 693 90 756 713 756 713 693"/>
+            </Shape>
+            <String CONTENT="مرشح بينهم بعض الشيوخ فمنذ سنتين انقلبت الحال وابدلت تلك الدروس الخطابية" HPOS="90" VPOS="693" WIDTH="623" HEIGHT="63"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="750" WIDTH="614" HEIGHT="54" BASELINE="93 804 707 804">
+            <Shape>
+              <Polygon POINTS="93 750 93 804 707 804 707 750"/>
+            </Shape>
+            <String CONTENT="علي نصوص كونفوشيوس حكيم الصين والتمارين الصعبة في الانشاء التي كان يكفي" HPOS="93" VPOS="750" WIDTH="614" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="87" VPOS="794" WIDTH="626" HEIGHT="58" BASELINE="87 852 713 852">
+            <Shape>
+              <Polygon POINTS="87 794 87 852 713 852 713 794"/>
+            </Shape>
+            <String CONTENT="للمرء ان ينجح فيها حتي يعين عاملا او مهندسا او قايدا او طبيبا او قاضيا او امير" HPOS="87" VPOS="794" WIDTH="626" HEIGHT="58"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="885" WIDTH="575" HEIGHT="50" BASELINE="92 935 667 935">
+            <Shape>
+              <Polygon POINTS="92 885 92 935 667 935 667 885"/>
+            </Shape>
+            <String CONTENT="وقد وضع الفاحصون في الامتحانات الاخيرة بامر الامبراطورة مسايل لم يعهد" HPOS="92" VPOS="885" WIDTH="575" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="122" VPOS="1065" WIDTH="586" HEIGHT="54" BASELINE="122 1119 708 1119">
+            <Shape>
+              <Polygon POINTS="122 1065 122 1119 708 1119 708 1065"/>
+            </Shape>
+            <String CONTENT="انكلترا لما ادخلت اليها التمدن الغربي فماذا يستنتج الطالب من ذلك للصين" HPOS="122" VPOS="1065" WIDTH="586" HEIGHT="54"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

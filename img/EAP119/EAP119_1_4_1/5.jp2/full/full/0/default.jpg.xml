@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/5.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="764" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="764" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="89" VPOS="128" WIDTH="621" HEIGHT="39" BASELINE="89 167 710 167">
+            <Shape>
+              <Polygon POINTS="89 128 89 167 710 167 710 128"/>
+            </Shape>
+            <String CONTENT="عطايه للفقراء وطلبة العلم وذوي البيوت القديمة وذوي الحاجات قال ولقد حضر عنده" HPOS="89" VPOS="128" WIDTH="621" HEIGHT="39"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="193" WIDTH="622" HEIGHT="64" BASELINE="92 257 714 257">
+            <Shape>
+              <Polygon POINTS="92 193 92 257 714 257 714 193"/>
+            </Shape>
+            <String CONTENT="قد قدم من بغداد لضرورة ديون عليه قد غلبته فقال هذا من بيت له خدمة قديمة" HPOS="92" VPOS="193" WIDTH="622" HEIGHT="64"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="253" WIDTH="619" HEIGHT="52" BASELINE="96 305 715 305">
+            <Shape>
+              <Polygon POINTS="96 253 96 305 715 305 715 253"/>
+            </Shape>
+            <String CONTENT="للخليفة العباسي فبعث اليه بالمبلغ المذكور واعتذر اليه انه لم يكن عنده في هذا الوقت" HPOS="96" VPOS="253" WIDTH="619" HEIGHT="52"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="300" WIDTH="622" HEIGHT="49" BASELINE="91 349 713 349">
+            <Shape>
+              <Polygon POINTS="91 300 91 349 713 349 713 300"/>
+            </Shape>
+            <String CONTENT="غير هذا المقدار قال وكان يقول في مرض موته ليست فايدة المهلة في حياتي الا" HPOS="91" VPOS="300" WIDTH="622" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="95" VPOS="329" WIDTH="619" HEIGHT="68" BASELINE="95 397 714 397">
+            <Shape>
+              <Polygon POINTS="95 329 95 397 714 397 714 329"/>
+            </Shape>
+            <String CONTENT="لاعطي الفقراء شييا فكان مصمما علي العطاء والاحسان وفعل الخير ال ان صار الي" HPOS="95" VPOS="329" WIDTH="619" HEIGHT="68"/>
+          </TextLine>
+          <TextLine HPOS="91" VPOS="391" WIDTH="620" HEIGHT="49" BASELINE="91 440 711 440">
+            <Shape>
+              <Polygon POINTS="91 391 91 440 711 440 711 391"/>
+            </Shape>
+            <String CONTENT="احسن مصير قال وكان في اسفاره يصحبه من التلاميذ جماعات وخصوصا في ايام توجهه" HPOS="91" VPOS="391" WIDTH="620" HEIGHT="49"/>
+          </TextLine>
+          <TextLine HPOS="90" VPOS="437" WIDTH="623" HEIGHT="51" BASELINE="90 488 713 488">
+            <Shape>
+              <Polygon POINTS="90 437 90 488 713 488 713 437"/>
+            </Shape>
+            <String CONTENT="الي خراسان والروم فلقد اجتمع معه في سفره الي الروم نحو ال اربعين طالبا وغالبهم" HPOS="90" VPOS="437" WIDTH="623" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="525" WIDTH="620" HEIGHT="50" BASELINE="93 575 713 575">
+            <Shape>
+              <Polygon POINTS="93 525 93 575 713 575 713 525"/>
+            </Shape>
+            <String CONTENT="وما يفعله معهم من الخدمة والخير ويقولون هذا الرجل متطفل علينا لان الناس انم" HPOS="93" VPOS="525" WIDTH="620" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="96" VPOS="715" WIDTH="575" HEIGHT="51" BASELINE="96 766 671 766">
+            <Shape>
+              <Polygon POINTS="96 715 96 766 671 766 671 715"/>
+            </Shape>
+            <String CONTENT="وقال الاربلي واخبرني الشيخ ضياء الدين الطوسي قال اجتمعت بقطب الدين" HPOS="96" VPOS="715" WIDTH="575" HEIGHT="51"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="755" WIDTH="609" HEIGHT="53" BASELINE="92 808 701 808">
+            <Shape>
+              <Polygon POINTS="92 755 92 808 701 808 701 755"/>
+            </Shape>
+            <String CONTENT="الشيرازي بقزوين وهو يقرا الفقه علي الشيخ علاء الدين الطاووسي صاحب التعليقة" HPOS="92" VPOS="755" WIDTH="609" HEIGHT="53"/>
+          </TextLine>
+          <TextLine HPOS="93" VPOS="788" WIDTH="607" HEIGHT="66" BASELINE="93 854 700 854">
+            <Shape>
+              <Polygon POINTS="93 788 93 854 700 854 700 788"/>
+            </Shape>
+            <String CONTENT="قال فسالته عن بعض احواله فحكة لي اشتغاله بالطلب وانه ترك معالجة الناس وخرج" HPOS="93" VPOS="788" WIDTH="607" HEIGHT="66"/>
+          </TextLine>
+          <TextLine HPOS="97" VPOS="850" WIDTH="612" HEIGHT="50" BASELINE="97 900 709 900">
+            <Shape>
+              <Polygon POINTS="97 850 97 900 709 900 709 850"/>
+            </Shape>
+            <String CONTENT="من شيراز وقصد بلاد خراسان وانه توفر مدة سنين علي تحصيل علم المعقولات من" HPOS="97" VPOS="850" WIDTH="612" HEIGHT="50"/>
+          </TextLine>
+          <TextLine HPOS="100" VPOS="979" WIDTH="610" HEIGHT="56" BASELINE="100 1035 710 1035">
+            <Shape>
+              <Polygon POINTS="100 979 100 1035 710 1035 710 979"/>
+            </Shape>
+            <String CONTENT="لكني غير عالم بالفقه فقصدت الشيخ علاء الدين الطاووسي لاقرا عليه الفقه فقرات" HPOS="100" VPOS="979" WIDTH="610" HEIGHT="56"/>
+          </TextLine>
+          <TextLine HPOS="92" VPOS="1030" WIDTH="615" HEIGHT="48" BASELINE="92 1078 707 1078">
+            <Shape>
+              <Polygon POINTS="92 1030 92 1078 707 1078 707 1030"/>
+            </Shape>
+            <String CONTENT="عليه الحاوي الصغير وكتاب الوجيز وكانت للشيخ علاء الدين نسخة من الوجيز محشاة" HPOS="92" VPOS="1030" WIDTH="615" HEIGHT="48"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

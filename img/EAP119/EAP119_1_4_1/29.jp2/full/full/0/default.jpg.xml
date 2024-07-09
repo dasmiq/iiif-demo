@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>/work/nulab/dasmith/ocr/avhack/img/EAP119/EAP119_1_4_1/29.jp2/full/full/0/default.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="TYPE_1" LABEL="default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="788" HEIGHT="1200" ID="page_0">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="788" HEIGHT="1200">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine HPOS="205" VPOS="394" WIDTH="468" HEIGHT="57" BASELINE="205 451 673 451">
+            <Shape>
+              <Polygon POINTS="205 394 205 451 673 451 673 394"/>
+            </Shape>
+            <String CONTENT="ثم قد صار علي مر الزمان قشره يغلظ انا بعد ان" HPOS="205" VPOS="394" WIDTH="468" HEIGHT="57"/>
+          </TextLine>
+          <TextLine HPOS="332" VPOS="776" WIDTH="208" HEIGHT="47" BASELINE="332 823 540 823">
+            <Shape>
+              <Polygon POINTS="332 776 332 823 540 823 540 776"/>
+            </Shape>
+            <String CONTENT="وهو صلب الجسم صعب المكسر" HPOS="332" VPOS="776" WIDTH="208" HEIGHT="47"/>
+          </TextLine>
+          <TextLine HPOS="198" VPOS="960" WIDTH="477" HEIGHT="54" BASELINE="198 1014 675 1014">
+            <Shape>
+              <Polygon POINTS="198 960 198 1014 675 1014 675 960"/>
+            </Shape>
+            <String CONTENT="عمها السيل فغطي حين سال سطحها مجترفا منها الرمال" HPOS="198" VPOS="960" WIDTH="477" HEIGHT="54"/>
+          </TextLine>
+          <TextLine HPOS="335" VPOS="1056" WIDTH="210" HEIGHT="54" BASELINE="335 1110 545 1110">
+            <Shape>
+              <Polygon POINTS="335 1056 335 1110 545 1110 545 1056"/>
+            </Shape>
+            <String CONTENT="وعلت كالسفن فوق الابحر" HPOS="335" VPOS="1056" WIDTH="210" HEIGHT="54"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
